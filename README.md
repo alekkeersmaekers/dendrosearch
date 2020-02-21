@@ -4,6 +4,8 @@ A query tool for Ancient Greek Treebanks. Instructions can be found in the user 
 * The [Gorman Trees](https://github.com/perseids-publications/gorman-trees), created by Vanessa Gorman.
 * The [Harrington Trees](https://github.com/perseids-project/harrington_trees), managed by J. M. Harrington.
 * [Aphthonius' Progymnasmata](https://github.com/polinayordanova/Treebank-of-Aphtonius-Progymnasmata), created by Polina Yordanova.
+* The [Sematia Treebanks] (https://github.com/ezhenrik/sematia), managed by Marja Vierros and Erik Henriksson.
+* The [Pedalion Treebanks] (https://github.com/perseids-publications/pedalion-trees/), managed by Toon Van Hal and Alek Keersmaekers.
 
 Any other treebanks (using the AGDT annotation format) can be included by adding them to the xml folder and describing them in the "metadata.xml" file.
 
