@@ -1,0 +1,113 @@
+<treebanks>
+<treebank filename="4100_001_Yordanova.xml" source="Yordanova" author="Aphthonius" title="Progymnasmata" period_min="4" period_max="5" genre="Rhetoric" gender="male" place="Antioch"/>
+<treebank filename="0041_001_Leuven.xml" source="Leuven" author="Unknown" title="Chion's Letters" period_min="1" period_max="1" genre="Epistolography" gender="unknown" place="unknown"/>
+<treebank filename="0096_002_Leuven.xml" source="Leuven" author="Pseudo-Aesop" title="Fables" period_min="1" period_max="1" genre="Narrative" gender="male" place="unknown"/>
+<treebank filename="0019_008_Leuven.xml" source="Leuven" author="Aristophanes" title="Thesmophoriazusae" period_min="-5" period_max="-5" genre="Comedy" gender="male" place="Athens"/>
+<treebank filename="0006_003_Leuven.xml" source="Leuven" author="Euripides" title="Medea" period_min="-5" period_max="-5" genre="Tragedy" gender="male" place="Athens"/>
+<treebank filename="0527_001_Leuven.xml" source="Leuven" author="Unknown" title="Genesis" period_min="-3" period_max="-3" genre="Religion" gender="unknown" place="unknown"/>
+<treebank filename="0627_013_Leuven.xml" source="Leuven" author="Pseudo-Hippocrates" title="Hippocratic Oath" period_min="-5" period_max="-4" genre="Medicine" gender="unknown" place="unknown"/>
+<treebank filename="0010_030_Leuven.xml" source="Leuven" author="Isocrates" title="To Philip 2" period_min="-5" period_max="-4" genre="Epistolography" gender="male" place="Athens"/>
+<treebank filename="0561_001_Leuven.xml" source="Leuven" author="Longus" title="Daphnis and Chloe" period_min="2" period_max="2" genre="Narrative" gender="male" place="Lesbos"/>
+<treebank filename="0062_014_Leuven.xml" source="Leuven" author="Lucian" title="The Consonants at Law" period_min="2" period_max="2" genre="Oratory" gender="male" place="Samosata"/>
+<treebank filename="0062_015_Leuven.xml" source="Leuven" author="Lucian" title="Symposium" period_min="2" period_max="2" genre="Dialogue" gender="male" place="Samosata"/>
+<treebank filename="0062_020_Leuven.xml" source="Leuven" author="Lucian" title="Prometheus" period_min="2" period_max="2" genre="Dialogue" gender="male" place="Samosata"/>
+<treebank filename="0062_031_Leuven.xml" source="Leuven" author="Lucian" title="The Lover of Lies" period_min="2" period_max="2" genre="Narrative" gender="male" place="Samosata"/>
+<treebank filename="0540_024_Leuven.xml" source="Leuven" author="Lysias" title="On the Refusal of a Pension" period_min="-5" period_max="-4" genre="Oratory" gender="male" place="Athens"/>
+<treebank filename="0541_007_Leuven.xml" source="Leuven" author="Menander" title="Dyskolos" period_min="-4" period_max="-3" genre="Comedy" gender="male" place="Athens"/>
+<treebank filename="2236_001_Leuven.xml" source="Leuven" author="Paeanius" title="Breviarium" period_min="4" period_max="4" genre="History" gender="male" place="unknown"/>
+<treebank filename="0059_003_Leuven.xml" source="Leuven" author="Plato" title="Crito" period_min="-4" period_max="-4" genre="Philosophical Dialogue" gender="male" place="Athens"/>
+<treebank filename="0059_029_Leuven.xml" source="Leuven" author="Plato" title="Clitophon" period_min="-4" period_max="-4" genre="Philosophical Dialogue" gender="male" place="Athens"/>
+<treebank filename="0061_001_Leuven.xml" source="Leuven" author="Pseudo-Lucian" title="Lucius or The Ass" period_min="2" period_max="2" genre="Narrative" gender="unknown" place="unknown"/>
+<treebank filename="0544_002_Leuven.xml" source="Leuven" author="Sextus Empiricus" title="Against the Professors" period_min="2" period_max="3" genre="Philosophy" gender="male" place="unknown"/>
+<treebank filename="0032_002_Leuven.xml" source="Leuven" author="Xenophon" title="Memorabilia" period_min="-5" period_max="-4" genre="History" gender="male" place="Athens"/>
+<treebank filename="0255_001_Leuven.xml" source="Leuven" author="Mimnermus" title="Fragments" period_min="-7" period_max="-7" genre="Lyric Poetry" gender="male" place="Colophon"/>
+<treebank filename="1220_001_Leuven.xml" source="Leuven" author="Pseudo-Homer" title="Batrachomyomachia" period_min="-2" period_max="-1" genre="Epic Poetry" gender="unknown" place="unknown"/>
+<treebank filename="0260_001_Leuven.xml" source="Leuven" author="Semonides" title="Fragments" period_min="-7" period_max="-7" genre="Lyric Poetry" gender="male" place="Samos"/>
+<treebank filename="0005_001_Leuven.xml" source="Leuven" author="Theocritus" title="Idylls" period_min="-4" period_max="-3" genre="Lyric Poetry" gender="male" place="Syracuse"/>
+<treebank filename="4029_001_Leuven.xml" source="Leuven" author="Procopius" title="History of the Wars" period_min="6" period_max="6" genre="History" gender="male" place="Caesarea"/>
+<treebank filename="0093_009_Leuven.xml" source="Leuven" author="Theophrastus" title="Characters" period_min="-4" period_max="-3" genre="Rhetoric" gender="male" place="Eresos"/>
+<treebank filename="0585_001_Leuven.xml" source="Leuven" author="Publius Aelius Phlegon" title="On Marvels" period_min="2" period_max="2" genre="Narrative" gender="male" place="Tralles"/>
+<treebank filename="0557_001_Leuven.xml" source="Leuven" author="Epictetus" title="Discourses" period_min="1" period_max="2" genre="Philosophy" gender="male" place="Hierapolis"/>
+<treebank filename="2003_001_Leuven.xml" source="Leuven" author="Julian the Emperor" title="Panegyric In Honour Of Constantius" period_min="4" period_max="4" genre="Oratory" gender="male" place="Constantinople"/>
+<treebank filename="0537_012_Leuven.xml" source="Leuven" author="Epicurus" title="Letter to Menoeceus" period_min="-4" period_max="-3" genre="Philosophy" gender="male" place="Samos"/>
+<treebank filename="Papyri_Leuven.xml" source="Leuven" author="Various" title="Papyri" period_min="-3" period_max="8" genre="Letter" gender="male" place="Egypt"/>
+<treebank filename="0026_001_Gorman.xml" source="Gorman" author="Aeschines" title="Against Timarchus" period_min="-4" period_max="-4" genre="Oratory" gender="male" place="Athens"/>
+<treebank filename="0028_001_Gorman.xml" source="Gorman" author="Antiphon" title="Against the Stepmother for Poisoning" period_min="-5" period_max="-5" genre="Oratory" gender="male" place="Athens"/>
+<treebank filename="0028_002_Gorman.xml" source="Gorman" author="Antiphon" title="First Tetralogy" period_min="-5" period_max="-5" genre="Oratory" gender="male" place="Athens"/>
+<treebank filename="0028_005_Gorman.xml" source="Gorman" author="Antiphon" title="On the Murder of Herodes" period_min="-5" period_max="-5" genre="Oratory" gender="male" place="Athens"/>
+<treebank filename="0028_006_Gorman.xml" source="Gorman" author="Antiphon" title="On the Chorus Boy" period_min="-5" period_max="-5" genre="Oratory" gender="male" place="Athens"/>
+<treebank filename="0551_017_Gorman.xml" source="Gorman" author="Appian" title="The Civil Wars" period_min="1" period_max="2" genre="History" gender="male" place="Alexandria"/>
+<treebank filename="0086_035_Gorman.xml" source="Gorman" author="Aristotle" title="Politics" period_min="-4" period_max="-4" genre="Philosophy" gender="male" place="Stagira"/>
+<treebank filename="0014_004_Gorman.xml" source="Gorman" author="Demosthenes" title="Philippic 1" period_min="-4" period_max="-4" genre="Oratory" gender="male" place="Athens"/>
+<treebank filename="0014_018_Gorman.xml" source="Gorman" author="Demosthenes" title="On the Crown" period_min="-4" period_max="-4" genre="Oratory" gender="male" place="Athens"/>
+<treebank filename="0081_001_Gorman.xml" source="Gorman" author="Dionysius of Halicarnassus" title="Roman Antiquities" period_min="-1" period_max="-1" genre="History" gender="male" place="Halicarnassus"/>
+<treebank filename="0526_004_Gorman.xml" source="Gorman" author="Flavius Josephus" title="The Jewish War" period_min="1" period_max="1" genre="History" gender="male" place="Palestine"/>
+<treebank filename="0540_012_Gorman.xml" source="Gorman" author="Lysias" title="Against Eratosthenes" period_min="-5" period_max="-4" genre="Oratory" gender="male" place="Athens"/>
+<treebank filename="0540_013_Gorman.xml" source="Gorman" author="Lysias" title="Against Agoratus" period_min="-5" period_max="-4" genre="Oratory" gender="male" place="Athens"/>
+<treebank filename="0540_019_Gorman.xml" source="Gorman" author="Lysias" title="On the Property of Aristophanes" period_min="-5" period_max="-4" genre="Oratory" gender="male" place="Athens"/>
+<treebank filename="0059_002_Gorman.xml" source="Gorman" author="Plato" title="Apology" period_min="-5" period_max="-4" genre="Philosophical Dialogue" gender="male" place="Athens"/>
+<treebank filename="0007_086_Gorman.xml" source="Gorman" author="Plutarch" title="On the Fortune of the Romans" period_min="1" period_max="2" genre="Rhetoric" gender="male" place="Chaeronea"/>
+<treebank filename="0543_001_Gorman.xml" source="Gorman" author="Polybius" title="Histories" period_min="-3" period_max="-2" genre="History" gender="male" place="Megalopolis"/>
+<treebank filename="0032_015_Gorman.xml" source="Gorman" author="Old Oligarch" title="Constitution of the Athenians" period_min="-5" period_max="-5" genre="Philosophy" gender="male" place="Athens"/>
+<treebank filename="0003_001_Gorman.xml" source="Gorman" author="Thucydides" title="The Peloponnesian War" period_min="-5" period_max="-5" genre="History" gender="male" place="Athens"/>
+<treebank filename="0032_001_Gorman.xml" source="Gorman" author="Xenophon" title="Hellenica" period_min="-5" period_max="-4" genre="History" gender="male" place="Athens"/>
+<treebank filename="0032_007_Gorman.xml" source="Gorman" author="Xenophon" title="Cyropaedia" period_min="-5" period_max="-4" genre="Biography" gender="male" place="Athens"/>
+<treebank filename="1765_006_Harrington.xml" source="Harrington" author="Unknown" title="Life of Aesop (G)" period_min="1" period_max="1" genre="Narrative" gender="male" place="unknown"/>
+<treebank filename="0527_055_Harrington.xml" source="Harrington" author="Theodotion" title="Susanna" period_min="2" period_max="2" genre="Religion" gender="male" place="Ephesus"/>
+<treebank filename="0062_012_Harrington.xml" source="Harrington" author="Lucian" title="True Histories" period_min="2" period_max="2" genre="Narrative" gender="male" place="Samosata"/>
+<treebank filename="0085_001_Perseus.xml" source="Perseus" author="Aeschylus" title="The Suppliants" period_min="-6" period_max="-5" genre="Tragedy" gender="male" place="Athens"/>
+<treebank filename="0085_002_Perseus.xml" source="Perseus" author="Aeschylus" title="The Persians" period_min="-6" period_max="-5" genre="Tragedy" gender="male" place="Athens"/>
+<treebank filename="0085_003_Perseus.xml" source="Perseus" author="Aeschylus" title="Prometheus Bound" period_min="-6" period_max="-5" genre="Tragedy" gender="male" place="Athens"/>
+<treebank filename="0085_004_Perseus.xml" source="Perseus" author="Aeschylus" title="Seven Against Thebes" period_min="-6" period_max="-5" genre="Tragedy" gender="male" place="Athens"/>
+<treebank filename="0085_005_Perseus.xml" source="Perseus" author="Aeschylus" title="Agamemnon" period_min="-6" period_max="-5" genre="Tragedy" gender="male" place="Athens"/>
+<treebank filename="0085_006_Perseus.xml" source="Perseus" author="Aeschylus" title="The Libation Bearers" period_min="-6" period_max="-5" genre="Tragedy" gender="male" place="Athens"/>
+<treebank filename="0085_007_Perseus.xml" source="Perseus" author="Aeschylus" title="The Eumenides" period_min="-6" period_max="-5" genre="Tragedy" gender="male" place="Athens"/>
+<treebank filename="0096_002_Perseus.xml" source="Perseus" author="Pseudo-Aesop" title="Fables" period_min="1" period_max="1" genre="Narrative" gender="unknown" place="unknown"/>
+<treebank filename="0548_001_Perseus.xml" source="Perseus" author="Pseudo-Apollodorus" title="Library" period_min="1" period_max="2" genre="Mythography" gender="unknown" place="unknown"/>
+<treebank filename="0008_001_Perseus.xml" source="Perseus" author="Atheneaus" title="Deipnosophists" period_min="2" period_max="3" genre="Dialogue" gender="male" place="Naucratis"/>
+<treebank filename="0060_001_Perseus.xml" source="Perseus" author="Diodorus Siculus" title="Historical Library" period_min="-1" period_max="-1" genre="History" gender="male" place="Sicily"/>
+<treebank filename="0540_001_Perseus.xml" source="Perseus" author="Lysias" title="On the Murder of Eratosthenes" period_min="-5" period_max="-4" genre="Oratory" gender="male" place="Athens"/>
+<treebank filename="0540_014_Perseus.xml" source="Perseus" author="Lysias" title="Against Alcibiades 1" period_min="-5" period_max="-4" genre="Oratory" gender="male" place="Athens"/>
+<treebank filename="0540_015_Perseus.xml" source="Perseus" author="Lysias" title="Against Alcibiades 2" period_min="-5" period_max="-4" genre="Oratory" gender="male" place="Athens"/>
+<treebank filename="0540_023_Perseus.xml" source="Perseus" author="Lysias" title="Against Pancleon" period_min="-5" period_max="-4" genre="Oratory" gender="male" place="Athens"/>
+<treebank filename="0059_001_Perseus.xml" source="Perseus" author="Plato" title="Euthyphro" period_min="-5" period_max="-4" genre="Philosophical Dialogue" gender="male" place="Athens"/>
+<treebank filename="0007_004_Perseus.xml" source="Perseus" author="Plutarch" title="Lycurgus" period_min="1" period_max="2" genre="Biography" gender="male" place="Chaeronea"/>
+<treebank filename="0007_015_Perseus.xml" source="Perseus" author="Plutarch" title="Alcibiades" period_min="1" period_max="2" genre="Biography" gender="male" place="Chaeronea"/>
+<treebank filename="0011_001_Perseus.xml" source="Perseus" author="Sophocles" title="Women of Trachis" period_min="-5" period_max="-5" genre="Tragedy" gender="male" place="Athens"/>
+<treebank filename="0011_002_Perseus.xml" source="Perseus" author="Sophocles" title="Antigone" period_min="-5" period_max="-5" genre="Tragedy" gender="male" place="Athens"/>
+<treebank filename="0011_003_Perseus.xml" source="Perseus" author="Sophocles" title="Ajax" period_min="-5" period_max="-5" genre="Tragedy" gender="male" place="Athens"/>
+<treebank filename="0011_004_Perseus.xml" source="Perseus" author="Sophocles" title="Oedipus Tyrannus" period_min="-5" period_max="-5" genre="Tragedy" gender="male" place="Athens"/>
+<treebank filename="0011_005_Perseus.xml" source="Perseus" author="Sophocles" title="Electra" period_min="-5" period_max="-5" genre="Tragedy" gender="male" place="Athens"/>
+<treebank filename="0020_001_Perseus.xml" source="Perseus" author="Hesiod" title="Theogony" period_min="-8" period_max="-7" genre="Epic Poetry" gender="male" place="Cyme"/>
+<treebank filename="0020_002_Perseus.xml" source="Perseus" author="Hesiod" title="Works and Days" period_min="-8" period_max="-7" genre="Epic Poetry" gender="male" place="Cyme"/>
+<treebank filename="0020_003_Perseus.xml" source="Perseus" author="Pseudo-Hesiod" title="The Shield of Heracles" period_min="-6" period_max="-6" genre="Epic Poetry" gender="male" place="Cyme"/>
+<treebank filename="0012_001_Perseus.xml" source="Perseus" author="Homer" title="Iliad" period_min="-8" period_max="-8" genre="Epic Poetry" gender="male" place="unknown"/>
+<treebank filename="0012_002_Perseus.xml" source="Perseus" author="Homer" title="Odyssey" period_min="-8" period_max="-8" genre="Epic Poetry" gender="male" place="unknown"/>
+<treebank filename="0013_002_Perseus.xml" source="Perseus" author="Pseudo-Homer" title="Hymn to Demeter" period_min="-6" period_max="-6" genre="Lyric Poetry" gender="unknown" place="unknown"/>
+<treebank filename="IG_XII_5_444_Perseus.xml" source="Perseus" author="Unknown" title="Parian Marble" period_min="-3" period_max="-3" genre="Epigraphy" gender="unknown" place="Paros"/>
+<treebank filename="0031_PROIEL.xml" source="PROIEL" author="Various" title="New Testament" period_min="1" period_max="1" genre="Religion" gender="unknown" place="unknown"/>
+<treebank filename="0016_001_PROIEL.xml" source="PROIEL" author="Herodotus" title="Histories" period_min="-5" period_max="-5" genre="History" gender="male" place="Halicarnassus"/>
+<treebank filename="3143_001_PROIEL.xml" source="PROIEL" author="Georgius Sphrantzes" title="Chronicle" period_min="15" period_max="15" genre="History" gender="male" place="Constantinople"/>
+<treebank filename="Papyri_Sematia.xml" source="Sematia" author="Various" title="Papyri" period_min="-3" period_max="8" genre="Letter" gender="male" place="Egypt"/>
+<treebank filename="Papyri_Accounts.xml" source="Leuven" author="Various" title="Accounts" period_min="-3" period_max="8" genre="letter" gender="unknown" place="unknown"/>
+<treebank filename="Papyri_Administration.xml" source="Leuven" author="Various" title="Administration" period_min="-3" period_max="8" genre="administration" gender="unknown" place="unknown"/>
+<treebank filename="Papyri_Contracts1.xml" source="Leuven" author="Various" title="Contracts (1)" period_min="-3" period_max="8" genre="contract" gender="unknown" place="unknown"/>
+<treebank filename="Papyri_Contracts2.xml" source="Leuven" author="Various" title="Contracts (2)" period_min="-3" period_max="8" genre="contract" gender="unknown" place="unknown"/>
+<treebank filename="Papyri_Contracts3.xml" source="Leuven" author="Various" title="Contracts (3)" period_min="-3" period_max="8" genre="contract" gender="unknown" place="unknown"/>
+<treebank filename="Papyri_Declarations1.xml" source="Leuven" author="Various" title="Declarations (1)" period_min="-3" period_max="8" genre="declaration" gender="unknown" place="unknown"/>
+<treebank filename="Papyri_Declarations2.xml" source="Leuven" author="Various" title="Declarations (2)" period_min="-3" period_max="8" genre="declaration" gender="unknown" place="unknown"/>
+<treebank filename="Papyri_Labels.xml" source="Leuven" author="Various" title="Labels" period_min="-3" period_max="8" genre="label" gender="unknown" place="unknown"/>
+<treebank filename="Papyri_Letters1.xml" source="Leuven" author="Various" title="Letters (1)" period_min="-3" period_max="8" genre="letter" gender="unknown" place="unknown"/>
+<treebank filename="Papyri_Letters2.xml" source="Leuven" author="Various" title="Letters (2)" period_min="-3" period_max="8" genre="letter" gender="unknown" place="unknown"/>
+<treebank filename="Papyri_Letters3.xml" source="Leuven" author="Various" title="Letters (3)" period_min="-3" period_max="8" genre="letter" gender="unknown" place="unknown"/>
+<treebank filename="Papyri_Lists1.xml" source="Leuven" author="Various" title="Lists (1)" period_min="-3" period_max="8" genre="list" gender="unknown" place="unknown"/>
+<treebank filename="Papyri_Lists2.xml" source="Leuven" author="Various" title="Lists (2)" period_min="-3" period_max="8" genre="list" gender="unknown" place="unknown"/>
+<treebank filename="Papyri_Lists3.xml" source="Leuven" author="Various" title="Lists (3)" period_min="-3" period_max="8" genre="list" gender="unknown" place="unknown"/>
+<treebank filename="Papyri_Lists4.xml" source="Leuven" author="Various" title="Lists (4)" period_min="-3" period_max="8" genre="list" gender="unknown" place="unknown"/>
+<treebank filename="Papyri_Other.xml" source="Leuven" author="Various" title="Other papyri" period_min="-3" period_max="8" genre="other" gender="unknown" place="unknown"/>
+<treebank filename="Papyri_Paraliterary.xml" source="Leuven" author="Various" title="Paraliterary" period_min="-3" period_max="8" genre="paraliterary" gender="unknown" place="unknown"/>
+<treebank filename="Papyri_Pronouncements.xml" source="Leuven" author="Various" title="Pronouncements" period_min="-3" period_max="8" genre="pronouncement" gender="unknown" place="unknown"/> <treebank filename="Papyri_Receipts.xml" source="Leuven" author="Various" title="Receipts" period_min="-3" period_max="8" genre="receipt" gender="unknown" place="unknown"/>
+<treebank filename="Papyri_Receipts1.xml" source="Leuven" author="Various" title="Receipts (1)" period_min="-3" period_max="8" genre="report" gender="unknown" place="unknown"/>
+<treebank filename="Papyri_Receipts2.xml" source="Leuven" author="Various" title="Receipts (2)" period_min="-3" period_max="8" genre="report" gender="unknown" place="unknown"/>
+<treebank filename="Papyri_Reports.xml" source="Leuven" author="Various" title="Reports" period_min="-3" period_max="8" genre="report" gender="unknown" place="unknown"/>
+</treebanks>

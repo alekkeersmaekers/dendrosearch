@@ -1,0 +1,319 @@
+<treebank>
+  <sentence id="1" ref="Leuven|0627-013|1" document_id="0627-013" subdoc="">
+    <word id="1" ref="Leuven|0627-013|1|1" form="ὄμνυμι" lemma="ὄμνυμι" postag="v1spia---" relation="PRED" head="0"/>
+    <word id="2" ref="Leuven|0627-013|1|2" form="Ἀπόλλωνα" lemma="Ἀπόλλων" postag="n-s---ma-" relation="OBJ_CO" head="14"/>
+    <word id="3" ref="Leuven|0627-013|1|3" form="ἰητρόν" lemma="ἰατρός" postag="n-s---ma-" relation="APOS" head="2"/>
+    <word id="4" ref="Leuven|0627-013|1|4" form="," lemma="," postag="u--------" relation="AuxX" head="0"/>
+    <word id="5" ref="Leuven|0627-013|1|5" form="καί" lemma="καί" postag="b--------" relation="AuxY" head="14"/>
+    <word id="6" ref="Leuven|0627-013|1|6" form="Ἀσκληπιόν" lemma="Ἀσκληπιός" postag="n-s---ma-" relation="OBJ_CO" head="14"/>
+    <word id="7" ref="Leuven|0627-013|1|7" form="," lemma="," postag="u--------" relation="AuxX" head="0"/>
+    <word id="8" ref="Leuven|0627-013|1|8" form="καί" lemma="καί" postag="b--------" relation="AuxY" head="14"/>
+    <word id="9" ref="Leuven|0627-013|1|9" form="Ὑγείαν" lemma="ὑγεῖα" postag="n-s---fa-" relation="OBJ_CO" head="14"/>
+    <word id="10" ref="Leuven|0627-013|1|10" form="," lemma="," postag="u--------" relation="AuxX" head="0"/>
+    <word id="11" ref="Leuven|0627-013|1|11" form="καί" lemma="καί" postag="b--------" relation="AuxY" head="14"/>
+    <word id="12" ref="Leuven|0627-013|1|12" form="Πανάκειαν" lemma="Πανάκεια" postag="n-s---fa-" relation="OBJ_CO" head="14"/>
+    <word id="13" ref="Leuven|0627-013|1|13" form="," lemma="," postag="u--------" relation="AuxX" head="0"/>
+    <word id="14" ref="Leuven|0627-013|1|14" form="καί" lemma="καί" postag="b--------" relation="COORD" head="1"/>
+    <word id="15" ref="Leuven|0627-013|1|15" form="θεούς" lemma="θεός" postag="n-p---ma-" relation="OBJ_CO" head="14"/>
+    <word id="16" ref="Leuven|0627-013|1|16" form="πάντας" lemma="πᾶς" postag="a-p---ma-" relation="ATR" head="18"/>
+    <word id="17" ref="Leuven|0627-013|1|17" form="τε" lemma="τε" postag="b--------" relation="AuxY" head="18"/>
+    <word id="18" ref="Leuven|0627-013|1|18" form="καί" lemma="καί" postag="b--------" relation="COORD" head="15"/>
+    <word id="19" ref="Leuven|0627-013|1|19" form="πάσας" lemma="πᾶς" postag="a-p---fa-" relation="ATR" head="18"/>
+    <word id="20" ref="Leuven|0627-013|1|20" form="," lemma="," postag="u--------" relation="AuxX" head="0"/>
+    <word id="21" ref="Leuven|0627-013|1|21" form="ἵστορας" lemma="ἵστωρ" postag="n-p---ma-" relation="OCOMP" head="22"/>
+    <word id="22" ref="Leuven|0627-013|1|22" form="ποιεύμενος" lemma="ποιέω" postag="v-sppemn-" relation="ADV" head="1"/>
+    <word id="23" ref="Leuven|0627-013|1|23" form="," lemma="," postag="u--------" relation="AuxX" head="0"/>
+    <word id="24" ref="Leuven|0627-013|1|24" form="ἐπιτελέα" lemma="ἐπιτελής" postag="a-p---na-" relation="OCOMP" head="25"/>
+    <word id="25" ref="Leuven|0627-013|1|25" form="ποιήσειν" lemma="ποιέω" postag="v--fna---" relation="OBJ" head="1"/>
+    <word id="26" ref="Leuven|0627-013|1|26" form="κατά" lemma="κατά" postag="r--------" relation="AuxP" head="25"/>
+    <word id="27" ref="Leuven|0627-013|1|27" form="δύναμιν" lemma="δύναμις" postag="n-s---fa-" relation="ADV_CO" head="28"/>
+    <word id="28" ref="Leuven|0627-013|1|28" form="καί" lemma="καί" postag="b--------" relation="COORD" head="26"/>
+    <word id="29" ref="Leuven|0627-013|1|29" form="κρίσιν" lemma="κρίσις" postag="n-s---fa-" relation="ADV_CO" head="28"/>
+    <word id="30" ref="Leuven|0627-013|1|30" form="ἐμήν" lemma="ἐμός" postag="a-s---fa-" relation="ATR" head="29"/>
+    <word id="31" ref="Leuven|0627-013|1|31" form="ὅρκον" lemma="ὅρκος" postag="n-s---ma-" relation="OBJ_CO" head="33"/>
+    <word id="32" ref="Leuven|0627-013|1|32" form="τόνδε" lemma="ὅδε" postag="p-s---ma-" relation="ATR" head="31"/>
+    <word id="33" ref="Leuven|0627-013|1|33" form="καί" lemma="καί" postag="b--------" relation="COORD" head="25"/>
+    <word id="34" ref="Leuven|0627-013|1|34" form="ξυγγραφήν" lemma="συγγραφή" postag="n-s---fa-" relation="OBJ_CO" head="33"/>
+    <word id="35" ref="Leuven|0627-013|1|35" form="τήνδε" lemma="ὅδε" postag="p-s---fa-" relation="ATR" head="34"/>
+    <word id="36" ref="Leuven|0627-013|1|36" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+  <sentence id="2" ref="Leuven|0627-013|2" document_id="0627-013" subdoc="">
+    <word id="1" ref="Leuven|0627-013|2|1" form="ἡγήσασθαι" lemma="ἡγέομαι" postag="v--anm---" relation="OBJ_CO" head="33"/>
+    <word id="2" ref="Leuven|0627-013|2|2" form="μέν" lemma="μέν" postag="d--------" relation="AuxY" head="33"/>
+    <word id="3" ref="Leuven|0627-013|2|3" form="τόν" lemma="ὁ" postag="l-s---ma-" relation="ATR" head="4"/>
+    <word id="4" ref="Leuven|0627-013|2|4" form="διδάξαντα" lemma="διδάσκω" postag="v-sapama-" relation="OBJ" head="1"/>
+    <word id="5" ref="Leuven|0627-013|2|5" form="με" lemma="ἐγώ" postag="p1s---ca-" relation="OBJ" head="4"/>
+    <word id="6" ref="Leuven|0627-013|2|6" form="τήν" lemma="ὁ" postag="l-s---fa-" relation="ATR" head="7"/>
+    <word id="7" ref="Leuven|0627-013|2|7" form="τέχνην" lemma="τέχνη" postag="n-s---fa-" relation="OBJ" head="4"/>
+    <word id="8" ref="Leuven|0627-013|2|8" form="ταύτην" lemma="οὗτος" postag="p-s---fa-" relation="ATR" head="7"/>
+    <word id="9" ref="Leuven|0627-013|2|9" form="ἴσα" lemma="ἴσος" postag="a-p---na-" relation="OCOMP" head="1"/>
+    <word id="10" ref="Leuven|0627-013|2|10" form="γενέτῃσιν" lemma="γενέτης" postag="n-p---md-" relation="ATR" head="9"/>
+    <word id="11" ref="Leuven|0627-013|2|11" form="ἐμοῖσι" lemma="ἐμός" postag="a-p---md-" relation="ATR" head="10"/>
+    <word id="12" ref="Leuven|0627-013|2|12" form="," lemma="," postag="u--------" relation="AuxX" head="0"/>
+    <word id="13" ref="Leuven|0627-013|2|13" form="καί" lemma="καί" postag="b--------" relation="AuxY" head="33"/>
+    <word id="14" ref="Leuven|0627-013|2|14" form="βίου" lemma="βίος" postag="n-s---mg-" relation="OBJ" head="15"/>
+    <word id="15" ref="Leuven|0627-013|2|15" form="κοινώσασθαι" lemma="κοινόω" postag="v--anm---" relation="OBJ_CO" head="33"/>
+    <word id="16" ref="Leuven|0627-013|2|16" form="," lemma="," postag="u--------" relation="AuxX" head="0"/>
+    <word id="17" ref="Leuven|0627-013|2|17" form="καί" lemma="καί" postag="b--------" relation="AuxY" head="33"/>
+    <word id="18" ref="Leuven|0627-013|2|18" form="χρεῶν" lemma="χρέος" postag="n-p---ng-" relation="ATR" head="20" sem="totality"/>
+    <word id="19" ref="Leuven|0627-013|2|19" form="χρῃ̈́ζοντι" lemma="χρῄζω" postag="v-sppamd-" relation="OBJ" head="21" sem="recipient"/>
+    <word id="20" ref="Leuven|0627-013|2|20" form="μετάδοσιν" lemma="μετάδοσις" postag="n-s---fa-" relation="OBJ" head="21"/>
+    <word id="21" ref="Leuven|0627-013|2|21" form="ποιήσασθαι" lemma="ποιέω" postag="v--anm---" relation="OBJ_CO" head="33"/>
+    <word id="22" ref="Leuven|0627-013|2|22" form="," lemma="," postag="u--------" relation="AuxX" head="0"/>
+    <word id="23" ref="Leuven|0627-013|2|23" form="καί" lemma="καί" postag="b--------" relation="AuxY" head="33"/>
+    <word id="24" ref="Leuven|0627-013|2|24" form="γένος" lemma="γένος" postag="n-s---na-" relation="OBJ" head="30"/>
+    <word id="25" ref="Leuven|0627-013|2|25" form="τό" lemma="ὁ" postag="l-s---na-" relation="ATR" head="24"/>
+    <word id="26" ref="Leuven|0627-013|2|26" form="ἐξ" lemma="ἐκ" postag="r--------" relation="AuxP" head="25"/>
+    <word id="27" ref="Leuven|0627-013|2|27" form="ωὐτέου" lemma="ωὐτέος" postag="v-s-g-mg-" relation="ATR" head="26"/>
+    <word id="28" ref="Leuven|0627-013|2|28" form="ἀδελφοῖς" lemma="ἀδελφός" postag="n-p---md-" relation="ATR" head="29"/>
+    <word id="29" ref="Leuven|0627-013|2|29" form="ἴσον" lemma="ἴσος" postag="a-s---na-" relation="OCOMP" head="30"/>
+    <word id="30" ref="Leuven|0627-013|2|30" form="ἐπικρινέειν" lemma="ἐπικρίνω" postag="v--fna---" relation="OBJ_CO" head="33"/>
+    <word id="31" ref="Leuven|0627-013|2|31" form="ἄῤῥεσι" lemma="ἄρσην" postag="a-p---md-" relation="ATR" head="28"/>
+    <word id="32" ref="Leuven|0627-013|2|32" form="," lemma="," postag="u--------" relation="AuxX" head="0"/>
+    <word id="33" ref="Leuven|0627-013|2|33" form="καί" lemma="καί" postag="b--------" relation="COORD" head="82"/>
+    <word id="34" ref="Leuven|0627-013|2|34" form="διδάξειν" lemma="διδάσκω" postag="v--fna---" relation="OBJ_CO" head="33"/>
+    <word id="35" ref="Leuven|0627-013|2|35" form="τήν" lemma="ὁ" postag="l-s---fa-" relation="ATR" head="36"/>
+    <word id="36" ref="Leuven|0627-013|2|36" form="τέχνην" lemma="τέχνη" postag="n-s---fa-" relation="OBJ" head="34"/>
+    <word id="37" ref="Leuven|0627-013|2|37" form="ταύτην" lemma="οὗτος" postag="p-s---fa-" relation="ATR" head="36"/>
+    <word id="38" ref="Leuven|0627-013|2|38" form="," lemma="," postag="u--------" relation="AuxX" head="0"/>
+    <word id="39" ref="Leuven|0627-013|2|39" form="ἤν" lemma="ἐάν" postag="c--------" relation="AuxC" head="34"/>
+    <word id="40" ref="Leuven|0627-013|2|40" form="χρῃ̈́ζωσι" lemma="χρῄζω" postag="v3ppsa---" relation="ADV" head="39"/>
+    <word id="41" ref="Leuven|0627-013|2|41" form="μανθάνειν" lemma="μανθάνω" postag="v--pna---" relation="OBJ" head="40"/>
+    <word id="42" ref="Leuven|0627-013|2|42" form="," lemma="," postag="u--------" relation="AuxX" head="0"/>
+    <word id="43" ref="Leuven|0627-013|2|43" form="ἄνευ" lemma="ἄνευ" postag="r--------" relation="AuxP" head="34"/>
+    <word id="44" ref="Leuven|0627-013|2|44" form="μισθοῦ" lemma="μισθός" postag="n-s---mg-" relation="ADV_CO" head="45"/>
+    <word id="45" ref="Leuven|0627-013|2|45" form="καί" lemma="καί" postag="b--------" relation="COORD" head="43"/>
+    <word id="46" ref="Leuven|0627-013|2|46" form="ξυγγραφῆς" lemma="συγγραφή" postag="n-s---fg-" relation="ADV_CO" head="45"/>
+    <word id="47" ref="Leuven|0627-013|2|47" form="," lemma="," postag="u--------" relation="AuxX" head="0"/>
+    <word id="48" ref="Leuven|0627-013|2|48" form="παραγγελίης" lemma="παραγγελία" postag="n-s---fg-" relation="ATR_CO" head="52"/>
+    <word id="49" ref="Leuven|0627-013|2|49" form="τε" lemma="τε" postag="b--------" relation="AuxY" head="52"/>
+    <word id="50" ref="Leuven|0627-013|2|50" form="καί" lemma="καί" postag="b--------" relation="AuxY" head="52"/>
+    <word id="51" ref="Leuven|0627-013|2|51" form="ἀκροήσιος" lemma="ἀκρόασις" postag="n-s---fg-" relation="ATR_CO" head="52"/>
+    <word id="52" ref="Leuven|0627-013|2|52" form="καί" lemma="καί" postag="b--------" relation="COORD" head="57"/>
+    <word id="53" ref="Leuven|0627-013|2|53" form="τῆς" lemma="ὁ" postag="l-s---fg-" relation="ATR" head="56"/>
+    <word id="54" ref="Leuven|0627-013|2|54" form="λοιπῆς" lemma="λοιπός" postag="a-s---fg-" relation="ATR" head="56"/>
+    <word id="55" ref="Leuven|0627-013|2|55" form="ἁπάσης" lemma="ἅπας" postag="a-s---fg-" relation="ATR" head="56"/>
+    <word id="56" ref="Leuven|0627-013|2|56" form="μαθήσιος" lemma="μάθησις" postag="n-s---fg-" relation="ATR_CO" head="52"/>
+    <word id="57" ref="Leuven|0627-013|2|57" form="μετάδοσιν" lemma="μετάδοσις" postag="n-s---fa-" relation="OBJ" head="58"/>
+    <word id="58" ref="Leuven|0627-013|2|58" form="ποιήσασθαι" lemma="ποιέω" postag="v--anm---" relation="OBJ_CO" head="33"/>
+    <word id="59" ref="Leuven|0627-013|2|59" form="υἱοῖσι" lemma="υἱός" postag="n-p---md-" relation="OBJ_CO" head="69" sem="recipient"/>
+    <word id="60" ref="Leuven|0627-013|2|60" form="τε" lemma="τε" postag="b--------" relation="AuxY" head="69"/>
+    <word id="61" ref="Leuven|0627-013|2|61" form="ἐμοῖσι" lemma="ἐμός" postag="a-p---nd-" relation="ATR" head="59"/>
+    <word id="62" ref="Leuven|0627-013|2|62" form="," lemma="," postag="u--------" relation="AuxX" head="0"/>
+    <word id="63" ref="Leuven|0627-013|2|63" form="καί" lemma="καί" postag="b--------" relation="AuxY" head="69"/>
+    <word id="64" ref="Leuven|0627-013|2|64" form="τοῖσι" lemma="ὁ" postag="l-p---md-" relation="OBJ_CO" head="69" sem="recipient"/>
+    <word id="65" ref="Leuven|0627-013|2|65" form="τοῦ" lemma="ὁ" postag="l-s---mg-" relation="ATR" head="67" sem="possessor"/>
+    <word id="66" ref="Leuven|0627-013|2|66" form="ἐμέ" lemma="ἐγώ" postag="p1s---ca-" relation="OBJ" head="67"/>
+    <word id="67" ref="Leuven|0627-013|2|67" form="διδάξαντος" lemma="διδάσκω" postag="v-sapamg-" relation="ATR" head="64"/>
+    <word id="68" ref="Leuven|0627-013|2|68" form="," lemma="," postag="u--------" relation="AuxX" head="0"/>
+    <word id="69" ref="Leuven|0627-013|2|69" form="καί" lemma="καί" postag="b--------" relation="COORD" head="79"/>
+    <word id="70" ref="Leuven|0627-013|2|70" form="μαθηταῖσι" lemma="μαθητής" postag="n-p---md-" relation="OBJ_CO" head="69" sem="recipient"/>
+    <word id="71" ref="Leuven|0627-013|2|71" form="συγγεγραμμένοισι" lemma="συγγράφω" postag="v-prpemd-" relation="ATR_CO" head="73"/>
+    <word id="72" ref="Leuven|0627-013|2|72" form="τε" lemma="τε" postag="b--------" relation="AuxY" head="73"/>
+    <word id="73" ref="Leuven|0627-013|2|73" form="καί" lemma="καί" postag="b--------" relation="COORD" head="70"/>
+    <word id="74" ref="Leuven|0627-013|2|74" form="ὡρκισμένοις" lemma="ὁρκίζω" postag="v-prpemd-" relation="ATR_CO" head="73"/>
+    <word id="75" ref="Leuven|0627-013|2|75" form="νόμῳ" lemma="νόμος" postag="n-s---md-" relation="ADV" head="74"/>
+    <word id="76" ref="Leuven|0627-013|2|76" form="ἰητρικῷ" lemma="ἰατρικός" postag="a-s---md-" relation="ATR" head="75"/>
+    <word id="77" ref="Leuven|0627-013|2|77" form="," lemma="," postag="u--------" relation="AuxX" head="0"/>
+    <word id="78" ref="Leuven|0627-013|2|78" form="ἄλλῳ" lemma="ἄλλος" postag="p-s---md-" relation="ATR" head="80"/>
+    <word id="79" ref="Leuven|0627-013|2|79" form="δέ" lemma="δέ" postag="b--------" relation="COORD" head="58"/>
+    <word id="80" ref="Leuven|0627-013|2|80" form="οὐδενί" lemma="οὐδείς" postag="p-s---md-" relation="OBJ_CO" head="79"/>
+    <word id="81" ref="Leuven|0627-013|2|81" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
+    <word id="82" ref="Leuven|0627-013|2|82" form="[0]" lemma="&quot;\&quot;\&quot;&quot;" postag="---------" relation="PRED" head="0" artificial="elliptic" insertion_id="0081e"/>
+  </sentence>
+  <sentence id="3" ref="Leuven|0627-013|3" document_id="0627-013" subdoc="">
+    <word id="1" ref="Leuven|0627-013|3|1" form="διαιτήμασι" lemma="διαίτημα" postag="n-p---nd-" relation="OBJ" head="3"/>
+    <word id="2" ref="Leuven|0627-013|3|2" form="τε" lemma="τε" postag="b--------" relation="AuxY" head="3"/>
+    <word id="3" ref="Leuven|0627-013|3|3" form="χρήσομαι" lemma="χράω" postag="v1sfim---" relation="PRED_CO" head="15"/>
+    <word id="4" ref="Leuven|0627-013|3|4" form="ἐπ’" lemma="ἐπί" postag="r--------" relation="AuxP" head="3"/>
+    <word id="5" ref="Leuven|0627-013|3|5" form="ὠφελείῃ" lemma="ὠφέλεια" postag="n-s---fd-" relation="ADV" head="4"/>
+    <word id="6" ref="Leuven|0627-013|3|6" form="καμνόντων" lemma="κάμνω" postag="v-pppamg-" relation="ATR" head="5" sem="totality"/>
+    <word id="7" ref="Leuven|0627-013|3|7" form="κατά" lemma="κατά" postag="r--------" relation="AuxP" head="3"/>
+    <word id="8" ref="Leuven|0627-013|3|8" form="δύναμιν" lemma="δύναμις" postag="n-s---fa-" relation="ADV_CO" head="9"/>
+    <word id="9" ref="Leuven|0627-013|3|9" form="καί" lemma="καί" postag="b--------" relation="COORD" head="7"/>
+    <word id="10" ref="Leuven|0627-013|3|10" form="κρίσιν" lemma="κρίσις" postag="n-s---fa-" relation="ADV_CO" head="9"/>
+    <word id="11" ref="Leuven|0627-013|3|11" form="ἐμήν" lemma="ἐμός" postag="a-s---fa-" relation="ATR" head="10"/>
+    <word id="12" ref="Leuven|0627-013|3|12" form="," lemma="," postag="u--------" relation="AuxX" head="0"/>
+    <word id="13" ref="Leuven|0627-013|3|13" form="ἐπί" lemma="ἐπί" postag="r--------" relation="AuxP" head="18"/>
+    <word id="14" ref="Leuven|0627-013|3|14" form="δηλήσει" lemma="δήλησις" postag="n-s---fd-" relation="ADV_CO" head="16"/>
+    <word id="15" ref="Leuven|0627-013|3|15" form="δέ" lemma="δέ" postag="b--------" relation="COORD" head="0"/>
+    <word id="16" ref="Leuven|0627-013|3|16" form="καί" lemma="καί" postag="b--------" relation="COORD" head="13"/>
+    <word id="17" ref="Leuven|0627-013|3|17" form="ἀδικίῃ" lemma="ἀδικία" postag="n-s---fd-" relation="ADV_CO" head="16"/>
+    <word id="18" ref="Leuven|0627-013|3|18" form="εἴρξειν" lemma="ἔργω" postag="v--fna---" relation="OBJ" head="20"/>
+    <word id="19" ref="Leuven|0627-013|3|19" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
+    <word id="20" ref="Leuven|0627-013|3|20" form="[1]" lemma="" postag="---------" relation="PRED_CO" head="15" artificial="elliptic" insertion_id="0018e"/>
+  </sentence>
+  <sentence id="4" ref="Leuven|0627-013|4" document_id="0627-013" subdoc="">
+    <word id="1" ref="Leuven|0627-013|4|1" form="οὐ" lemma="οὐ" postag="d--------" relation="AuxZ" head="2"/>
+    <word id="2" ref="Leuven|0627-013|4|2" form="δώσω" lemma="δίδωμι" postag="v1sfia---" relation="PRED_CO" head="10"/>
+    <word id="3" ref="Leuven|0627-013|4|3" form="δέ" lemma="δέ" postag="b--------" relation="AuxY" head="10"/>
+    <word id="4" ref="Leuven|0627-013|4|4" form="οὐδέ" lemma="οὐδέ" postag="b--------" relation="AuxY" head="10"/>
+    <word id="5" ref="Leuven|0627-013|4|5" form="φάρμακον" lemma="φάρμακον" postag="n-s---na-" relation="OBJ" head="2"/>
+    <word id="6" ref="Leuven|0627-013|4|6" form="οὐδενί" lemma="οὐδείς" postag="p-s---md-" relation="OBJ" head="2" sem="recipient"/>
+    <word id="7" ref="Leuven|0627-013|4|7" form="αἰτηθείς" lemma="αἰτέω" postag="v-sappmn-" relation="ADV" head="2"/>
+    <word id="8" ref="Leuven|0627-013|4|8" form="θανάσιμον" lemma="θανάσιμος" postag="a-s---na-" relation="ATR" head="5"/>
+    <word id="9" ref="Leuven|0627-013|4|9" form="," lemma="," postag="u--------" relation="AuxX" head="0"/>
+    <word id="10" ref="Leuven|0627-013|4|10" form="οὐδέ" lemma="οὐδέ" postag="b--------" relation="COORD" head="0"/>
+    <word id="11" ref="Leuven|0627-013|4|11" form="ὑφηγήσομαι" lemma="ὑφηγέομαι" postag="v1sfim---" relation="PRED_CO" head="10"/>
+    <word id="12" ref="Leuven|0627-013|4|12" form="ξυμβουλίην" lemma="συμβουλία" postag="n-s---fa-" relation="OBJ" head="11"/>
+    <word id="13" ref="Leuven|0627-013|4|13" form="τοιήνδε" lemma="τοιόσδε" postag="p-s---fa-" relation="ATR" head="12"/>
+    <word id="14" ref="Leuven|0627-013|4|14" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+  <sentence id="5" ref="Leuven|0627-013|5" document_id="0627-013" subdoc="">
+    <word id="1" ref="Leuven|0627-013|5|1" form="ὁμοίως" lemma="ὅμοιος" postag="d--------" relation="ADV" head="7"/>
+    <word id="2" ref="Leuven|0627-013|5|2" form="δέ" lemma="δέ" postag="d--------" relation="AuxY" head="7"/>
+    <word id="3" ref="Leuven|0627-013|5|3" form="οὐδέ" lemma="οὐδέ" postag="b--------" relation="AuxY" head="7"/>
+    <word id="4" ref="Leuven|0627-013|5|4" form="γυναικί" lemma="γυνή" postag="n-s---fd-" relation="OBJ" head="7" sem="recipient"/>
+    <word id="5" ref="Leuven|0627-013|5|5" form="πεσσόν" lemma="πεσσός" postag="n-s---ma-" relation="OBJ" head="7"/>
+    <word id="6" ref="Leuven|0627-013|5|6" form="φθόριον" lemma="φθόριος" postag="a-s---ma-" relation="ATR" head="5"/>
+    <word id="7" ref="Leuven|0627-013|5|7" form="δώσω" lemma="δίδωμι" postag="v1sfia---" relation="PRED" head="0"/>
+    <word id="8" ref="Leuven|0627-013|5|8" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+  <sentence id="6" ref="Leuven|0627-013|6" document_id="0627-013" subdoc="">
+    <word id="1" ref="Leuven|0627-013|6|1" form="ἁγνῶς" lemma="ἁγνός" postag="d--------" relation="ADV_CO" head="3"/>
+    <word id="2" ref="Leuven|0627-013|6|2" form="δέ" lemma="δέ" postag="d--------" relation="AuxY" head="5"/>
+    <word id="3" ref="Leuven|0627-013|6|3" form="καί" lemma="καί" postag="b--------" relation="COORD" head="5"/>
+    <word id="4" ref="Leuven|0627-013|6|4" form="ὁσίως" lemma="ὅσιος" postag="d--------" relation="ADV_CO" head="3"/>
+    <word id="5" ref="Leuven|0627-013|6|5" form="διατηρήσω" lemma="διατηρέω" postag="v1sfia---" relation="PRED" head="0"/>
+    <word id="6" ref="Leuven|0627-013|6|6" form="βίον" lemma="βίος" postag="n-s---ma-" relation="OBJ_CO" head="9"/>
+    <word id="7" ref="Leuven|0627-013|6|7" form="τόν" lemma="ὁ" postag="l-s---ma-" relation="ATR" head="6"/>
+    <word id="8" ref="Leuven|0627-013|6|8" form="ἐμόν" lemma="ἐμός" postag="a-s---ma-" relation="ATR" head="6"/>
+    <word id="9" ref="Leuven|0627-013|6|9" form="καί" lemma="καί" postag="b--------" relation="COORD" head="5"/>
+    <word id="10" ref="Leuven|0627-013|6|10" form="τέχνην" lemma="τέχνη" postag="n-s---fa-" relation="OBJ_CO" head="9"/>
+    <word id="11" ref="Leuven|0627-013|6|11" form="τήν" lemma="ὁ" postag="l-s---fa-" relation="ATR" head="10"/>
+    <word id="12" ref="Leuven|0627-013|6|12" form="ἐμήν" lemma="ἐμός" postag="a-s---fa-" relation="ATR" head="10"/>
+    <word id="13" ref="Leuven|0627-013|6|13" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+  <sentence id="7" ref="Leuven|0627-013|7" document_id="0627-013" subdoc="">
+    <word id="1" ref="Leuven|0627-013|7|1" form="οὐ" lemma="οὐ" postag="d--------" relation="AuxZ" head="2"/>
+    <word id="2" ref="Leuven|0627-013|7|2" form="τεμέω" lemma="τέμνω" postag="v1sfia---" relation="PRED_CO" head="9"/>
+    <word id="3" ref="Leuven|0627-013|7|3" form="δέ" lemma="δέ" postag="b--------" relation="AuxY" head="2"/>
+    <word id="4" ref="Leuven|0627-013|7|4" form="οὐδέ" lemma="οὐδέ" postag="b--------" relation="AuxY" head="2"/>
+    <word id="5" ref="Leuven|0627-013|7|5" form="μήν" lemma="μήν" postag="d--------" relation="AuxZ" head="6"/>
+    <word id="6" ref="Leuven|0627-013|7|6" form="λιθιῶντας" lemma="λιθιάω" postag="v-pppama-" relation="OBJ" head="2"/>
+    <word id="7" ref="Leuven|0627-013|7|7" form="," lemma="," postag="u--------" relation="AuxX" head="0"/>
+    <word id="8" ref="Leuven|0627-013|7|8" form="ἐκχωρήσω" lemma="ἐκχωρέω" postag="v1sfia---" relation="PRED_CO" head="9"/>
+    <word id="9" ref="Leuven|0627-013|7|9" form="δέ" lemma="δέ" postag="b--------" relation="COORD" head="0"/>
+    <word id="10" ref="Leuven|0627-013|7|10" form="ἐργάτῃσιν" lemma="ἐργάτης" postag="n-p---md-" relation="APOS" head="11"/>
+    <word id="11" ref="Leuven|0627-013|7|11" form="ἀνδράσι" lemma="ἀνήρ" postag="n-p---md-" relation="OBJ" head="8"/>
+    <word id="12" ref="Leuven|0627-013|7|12" form="πρήξιος" lemma="πρᾶξις" postag="n-s---fg-" relation="ATR" head="10"/>
+    <word id="13" ref="Leuven|0627-013|7|13" form="τῆσδε" lemma="ὅδε" postag="p-s---fg-" relation="ATR" head="12"/>
+    <word id="14" ref="Leuven|0627-013|7|14" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+  <sentence id="8" ref="Leuven|0627-013|8" document_id="0627-013" subdoc="">
+    <word id="1" ref="Leuven|0627-013|8|1" form="ἐς" lemma="εἰς" postag="r--------" relation="AuxP" head="6"/>
+    <word id="2" ref="Leuven|0627-013|8|2" form="οἰκίας" lemma="οἰκία" postag="n-p---fa-" relation="OBJ" head="1" sem="direction"/>
+    <word id="3" ref="Leuven|0627-013|8|3" form="δέ" lemma="δέ" postag="b--------" relation="AuxY" head="8"/>
+    <word id="4" ref="Leuven|0627-013|8|4" form="ὁκόσας" lemma="ὁπόσος" postag="p-p---fa-" relation="ATR" head="2"/>
+    <word id="5" ref="Leuven|0627-013|8|5" form="ἄν" lemma="ἄν" postag="d--------" relation="AuxY" head="6"/>
+    <word id="6" ref="Leuven|0627-013|8|6" form="ἐσίω" lemma="εἰσέρχομαι" postag="v1spsa---" relation="ATR" head="8"/>
+    <word id="7" ref="Leuven|0627-013|8|7" form="," lemma="," postag="u--------" relation="AuxX" head="0"/>
+    <word id="8" ref="Leuven|0627-013|8|8" form="ἐσελεύσομαι" lemma="εἰσέρχομαι" postag="v1sfim---" relation="PRED" head="0"/>
+    <word id="9" ref="Leuven|0627-013|8|9" form="ἐπ’" lemma="ἐπί" postag="r--------" relation="AuxP" head="8"/>
+    <word id="10" ref="Leuven|0627-013|8|10" form="ὠφελείῃ" lemma="ὠφέλεια" postag="n-s---fd-" relation="ADV" head="9"/>
+    <word id="11" ref="Leuven|0627-013|8|11" form="καμνόντων" lemma="κάμνω" postag="v-pppamg-" relation="ATR" head="10"/>
+    <word id="12" ref="Leuven|0627-013|8|12" form="," lemma="," postag="u--------" relation="AuxX" head="0"/>
+    <word id="13" ref="Leuven|0627-013|8|13" form="ἐκτός" lemma="ἐκτός" postag="r--------" relation="AuxP" head="14"/>
+    <word id="14" ref="Leuven|0627-013|8|14" form="ἐών" lemma="εἰμί" postag="v-sppamn-" relation="ADV" head="8"/>
+    <word id="15" ref="Leuven|0627-013|8|15" form="πάσης" lemma="πᾶς" postag="a-s---fg-" relation="ATR" head="16"/>
+    <word id="16" ref="Leuven|0627-013|8|16" form="ἀδικίης" lemma="ἀδικία" postag="n-s---fg-" relation="ADV_CO" head="24"/>
+    <word id="17" ref="Leuven|0627-013|8|17" form="ἑκουσίης" lemma="ἑκούσιος" postag="a-s---fg-" relation="ATR" head="16"/>
+    <word id="18" ref="Leuven|0627-013|8|18" form="καί" lemma="καί" postag="b--------" relation="AuxY" head="24"/>
+    <word id="19" ref="Leuven|0627-013|8|19" form="φθορίης" lemma="φθορία" postag="n-s---fg-" relation="ADV_CO" head="24"/>
+    <word id="20" ref="Leuven|0627-013|8|20" form="," lemma="," postag="u--------" relation="AuxX" head="0"/>
+    <word id="21" ref="Leuven|0627-013|8|21" form="τῆς" lemma="ὁ" postag="l-s---fg-" relation="ATR" head="23"/>
+    <word id="22" ref="Leuven|0627-013|8|22" form="τε" lemma="τε" postag="b--------" relation="AuxY" head="24"/>
+    <word id="23" ref="Leuven|0627-013|8|23" form="ἄλλης" lemma="ἄλλος" postag="p-s---fg-" relation="ADV_CO" head="24"/>
+    <word id="24" ref="Leuven|0627-013|8|24" form="καί" lemma="καί" postag="b--------" relation="COORD" head="13"/>
+    <word id="25" ref="Leuven|0627-013|8|25" form="ἀφροδισίων" lemma="Ἀφροδίσιος" postag="a-p---ng-" relation="ATR" head="26"/>
+    <word id="26" ref="Leuven|0627-013|8|26" form="ἔργων" lemma="ἔργον" postag="n-p---ng-" relation="ADV_CO" head="24"/>
+    <word id="27" ref="Leuven|0627-013|8|27" form="ἐπί" lemma="ἐπί" postag="r--------" relation="AuxP" head="26"/>
+    <word id="28" ref="Leuven|0627-013|8|28" form="τε" lemma="τε" postag="b--------" relation="AuxY" head="31"/>
+    <word id="29" ref="Leuven|0627-013|8|29" form="γυναικείων" lemma="γυναικεῖος" postag="a-p---ng-" relation="ATR_CO" head="31"/>
+    <word id="30" ref="Leuven|0627-013|8|30" form="σωμάτων" lemma="σῶμα" postag="n-p---ng-" relation="ADV" head="27"/>
+    <word id="31" ref="Leuven|0627-013|8|31" form="καί" lemma="καί" postag="b--------" relation="COORD" head="30"/>
+    <word id="32" ref="Leuven|0627-013|8|32" form="ἀνδρῴων" lemma="ἀνδρῶος" postag="a-p---ngp" relation="ATR_CO" head="31"/>
+    <word id="33" ref="Leuven|0627-013|8|33" form="," lemma="," postag="u--------" relation="AuxX" head="0"/>
+    <word id="34" ref="Leuven|0627-013|8|34" form="ἐλευθέρων" lemma="ἐλεύθερος" postag="a-p---mg-" relation="ADV_CO" head="36"/>
+    <word id="35" ref="Leuven|0627-013|8|35" form="τε" lemma="τε" postag="b--------" relation="AuxY" head="36"/>
+    <word id="36" ref="Leuven|0627-013|8|36" form="καί" lemma="καί" postag="b--------" relation="COORD" head="30"/>
+    <word id="37" ref="Leuven|0627-013|8|37" form="δούλων" lemma="δοῦλος" postag="n-p---mg-" relation="ADV_CO" head="36"/>
+    <word id="38" ref="Leuven|0627-013|8|38" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+  <sentence id="9" ref="Leuven|0627-013|9" document_id="0627-013" subdoc="">
+    <word id="1" ref="Leuven|0627-013|9|1" form="ἅ" lemma="ὅς" postag="p-p---na-" relation="OBJ" head="7"/>
+    <word id="2" ref="Leuven|0627-013|9|2" form="δ’" lemma="δέ" postag="d--------" relation="AuxY" head="7"/>
+    <word id="3" ref="Leuven|0627-013|9|3" form="ἄν" lemma="ἄν" postag="d--------" relation="AuxY" head="7"/>
+    <word id="4" ref="Leuven|0627-013|9|4" form="ἐν" lemma="ἐν" postag="r--------" relation="AuxP" head="7"/>
+    <word id="5" ref="Leuven|0627-013|9|5" form="θεραπείῃ" lemma="θεραπεία" postag="n-s---fd-" relation="ADV" head="4"/>
+    <word id="6" ref="Leuven|0627-013|9|6" form="ἤ" lemma="ἤ" postag="b--------" relation="AuxY" head="12"/>
+    <word id="7" ref="Leuven|0627-013|9|7" form="ἴδω" lemma="ὁράω" postag="v1sasa---" relation="PRED_CO" head="12"/>
+    <word id="8" ref="Leuven|0627-013|9|8" form="," lemma="," postag="u--------" relation="AuxX" head="0"/>
+    <word id="9" ref="Leuven|0627-013|9|9" form="ἤ" lemma="ἤ" postag="b--------" relation="AuxY" head="12"/>
+    <word id="10" ref="Leuven|0627-013|9|10" form="ἀκούσω" lemma="ἀκούω" postag="v1sasa---" relation="PRED_CO" head="12"/>
+    <word id="11" ref="Leuven|0627-013|9|11" form="," lemma="," postag="u--------" relation="AuxX" head="0"/>
+    <word id="12" ref="Leuven|0627-013|9|12" form="ἤ" lemma="ἤ" postag="b--------" relation="COORD" head="27"/>
+    <word id="13" ref="Leuven|0627-013|9|13" form="καί" lemma="καί" postag="b--------" relation="AuxY" head="12"/>
+    <word id="14" ref="Leuven|0627-013|9|14" form="ἄνευ" lemma="ἄνευ" postag="r--------" relation="AuxP" head="12"/>
+    <word id="15" ref="Leuven|0627-013|9|15" form="θεραπῃ̈́ης" lemma="θεραπεία" postag="n-s---fg-" relation="ADV" head="14"/>
+    <word id="16" ref="Leuven|0627-013|9|16" form="κατά" lemma="κατά" postag="r--------" relation="AuxP" head="15"/>
+    <word id="17" ref="Leuven|0627-013|9|17" form="βίον" lemma="βίος" postag="n-s---ma-" relation="ADV" head="16"/>
+    <word id="18" ref="Leuven|0627-013|9|18" form="ἀνθρώπων" lemma="ἄνθρωπος" postag="n-p---mg-" relation="ATR" head="17"/>
+    <word id="19" ref="Leuven|0627-013|9|19" form="," lemma="," postag="u--------" relation="AuxX" head="0"/>
+    <word id="20" ref="Leuven|0627-013|9|20" form="ἅ" lemma="ὅς" postag="p-p---nn-" relation="SBJ" head="22"/>
+    <word id="21" ref="Leuven|0627-013|9|21" form="μή" lemma="μή" postag="d--------" relation="AuxZ" head="22"/>
+    <word id="22" ref="Leuven|0627-013|9|22" form="χρή" lemma="χρή" postag="v3spia---" relation="PRED" head="27"/>
+    <word id="23" ref="Leuven|0627-013|9|23" form="ποτε" lemma="ποτέ" postag="d--------" relation="ADV" head="22"/>
+    <word id="24" ref="Leuven|0627-013|9|24" form="ἐκλαλέεσθαι" lemma="ἐκλαλέω" postag="v--pne---" relation="SBJ" head="22"/>
+    <word id="25" ref="Leuven|0627-013|9|25" form="ἔξω" lemma="ἔξω" postag="d--------" relation="ADV" head="24"/>
+    <word id="26" ref="Leuven|0627-013|9|26" form="," lemma="," postag="u--------" relation="AuxX" head="0"/>
+    <word id="27" ref="Leuven|0627-013|9|27" form="σιγήσομαι" lemma="σιγάω" postag="v1sfim---" relation="PRED" head="0"/>
+    <word id="28" ref="Leuven|0627-013|9|28" form="," lemma="," postag="u--------" relation="AuxX" head="0"/>
+    <word id="29" ref="Leuven|0627-013|9|29" form="ἄῤῥητα" lemma="ἄρρητος" postag="a-p---na-" relation="PNOM" head="31"/>
+    <word id="30" ref="Leuven|0627-013|9|30" form="ἡγεύμενος" lemma="ἡγέομαι" postag="v-sppemn-" relation="ADV" head="27"/>
+    <word id="31" ref="Leuven|0627-013|9|31" form="εἶναι" lemma="εἰμί" postag="v--pna---" relation="OBJ" head="30"/>
+    <word id="32" ref="Leuven|0627-013|9|32" form="τά" lemma="ὁ" postag="l-p---na-" relation="ATR" head="33"/>
+    <word id="33" ref="Leuven|0627-013|9|33" form="τοιαῦτα" lemma="τοιοῦτος" postag="p-p---na-" relation="SBJ" head="31"/>
+    <word id="34" ref="Leuven|0627-013|9|34" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+  <sentence id="10" ref="Leuven|0627-013|10" document_id="0627-013" subdoc="">
+    <word id="1" ref="Leuven|0627-013|10|1" form="ὅρκον" lemma="ὅρκος" postag="n-s---ma-" relation="OBJ" head="7"/>
+    <word id="2" ref="Leuven|0627-013|10|2" form="μέν" lemma="μέν" postag="d--------" relation="AuxY" head="13"/>
+    <word id="3" ref="Leuven|0627-013|10|3" form="οὖν" lemma="οὖν" postag="d--------" relation="AuxY" head="13"/>
+    <word id="4" ref="Leuven|0627-013|10|4" form="μοι" lemma="ἐγώ" postag="p1s---cd-" relation="ADV" head="13"/>
+    <word id="5" ref="Leuven|0627-013|10|5" form="τόνδε" lemma="ὅδε" postag="p-s---ma-" relation="ATR" head="1"/>
+    <word id="6" ref="Leuven|0627-013|10|6" form="ἐπιτελέα" lemma="ἐπιτελής" postag="a-p---na-" relation="OCOMP" head="7"/>
+    <word id="7" ref="Leuven|0627-013|10|7" form="ποιέοντι" lemma="ποιέω" postag="v-sppamd-" relation="ATR_CO" head="9"/>
+    <word id="8" ref="Leuven|0627-013|10|8" form="," lemma="," postag="u--------" relation="AuxX" head="0"/>
+    <word id="9" ref="Leuven|0627-013|10|9" form="καί" lemma="καί" postag="b--------" relation="COORD" head="4"/>
+    <word id="10" ref="Leuven|0627-013|10|10" form="μή" lemma="μή" postag="d--------" relation="AuxZ" head="11"/>
+    <word id="11" ref="Leuven|0627-013|10|11" form="ξυγχέοντι" lemma="συγχέω" postag="v-sppamd-" relation="ATR_CO" head="9"/>
+    <word id="12" ref="Leuven|0627-013|10|12" form="," lemma="," postag="u--------" relation="AuxX" head="0"/>
+    <word id="13" ref="Leuven|0627-013|10|13" form="εἴη" lemma="εἰμί" postag="v3spoa---" relation="PRED" head="0"/>
+    <word id="14" ref="Leuven|0627-013|10|14" form="ἐπαύρασθαι" lemma="ἐπαυρέω" postag="v--anm---" relation="SBJ" head="13"/>
+    <word id="15" ref="Leuven|0627-013|10|15" form="καί" lemma="καί" postag="b--------" relation="AuxY" head="17"/>
+    <word id="16" ref="Leuven|0627-013|10|16" form="βίου" lemma="βίος" postag="n-s---mg-" relation="OBJ_CO" head="17"/>
+    <word id="17" ref="Leuven|0627-013|10|17" form="καί" lemma="καί" postag="b--------" relation="COORD" head="14"/>
+    <word id="18" ref="Leuven|0627-013|10|18" form="τέχνης" lemma="τέχνη" postag="n-s---fg-" relation="OBJ_CO" head="17"/>
+    <word id="19" ref="Leuven|0627-013|10|19" form="δοξαζομένῳ" lemma="δοξάζω" postag="v-sppemd-" relation="ADV" head="14"/>
+    <word id="20" ref="Leuven|0627-013|10|20" form="παρά" lemma="παρά" postag="r--------" relation="AuxP" head="19"/>
+    <word id="21" ref="Leuven|0627-013|10|21" form="πᾶσιν" lemma="πᾶς" postag="a-p---md-" relation="ATR" head="22"/>
+    <word id="22" ref="Leuven|0627-013|10|22" form="ἀνθρώποις" lemma="ἄνθρωπος" postag="n-p---md-" relation="ADV" head="20" sem="experiencer"/>
+    <word id="23" ref="Leuven|0627-013|10|23" form="ἐς" lemma="εἰς" postag="r--------" relation="AuxP" head="19"/>
+    <word id="24" ref="Leuven|0627-013|10|24" form="τόν" lemma="ὁ" postag="l-s---ma-" relation="ATR" head="26"/>
+    <word id="25" ref="Leuven|0627-013|10|25" form="αἰεί" lemma="ἀεί" postag="d--------" relation="ATR" head="26"/>
+    <word id="26" ref="Leuven|0627-013|10|26" form="χρόνον" lemma="χρόνος" postag="n-s---ma-" relation="ADV" head="23"/>
+    <word id="27" ref="Leuven|0627-013|10|27" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+  <sentence id="11" ref="Leuven|0627-013|11" document_id="0627-013" subdoc="">
+    <word id="1" ref="Leuven|0627-013|11|1" form="παραβαίνοντι" lemma="παραβαίνω" postag="v-sppamd-" relation="ADV_CO" head="3"/>
+    <word id="2" ref="Leuven|0627-013|11|2" form="δέ" lemma="δέ" postag="d--------" relation="AuxY" head="9"/>
+    <word id="3" ref="Leuven|0627-013|11|3" form="καί" lemma="καί" postag="b--------" relation="COORD" head="9"/>
+    <word id="4" ref="Leuven|0627-013|11|4" form="ἐπιορκοῦντι" lemma="ἐπιορκέω" postag="v-sppamd-" relation="ADV_CO" head="3"/>
+    <word id="5" ref="Leuven|0627-013|11|5" form="," lemma="," postag="u--------" relation="AuxX" head="0"/>
+    <word id="6" ref="Leuven|0627-013|11|6" form="τἀναντία" lemma="ἐναντίος" postag="a-p---nn-" relation="SBJ" head="9"/>
+    <word id="7" ref="Leuven|0627-013|11|7" form="τουτέων" lemma="οὗτος" postag="p-p---fg-" relation="ADV" head="6"/>
+    <word id="8" ref="Leuven|0627-013|11|8" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
+    <word id="9" ref="Leuven|0627-013|11|9" form="[0]" lemma="" postag="---------" relation="PRED" head="0" artificial="elliptic" insertion_id="0008e"/>
+  </sentence>
+</treebank>

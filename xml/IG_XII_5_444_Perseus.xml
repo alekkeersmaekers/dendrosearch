@@ -1,0 +1,533 @@
+<treebank>
+  <sentence id="1" ref="PER|Inscript|1" document_id="IG_XII_5_444" subdoc="">
+    <word id="1" ref="PER|Inscript|1|1" form="Gου" lemma="" postag="" relation="GAP" head="0"/>
+    <word id="2" ref="PER|Inscript|1|2" form="ἐκ" lemma="ἐκ" postag="r--------" relation="AuxP" head="6"/>
+    <word id="3" ref="PER|Inscript|1|3" form="συγγραμμάτων" lemma="σύγγραμμα" postag="n-p---ng-" relation="ADV" head="2" sem="source"/>
+    <word id="4" ref="PER|Inscript|1|4" form="παντοίων" lemma="παντοίων" postag="a-p----g-" relation="ATR" head="3"/>
+    <word id="5" ref="PER|Inscript|1|5" form="Gνων" lemma="" postag="" relation="GAP" head="0"/>
+    <word id="6" ref="PER|Inscript|1|6" form="ἀνέγραψα" lemma="ἀναγράφω" postag="v1saia---" relation="PRED" head="0" sem="statement"/>
+    <word id="7" ref="PER|Inscript|1|7" form="τοὺς" lemma="ὁ" postag="l-p---ma-" relation="OBJ" head="6"/>
+    <word id="8" ref="PER|Inscript|1|8" form="ἀν" lemma="ἄν" postag="d--------" relation="AuxY" head="6"/>
+    <word id="9" ref="PER|Inscript|1|9" form="ἀρξάμενος" lemma="ἄρχω" postag="v-sapmmn-" relation="ADV" head="6"/>
+    <word id="10" ref="PER|Inscript|1|10" form="ἀπὸ" lemma="ἀπό" postag="r--------" relation="AuxP" head="9"/>
+    <word id="11" ref="PER|Inscript|1|11" form="Κέκροπος" lemma="Κέκροψ" postag="n-s---mg-" relation="OBJ" head="10" sem="non_pedalion_separation"/>
+    <word id="12" ref="PER|Inscript|1|12" form="τοῦ" lemma="ὁ" postag="l-s---mg-" relation="ATR" head="14"/>
+    <word id="13" ref="PER|Inscript|1|13" form="πρώτου" lemma="πρῶτος" postag="a-s---mg-" relation="ADV" head="14"/>
+    <word id="14" ref="PER|Inscript|1|14" form="βασιλεύσαντος" lemma="βασιλεύω" postag="v-sapamg-" relation="APOS" head="11" sem="non_pedalion_separation"/>
+    <word id="15" ref="PER|Inscript|1|15" form="Ἀθηνῶν" lemma="Ἀθῆναι" postag="n-p---fg-" relation="OBJ" head="14" sem="totality"/>
+    <word id="16" ref="PER|Inscript|1|16" form="εἵως" lemma="ἕως" postag="c--------" relation="AuxP" head="9"/>
+    <word id="17" ref="PER|Inscript|1|17" form="ἄρχοντος" lemma="ἄρχων" postag="n-s---mg-" relation="ADV_CO" head="24"/>
+    <word id="18" ref="PER|Inscript|1|18" form="ἐμ" lemma="ἐν" postag="r--------" relation="AuxP" head="26"/>
+    <word id="19" ref="PER|Inscript|1|19" form="Πάρωι" lemma="Πάρος" postag="n-s---fd-" relation="ADV" head="18" sem="location"/>
+    <word id="20" ref="PER|Inscript|1|20" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" head="6"/>
+    <word id="21" ref="PER|Inscript|1|21" form="Gυάνακτος" lemma="" postag="" relation="GAP" head="0"/>
+    <word id="22" ref="PER|Inscript|1|22" form="," lemma="," postag="u--------" relation="AuxX" head="21"/>
+    <word id="23" ref="PER|Inscript|1|23" form="Ἀθήνησιν" lemma="Ἀθῆναι" postag="d--------" relation="ADV" head="27" sem="location"/>
+    <word id="24" ref="PER|Inscript|1|24" form="δὲ" lemma="δέ" postag="b--------" relation="COORD" head="16"/>
+    <word id="25" ref="PER|Inscript|1|25" form="Διογνήτου" lemma="Διόγνητος" postag="n-s---mg-" relation="ADV_CO" head="24"/>
+    <word id="26" ref="PER|Inscript|1|26" form="[0]" lemma="" postag="" relation="ATR" head="17" artificial="elliptic" insertion_id="000e"/>
+    <word id="27" ref="PER|Inscript|1|27" form="[1]" lemma="" postag="" relation="ATR" head="25" artificial="elliptic" insertion_id="0024e"/>
+  </sentence>
+  <sentence id="2" ref="PER|Inscript|2" document_id="IG_XII_5_444" subdoc="">
+    <word id="1" ref="PER|Inscript|2|1" form="ἀφ’" lemma="ἀπό" postag="r--------" relation="AuxP" head="24"/>
+    <word id="2" ref="PER|Inscript|2|2" form="οὗ" lemma="οὗ" postag="d--------" relation="ADV" head="6" sem="time"/>
+    <word id="3" ref="PER|Inscript|2|3" form="Κέκροψ" lemma="Κέκροψ" postag="n-s---mn-" relation="SBJ" head="5"/>
+    <word id="4" ref="PER|Inscript|2|4" form="Ἀθηνῶν" lemma="Ἀθῆναι" postag="n-p---fg-" relation="OBJ" head="5" sem="totality"/>
+    <word id="5" ref="PER|Inscript|2|5" form="ἐβασίλευσε" lemma="βασιλεύω" postag="v3saia---" relation="OBJ_CO" head="6" sem="time"/>
+    <word id="6" ref="PER|Inscript|2|6" form="καὶ" lemma="καί" postag="b--------" relation="COORD" head="1"/>
+    <word id="7" ref="PER|Inscript|2|7" form="ἡ" lemma="ὁ" postag="l-s---fn-" relation="ATR" head="8"/>
+    <word id="8" ref="PER|Inscript|2|8" form="χώρα" lemma="χώρα" postag="n-s---fn-" relation="SBJ" head="10"/>
+    <word id="9" ref="PER|Inscript|2|9" form="Κεκροπία" lemma="Κεκροπία" postag="n-s---fn-" relation="PNOM" head="10"/>
+    <word id="10" ref="PER|Inscript|2|10" form="ἐκλήθη" lemma="καλέω" postag="v3saip---" relation="OBJ_CO" head="6" sem="time"/>
+    <word id="11" ref="PER|Inscript|2|11" form="," lemma="," postag="u--------" relation="AuxX" head="10"/>
+    <word id="12" ref="PER|Inscript|2|12" form="τὸ" lemma="ὁ" postag="l-s---na-" relation="MWE" head="13"/>
+    <word id="13" ref="PER|Inscript|2|13" form="πρότερον" lemma="πρότερον" postag="d-------c" relation="ADV" head="14" sem="time"/>
+    <word id="14" ref="PER|Inscript|2|14" form="καλουμένη" lemma="καλέω" postag="v-sppefn-" relation="ATR" head="8"/>
+    <word id="15" ref="PER|Inscript|2|15" form="Ἀκτικὴ" lemma="Ἀκτικὴ" postag="n-s---fn-" relation="PNOM" head="14"/>
+    <word id="16" ref="PER|Inscript|2|16" form="ἀπὸ" lemma="ἀπό" postag="r--------" relation="AuxP" head="14"/>
+    <word id="17" ref="PER|Inscript|2|17" form="Ἀκταίου" lemma="Ἀκταῖος" postag="n-s---mg-" relation="ADV" head="16" sem="source"/>
+    <word id="18" ref="PER|Inscript|2|18" form="τοῦ" lemma="ὁ" postag="l-s---mg-" relation="ATR" head="19"/>
+    <word id="19" ref="PER|Inscript|2|19" form="αὐτόχθονος" lemma="αὐτόχθων" postag="a-s----g-" relation="APOS" head="17" sem="source"/>
+    <word id="20" ref="PER|Inscript|2|20" form="," lemma="," postag="u--------" relation="AuxX" head="19"/>
+    <word id="21" ref="PER|Inscript|2|21" form="ἔτη" lemma="ἔτος" postag="n-p---nn-" relation="SBJ" head="24"/>
+    <word id="22" ref="PER|Inscript|2|22" form="ΧΗΗΗΔ𐅃ΙΙΙ" lemma="ΧΗΗΗΔ𐅃ΙΙΙ" postag="m--------" relation="ATR" head="21"/>
+    <word id="23" ref="PER|Inscript|2|23" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
+    <word id="24" ref="PER|Inscript|2|24" form="ἐστὶ" lemma="εἰμί" postag="v3spia---" relation="PRED" head="0" artificial="elliptic" insertion_id="0021e" sem="statement"/>
+  </sentence>
+  <sentence id="3" ref="PER|Inscript|3" document_id="IG_XII_5_444" subdoc="">
+    <word id="1" ref="PER|Inscript|3|1" form="ἀφ’" lemma="ἀπὸ" postag="r--------" relation="AuxP" head="18"/>
+    <word id="2" ref="PER|Inscript|3|2" form="οὗ" lemma="οὗ" postag="d--------" relation="ADV" head="9" sem="time"/>
+    <word id="3" ref="PER|Inscript|3|3" form="Δευκαλίων" lemma="Δευκαλίων" postag="n-s---mn-" relation="SBJ" head="9"/>
+    <word id="4" ref="PER|Inscript|3|4" form="παρὰ" lemma="παρά" postag="r--------" relation="AuxP" head="9"/>
+    <word id="5" ref="PER|Inscript|3|5" form="τὸν" lemma="ὁ" postag="l-s---ma-" relation="ATR" head="6"/>
+    <word id="6" ref="PER|Inscript|3|6" form="Παρνασσὸν" lemma="Παρνασσός" postag="n-s---ma-" relation="ADV" head="4" sem="location"/>
+    <word id="7" ref="PER|Inscript|3|7" form="ἐν" lemma="ἐν" postag="r--------" relation="AuxP" head="9"/>
+    <word id="8" ref="PER|Inscript|3|8" form="Λυκωρείαι" lemma="Λυκώρεια" postag="n-s---fd-" relation="ADV" head="7" sem="location"/>
+    <word id="9" ref="PER|Inscript|3|9" form="ἐβασίλευσε" lemma="βασιλεύω" postag="v3saia---" relation="OBJ" head="1" sem="time"/>
+    <word id="10" ref="PER|Inscript|3|10" form="," lemma="," postag="u--------" relation="AuxX" head="9"/>
+    <word id="11" ref="PER|Inscript|3|11" form="βασιλεύοντος" lemma="βασιλεύω" postag="v-sppamg-" relation="ADV" head="9" sem="time"/>
+    <word id="12" ref="PER|Inscript|3|12" form="Ἀθηνῶν" lemma="Ἀθῆναι" postag="n-p---fg-" relation="OBJ" head="11" sem="totality"/>
+    <word id="13" ref="PER|Inscript|3|13" form="Κέκροπος" lemma="Κέκροψ" postag="n-s---mg-" relation="SBJ" head="11"/>
+    <word id="14" ref="PER|Inscript|3|14" form="," lemma="," postag="u--------" relation="AuxX" head="13"/>
+    <word id="15" ref="PER|Inscript|3|15" form="ἔτη" lemma="ἔτος" postag="n-p---nn-" relation="SBJ" head="18"/>
+    <word id="16" ref="PER|Inscript|3|16" form="ΧΗΗΗΔ" lemma="ΧΗΗΗΔ" postag="m--------" relation="ATR" head="15"/>
+    <word id="17" ref="PER|Inscript|3|17" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
+    <word id="18" ref="PER|Inscript|3|18" form="ἐστὶ" lemma="εἰμί" postag="v3spia---" relation="PRED" head="0" artificial="elliptic" insertion_id="0015e" sem="statement"/>
+  </sentence>
+  <sentence id="4" ref="PER|Inscript|4" document_id="IG_XII_5_444" subdoc="">
+    <word id="1" ref="PER|Inscript|4|1" form="ἀφ’" lemma="ἀπό" postag="r--------" relation="AuxP" head="28"/>
+    <word id="2" ref="PER|Inscript|4|2" form="οὗ" lemma="οὗ" postag="d--------" relation="ADV" head="14" sem="time"/>
+    <word id="3" ref="PER|Inscript|4|3" form="δίκη" lemma="δίκη" postag="n-s---fn-" relation="SBJ" head="5"/>
+    <word id="4" ref="PER|Inscript|4|4" form="Ἀθήνησιν" lemma="Ἀθήνησι" postag="d--------" relation="ADV" head="5" sem="location"/>
+    <word id="5" ref="PER|Inscript|4|5" form="ἐγένετο" lemma="γίγνομαι" postag="v3saim---" relation="OBJ_CO" head="14" sem="time"/>
+    <word id="6" ref="PER|Inscript|4|6" form="Ἄρει" lemma="Ἄρης" postag="n-s---md-" relation="OBJ_CO" head="7" sem="possessor"/>
+    <word id="7" ref="PER|Inscript|4|7" form="καὶ" lemma="καί" postag="b--------" relation="COORD" head="5"/>
+    <word id="8" ref="PER|Inscript|4|8" form="Ποσειδῶνι" lemma="Ποσειδῶν" postag="n-s---md-" relation="OBJ_CO" head="7" sem="possessor"/>
+    <word id="9" ref="PER|Inscript|4|9" form="ὑπὲρ" lemma="ὑπέρ" postag="r--------" relation="AuxP" head="5"/>
+    <word id="10" ref="PER|Inscript|4|10" form="Ἁλιρροθίου" lemma="Ἁλιρρόθιος" postag="n-s---mg-" relation="ADV" head="9" sem="respect"/>
+    <word id="11" ref="PER|Inscript|4|11" form="τοῦ" lemma="ὁ" postag="l-s---mg-" relation="APOS" head="10" sem="respect"/>
+    <word id="12" ref="PER|Inscript|4|12" form="Ποσειδῶνος" lemma="Ποσειδῶν" postag="n-s---mg-" relation="ATR" head="11" sem="possessor"/>
+    <word id="13" ref="PER|Inscript|4|13" form="," lemma="," postag="u--------" relation="AuxY" head="14"/>
+    <word id="14" ref="PER|Inscript|4|14" form="καὶ" lemma="καί" postag="b--------" relation="COORD" head="1"/>
+    <word id="15" ref="PER|Inscript|4|15" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" head="16"/>
+    <word id="16" ref="PER|Inscript|4|16" form="τόπος" lemma="τόπος" postag="n-s---mn-" relation="SBJ" head="17"/>
+    <word id="17" ref="PER|Inscript|4|17" form="ἐκλήθη" lemma="καλέω" postag="v3saip---" relation="OBJ_CO" head="14" sem="time"/>
+    <word id="18" ref="PER|Inscript|4|18" form="Ἄρειος" lemma="Ἄρειος" postag="a-s---mn-" relation="ATR" head="19"/>
+    <word id="19" ref="PER|Inscript|4|19" form="πάγος" lemma="πάγος" postag="n-s---mn-" relation="PNOM" head="17"/>
+    <word id="20" ref="PER|Inscript|4|20" form="," lemma="," postag="u--------" relation="AuxX" head="19"/>
+    <word id="21" ref="PER|Inscript|4|21" form="ἔτη" lemma="ἔτος" postag="n-p---nn-" relation="SBJ" head="28"/>
+    <word id="22" ref="PER|Inscript|4|22" form="ΧΗΗ𐅄Δ𐅃ΙΙΙ" lemma="ΧΗΗ𐅄Δ𐅃ΙΙΙ" postag="m--------" relation="ATR" head="21"/>
+    <word id="23" ref="PER|Inscript|4|23" form="," lemma="," postag="u--------" relation="AuxX" head="22"/>
+    <word id="24" ref="PER|Inscript|4|24" form="βασιλεύοντος" lemma="βασιλεύω" postag="v-sppamg-" relation="ADV" head="28" sem="time"/>
+    <word id="25" ref="PER|Inscript|4|25" form="Ἀθηνῶν" lemma="Ἀθῆναι" postag="n-p---fg-" relation="OBJ" head="24" sem="totality"/>
+    <word id="26" ref="PER|Inscript|4|26" form="Κραναοῦ" lemma="Κραναός" postag="n-s---mg-" relation="SBJ" head="24"/>
+    <word id="27" ref="PER|Inscript|4|27" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
+    <word id="28" ref="PER|Inscript|4|28" form="ἐστί" lemma="εἰμί" postag="v3spia---" relation="PRED" head="0" artificial="elliptic" insertion_id="0021e" sem="statement"/>
+  </sentence>
+  <sentence id="5" ref="PER|Inscript|5" document_id="IG_XII_5_444" subdoc="">
+    <word id="1" ref="PER|Inscript|5|1" form="ἀφ’" lemma="ἀπό" postag="r--------" relation="AuxP" head="38"/>
+    <word id="2" ref="PER|Inscript|5|2" form="οὗ" lemma="οὗ" postag="d--------" relation="ADV" head="26" sem="time"/>
+    <word id="3" ref="PER|Inscript|5|3" form="κατακλυσμὸς" lemma="κατακλυσμός" postag="n-s---mn-" relation="SBJ" head="6"/>
+    <word id="4" ref="PER|Inscript|5|4" form="ἐπὶ" lemma="ἐπί" postag="r--------" relation="AuxP" head="6"/>
+    <word id="5" ref="PER|Inscript|5|5" form="Δευκαλίωνος" lemma="Δευκαλίων" postag="n-s---mg-" relation="ADV" head="4" sem="time"/>
+    <word id="6" ref="PER|Inscript|5|6" form="ἐγένετο" lemma="γίγνομαι" postag="v3saim---" relation="OBJ_CO" head="26" sem="time"/>
+    <word id="7" ref="PER|Inscript|5|7" form="καὶ" lemma="καί" postag="b--------" relation="AuxY" head="26"/>
+    <word id="8" ref="PER|Inscript|5|8" form="Δευκαλίων" lemma="Δευκαλίων" postag="n-s---mn-" relation="SBJ" head="11"/>
+    <word id="9" ref="PER|Inscript|5|9" form="τοὺς" lemma="ὁ" postag="l-p---ma-" relation="ATR" head="10"/>
+    <word id="10" ref="PER|Inscript|5|10" form="ὄμβρους" lemma="ὄμβρος" postag="n-p---ma-" relation="OBJ" head="11"/>
+    <word id="11" ref="PER|Inscript|5|11" form="ἔφυγεν" lemma="φεύγω" postag="v3saia---" relation="OBJ_CO" head="26" sem="time"/>
+    <word id="12" ref="PER|Inscript|5|12" form="ἐγ" lemma="ἐκ" postag="r--------" relation="AuxP" head="11"/>
+    <word id="13" ref="PER|Inscript|5|13" form="Λυκωρείας" lemma="Λυκώρεια" postag="n-s---fg-" relation="OBJ" head="12" sem="non_pedalion_separation"/>
+    <word id="14" ref="PER|Inscript|5|14" form="εἰς" lemma="εἰς" postag="r--------" relation="AuxP" head="11"/>
+    <word id="15" ref="PER|Inscript|5|15" form="Ἀθήνας" lemma="Ἀθῆναι" postag="n-p---fa-" relation="OBJ" head="14" sem="direction"/>
+    <word id="16" ref="PER|Inscript|5|16" form="πρὸς" lemma="πρός" postag="r--------" relation="AuxP" head="11"/>
+    <word id="17" ref="PER|Inscript|5|17" form="Κραναὸν" lemma="Κραναός" postag="n-s---ma-" relation="OBJ" head="16"/>
+    <word id="18" ref="PER|Inscript|5|18" form="καὶ" lemma="καί" postag="b--------" relation="AuxY" head="26"/>
+    <word id="19" ref="PER|Inscript|5|19" form="τοῦ" lemma="ὁ" postag="l-s---mg-" relation="ATR" head="20"/>
+    <word id="20" ref="PER|Inscript|5|20" form="Διὸς" lemma="Ζεύς" postag="n-s---mg-" relation="ATR" head="24" sem="possessor"/>
+    <word id="21" ref="PER|Inscript|5|21" form="τοῦ" lemma="ὁ" postag="l-s---mg-" relation="ATR" head="22"/>
+    <word id="22" ref="PER|Inscript|5|22" form="Ὀλυμπίου" lemma="Ὀλύμπιος" postag="a-s---mg-" relation="APOS" head="20" sem="possessor"/>
+    <word id="23" ref="PER|Inscript|5|23" form="τὸ" lemma="ὁ" postag="l-s---na-" relation="OBJ" head="24"/>
+    <word id="24" ref="PER|Inscript|5|24" form="ἱερὸν" lemma="ἱερός" postag="a-s---na-" relation="OBJ" head="25"/>
+    <word id="25" ref="PER|Inscript|5|25" form="ἱδρύσατο" lemma="ἱδρύω" postag="v3saim---" relation="OBJ_CO" head="26" sem="time"/>
+    <word id="26" ref="PER|Inscript|5|26" form="καὶ" lemma="καί" postag="b--------" relation="COORD" head="1"/>
+    <word id="27" ref="PER|Inscript|5|27" form="τὰ" lemma="ὁ" postag="l-p---na-" relation="ATR" head="28"/>
+    <word id="28" ref="PER|Inscript|5|28" form="σωτήρια" lemma="σωτήριος" postag="a-p---na-" relation="OBJ" head="29"/>
+    <word id="29" ref="PER|Inscript|5|29" form="ἔθυσεν" lemma="θύω" postag="v3saia---" relation="OBJ_CO" head="26" sem="time"/>
+    <word id="30" ref="PER|Inscript|5|30" form="," lemma="," postag="u--------" relation="AuxX" head="29"/>
+    <word id="31" ref="PER|Inscript|5|31" form="ἔτη" lemma="ἔτος" postag="n-p---nn-" relation="SBJ" head="38"/>
+    <word id="32" ref="PER|Inscript|5|32" form="ΧΗΗ𐅄Δ𐅃" lemma="ΧΗΗ𐅄Δ𐅃" postag="m--------" relation="ATR" head="31"/>
+    <word id="33" ref="PER|Inscript|5|33" form="," lemma="," postag="u--------" relation="AuxX" head="32"/>
+    <word id="34" ref="PER|Inscript|5|34" form="βασιλεύοντος" lemma="βασιλεύω" postag="v-sppamg-" relation="ADV" head="38" sem="time"/>
+    <word id="35" ref="PER|Inscript|5|35" form="Ἀθηνῶν" lemma="Ἀθῆναι" postag="n-p---fg-" relation="OBJ" head="34" sem="totality"/>
+    <word id="36" ref="PER|Inscript|5|36" form="Κραναοῦ" lemma="Κραναός" postag="n-s---mg-" relation="SBJ" head="34"/>
+    <word id="37" ref="PER|Inscript|5|37" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
+    <word id="38" ref="PER|Inscript|5|38" form="ἐστί" lemma="εἰμί" postag="v3spia---" relation="PRED" head="0" artificial="elliptic" insertion_id="0031e" sem="statement"/>
+  </sentence>
+  <sentence id="6" ref="PER|Inscript|6" document_id="IG_XII_5_444" subdoc="">
+    <word id="1" ref="PER|Inscript|6|1" form="ἀφ’" lemma="ἀπό" postag="r--------" relation="AuxP" head="37"/>
+    <word id="2" ref="PER|Inscript|6|2" form="οὗ" lemma="οὗ" postag="d--------" relation="ADV" head="20" sem="time"/>
+    <word id="3" ref="PER|Inscript|6|3" form="Ἀμφικτύων" lemma="Ἀμφικτύων" postag="n-s---mn-" relation="SBJ" head="20"/>
+    <word id="4" ref="PER|Inscript|6|4" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="APOS" head="3"/>
+    <word id="5" ref="PER|Inscript|6|5" form="Δευκαλίωνος" lemma="Δευκαλίων" postag="n-s---mg-" relation="ATR" head="4" sem="possessor"/>
+    <word id="6" ref="PER|Inscript|6|6" form="ἐβασίλευσεν" lemma="βασιλεύω" postag="v3saia---" relation="OBJ_CO" head="20" sem="time"/>
+    <word id="7" ref="PER|Inscript|6|7" form="ἐν" lemma="ἐν" postag="r--------" relation="AuxP" head="6"/>
+    <word id="8" ref="PER|Inscript|6|8" form="θερμοπύλαις" lemma="θερμοπύλαι" postag="n-p---fd-" relation="ADV" head="7" sem="location"/>
+    <word id="9" ref="PER|Inscript|6|9" form="καὶ" lemma="καί" postag="b--------" relation="AuxY" head="20"/>
+    <word id="10" ref="PER|Inscript|6|10" form="συνήγειρε" lemma="συνεγείρω" postag="v3siia---" relation="OBJ_CO" head="20" sem="time"/>
+    <word id="11" ref="PER|Inscript|6|11" form="τοὺς" lemma="ὁ" postag="l-p---ma-" relation="ATR" head="15"/>
+    <word id="12" ref="PER|Inscript|6|12" form="περὶ" lemma="περί" postag="r--------" relation="AuxP" head="15"/>
+    <word id="13" ref="PER|Inscript|6|13" form="τὸ" lemma="ὁ" postag="l-s---na-" relation="ATR" head="14"/>
+    <word id="14" ref="PER|Inscript|6|14" form="ἱερὸν" lemma="ἱερός" postag="a-s---na-" relation="ADV" head="12" sem="location"/>
+    <word id="15" ref="PER|Inscript|6|15" form="οἰκοῦντας" lemma="οἰκέω" postag="v-pppama-" relation="OBJ" head="10"/>
+    <word id="16" ref="PER|Inscript|6|16" form="καὶ" lemma="καί" postag="b--------" relation="AuxY" head="20"/>
+    <word id="17" ref="PER|Inscript|6|17" form="ὠνόμασεν" lemma="ὀνομάζω" postag="v3saia---" relation="OBJ_CO" head="20" sem="time"/>
+    <word id="18" ref="PER|Inscript|6|18" form="Ἀμφικτύονας" lemma="Ἀμφικτύονες" postag="n-p---ma-" relation="OCOMP" head="17"/>
+    <word id="19" ref="PER|Inscript|6|19" form="," lemma="," postag="u--------" relation="AuxX" head="18"/>
+    <word id="20" ref="PER|Inscript|6|20" form="καὶ" lemma="καί" postag="b--------" relation="COORD" head="1"/>
+    <word id="21" ref="PER|Inscript|6|21" form="προέθυσεν" lemma="προθύω" postag="v3saia---" relation="OBJ_CO" head="20" sem="time"/>
+    <word id="22" ref="PER|Inscript|6|22" form="," lemma="," postag="u--------" relation="AuxX" head="21"/>
+    <word id="23" ref="PER|Inscript|6|23" form="οὗπερ" lemma="οὗπερ" postag="d--------" relation="ADV" head="27" sem="time"/>
+    <word id="24" ref="PER|Inscript|6|24" form="καὶ" lemma="καί" postag="d--------" relation="AuxZ" head="25"/>
+    <word id="25" ref="PER|Inscript|6|25" form="νῦν" lemma="νῦν" postag="d--------" relation="ADV" head="27" sem="time"/>
+    <word id="26" ref="PER|Inscript|6|26" form="ἔτι" lemma="ἔτι" postag="d--------" relation="ADV" head="27" sem="time"/>
+    <word id="27" ref="PER|Inscript|6|27" form="θύουσιν" lemma="θύω" postag="v3ppia---" relation="ADV" head="21" sem="location"/>
+    <word id="28" ref="PER|Inscript|6|28" form="Ἀμφικτύονες" lemma="Ἀμφικτύονες" postag="n-p---mn-" relation="SBJ" head="27"/>
+    <word id="29" ref="PER|Inscript|6|29" form="," lemma="," postag="u--------" relation="AuxX" head="28"/>
+    <word id="30" ref="PER|Inscript|6|30" form="ἔτη" lemma="ἔτος" postag="n-p---nn-" relation="SBJ" head="37"/>
+    <word id="31" ref="PER|Inscript|6|31" form="ΧΗΗ𐅄𐅃ΙΙΙ" lemma="ΧΗΗ𐅄𐅃ΙΙΙ" postag="m--------" relation="ATR" head="30"/>
+    <word id="32" ref="PER|Inscript|6|32" form="," lemma="," postag="u--------" relation="AuxX" head="31"/>
+    <word id="33" ref="PER|Inscript|6|33" form="βασιλεύοντος" lemma="βασιλεύω" postag="v-sppamg-" relation="ADV" head="37" sem="time"/>
+    <word id="34" ref="PER|Inscript|6|34" form="Ἀθηνῶν" lemma="Ἀθῆναι" postag="n-p---fg-" relation="OBJ" head="33" sem="totality"/>
+    <word id="35" ref="PER|Inscript|6|35" form="Ἀμφικτύονος" lemma="Ἀμφικτύων" postag="n-s---mg-" relation="SBJ" head="33"/>
+    <word id="36" ref="PER|Inscript|6|36" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
+    <word id="37" ref="PER|Inscript|6|37" form="ἐστί" lemma="εἰμί" postag="v3spia---" relation="PRED" head="0" artificial="elliptic" insertion_id="0030e" sem="statement"/>
+    <word id="38" ref="PER|Inscript|6|38" form="αὐτούς" lemma="αὐτός" postag="p-p---ma-" relation="OBJ" head="17" artificial="elliptic" insertion_id="0017e"/>
+  </sentence>
+  <sentence id="7" ref="PER|Inscript|7" document_id="IG_XII_5_444" subdoc="">
+    <word id="1" ref="PER|Inscript|7|1" form="ἀφ’" lemma="ἀπό" postag="r--------" relation="AuxP" head="31"/>
+    <word id="2" ref="PER|Inscript|7|2" form="οὗ" lemma="οὗ" postag="d--------" relation="ADV" head="17" sem="time"/>
+    <word id="3" ref="PER|Inscript|7|3" form="Ἕλλην" lemma="Ἕλλην" postag="n-s---mn-" relation="SBJ" head="7"/>
+    <word id="4" ref="PER|Inscript|7|4" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="APOS" head="3"/>
+    <word id="5" ref="PER|Inscript|7|5" form="Δευκαλίωνος" lemma="Δευκαλίων" postag="n-s---mg-" relation="ATR" head="4" sem="possessor"/>
+    <word id="6" ref="PER|Inscript|7|6" form="Φθιώτιδος" lemma="Φθιῶτις" postag="n-s---fg-" relation="OBJ" head="7" sem="totality"/>
+    <word id="7" ref="PER|Inscript|7|7" form="ἐβασίλευσε" lemma="βασιλεύω" postag="v3saia---" relation="OBJ_CO" head="17" sem="time"/>
+    <word id="8" ref="PER|Inscript|7|8" form="καὶ" lemma="καί" postag="b--------" relation="AuxY" head="17"/>
+    <word id="9" ref="PER|Inscript|7|9" form="Ἕλληνες" lemma="Ἕλλην" postag="n-p---mn-" relation="PNOM" head="10"/>
+    <word id="10" ref="PER|Inscript|7|10" form="ὠνομάσθησαν" lemma="ὀνομάζω" postag="v3paip---" relation="OBJ_CO" head="17" sem="time"/>
+    <word id="11" ref="PER|Inscript|7|11" form="," lemma="," postag="u--------" relation="AuxX" head="10"/>
+    <word id="12" ref="PER|Inscript|7|12" form="τὸ" lemma="ὁ" postag="l-s---na-" relation="MWE" head="13"/>
+    <word id="13" ref="PER|Inscript|7|13" form="πρότερον" lemma="πρότερον" postag="d-------c" relation="ADV" head="15" sem="time"/>
+    <word id="14" ref="PER|Inscript|7|14" form="Γραικοὶ" lemma="Γραικός" postag="n-p---mn-" relation="PNOM" head="15"/>
+    <word id="15" ref="PER|Inscript|7|15" form="καλούμενοι" lemma="καλέω" postag="v-pppemn-" relation="SBJ" head="10"/>
+    <word id="16" ref="PER|Inscript|7|16" form="," lemma="," postag="u--------" relation="AuxX" head="15"/>
+    <word id="17" ref="PER|Inscript|7|17" form="καὶ" lemma="καί" postag="b--------" relation="COORD" head="1"/>
+    <word id="18" ref="PER|Inscript|7|18" form="τὸν" lemma="ὁ" postag="l-s---ma-" relation="ATR" head="19"/>
+    <word id="19" ref="PER|Inscript|7|19" form="ἀγῶνα" lemma="ἀγών" postag="n-s---ma-" relation="OBJ" head="22"/>
+    <word id="20" ref="PER|Inscript|7|20" form="Παναθήναια" lemma="Παναθήναια" postag="a-p---na-" relation="APOS" head="19"/>
+    <word id="21" ref="PER|Inscript|7|21" form="Πανελλήνια" lemma="Πανελλήνιον" postag="n-p---na-" relation="OCOMP" head="22"/>
+    <word id="22" ref="PER|Inscript|7|22" form="ἔθεσαν" lemma="τίθημι" postag="v3paia---" relation="OBJ_CO" head="17" sem="time"/>
+    <word id="23" ref="PER|Inscript|7|23" form="," lemma="," postag="u--------" relation="AuxX" head="22"/>
+    <word id="24" ref="PER|Inscript|7|24" form="ἔτη" lemma="ἔτος" postag="n-p---nn-" relation="SBJ" head="31"/>
+    <word id="25" ref="PER|Inscript|7|25" form="ΧΗΗ𐅄𐅃ΙΙ" lemma="ΧΗΗ𐅄𐅃ΙΙ" postag="m--------" relation="ATR" head="24"/>
+    <word id="26" ref="PER|Inscript|7|26" form="," lemma="," postag="u--------" relation="AuxX" head="25"/>
+    <word id="27" ref="PER|Inscript|7|27" form="βασιλεύοντος" lemma="βασιλεύω" postag="v-sppamg-" relation="ADV" head="31" sem="time"/>
+    <word id="28" ref="PER|Inscript|7|28" form="Ἀθηνῶν" lemma="Ἀθῆναι" postag="n-p---fg-" relation="SBJ" head="27"/>
+    <word id="29" ref="PER|Inscript|7|29" form="Ἀμφικτύονος" lemma="Ἀμφικτύων" postag="n-s---mg-" relation="OBJ" head="27" sem="totality"/>
+    <word id="30" ref="PER|Inscript|7|30" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
+    <word id="31" ref="PER|Inscript|7|31" form="ἐστί" lemma="εἰμί" postag="v3spia---" relation="PRED" head="0" artificial="elliptic" insertion_id="0024e" sem="statement"/>
+  </sentence>
+  <sentence id="8" ref="PER|Inscript|8" document_id="IG_XII_5_444" subdoc="">
+    <word id="1" ref="PER|Inscript|8|1" form="ἀφ’" lemma="ἀπό" postag="r--------" relation="AuxP" head="21"/>
+    <word id="2" ref="PER|Inscript|8|2" form="οὗ" lemma="οὗ" postag="d--------" relation="ADV" head="9" sem="time"/>
+    <word id="3" ref="PER|Inscript|8|3" form="Κάδμος" lemma="Κάδμος" postag="n-s---mn-" relation="SBJ" head="9"/>
+    <word id="4" ref="PER|Inscript|8|4" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" head="5"/>
+    <word id="5" ref="PER|Inscript|8|5" form="Ἀγήνορος" lemma="Ἀγήνωρ" postag="n-s---mg-" relation="APOS" head="3"/>
+    <word id="6" ref="PER|Inscript|8|6" form="εἰς" lemma="εἰς" postag="r--------" relation="AuxP" head="8"/>
+    <word id="7" ref="PER|Inscript|8|7" form="Θήβας" lemma="Θῆβαι" postag="n-p---fa-" relation="OBJ" head="6" sem="direction"/>
+    <word id="8" ref="PER|Inscript|8|8" form="ἀφίκετο" lemma="ἀφικνέομαι" postag="v3saim---" relation="OBJ_CO" head="9" sem="time"/>
+    <word id="9" ref="PER|Inscript|8|9" form="καὶ" lemma="καί" postag="b--------" relation="COORD" head="1"/>
+    <word id="10" ref="PER|Inscript|8|10" form="ἔκτισε" lemma="ἐκτίνω" postag="v3saia---" relation="OBJ_CO" head="9" sem="time"/>
+    <word id="11" ref="PER|Inscript|8|11" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" head="12"/>
+    <word id="12" ref="PER|Inscript|8|12" form="Καδμείαν" lemma="Καδμεῖος" postag="a-s---fa-" relation="OBJ" head="10"/>
+    <word id="13" ref="PER|Inscript|8|13" form="," lemma="," postag="u--------" relation="AuxX" head="12"/>
+    <word id="14" ref="PER|Inscript|8|14" form="ἔτη" lemma="ἔτος" postag="n-p---nn-" relation="SBJ" head="21"/>
+    <word id="15" ref="PER|Inscript|8|15" form="ΧΗΗ𐅄𐅃" lemma="ΧΗΗ𐅄𐅃" postag="m--------" relation="ATR" head="14"/>
+    <word id="16" ref="PER|Inscript|8|16" form="," lemma="," postag="u--------" relation="AuxX" head="15"/>
+    <word id="17" ref="PER|Inscript|8|17" form="βασιλεύοντος" lemma="βασιλεύω" postag="v-sppamg-" relation="ADV" head="21" sem="time"/>
+    <word id="18" ref="PER|Inscript|8|18" form="Ἀθηνῶν" lemma="Ἀθῆναι" postag="n-p---fg-" relation="OBJ" head="17" sem="totality"/>
+    <word id="19" ref="PER|Inscript|8|19" form="Ἀμφικτύονος" lemma="Ἀμφικτύων" postag="n-s---mg-" relation="SBJ" head="17"/>
+    <word id="20" ref="PER|Inscript|8|20" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
+    <word id="21" ref="PER|Inscript|8|21" form="ἐστί" lemma="εἰμί" postag="v3spia---" relation="PRED" head="0" artificial="elliptic" insertion_id="0014e" sem="statement"/>
+  </sentence>
+  <sentence id="9" ref="PER|Inscript|9" document_id="IG_XII_5_444" subdoc="">
+    <word id="1" ref="PER|Inscript|9|1" form="ἀφ’" lemma="ἀπό" postag="r--------" relation="AuxP" head="19"/>
+    <word id="2" ref="PER|Inscript|9|2" form="οὗ" lemma="οὗ" postag="d--------" relation="ADV" head="10" sem="time"/>
+    <word id="3" ref="PER|Inscript|9|3" form="Σπαρτοὶ" lemma="Σπαρτός" postag="n-p---mn-" relation="SBJ" head="10"/>
+    <word id="4" ref="PER|Inscript|9|4" form="οἱ" lemma="ὁ" postag="l-p---mn-" relation="APOS" head="3"/>
+    <word id="5" ref="PER|Inscript|9|5" form="μετὰ" lemma="μετά" postag="r--------" relation="AuxP" head="4"/>
+    <word id="6" ref="PER|Inscript|9|6" form="Κάδμου" lemma="Κάδμος" postag="n-s---mg-" relation="ATR" head="5" sem="companion"/>
+    <word id="7" ref="PER|Inscript|9|7" form="Θηβῶν" lemma="Θῆβαι" postag="n-p---fg-" relation="OBJ" head="8" sem="non_pedalion_separation"/>
+    <word id="8" ref="PER|Inscript|9|8" form="ἐκπεσόντες" lemma="ἐκπίπτω" postag="v-papamn-" relation="ADV" head="10" sem="time"/>
+    <word id="9" ref="PER|Inscript|9|9" form="Λακωνικῆς" lemma="Λακωνικός" postag="a-s---fg-" relation="OBJ" head="10" sem="totality"/>
+    <word id="10" ref="PER|Inscript|9|10" form="ἐβασίλευσαν" lemma="βασιλεύω" postag="v3paia---" relation="OBJ" head="1" sem="time"/>
+    <word id="11" ref="PER|Inscript|9|11" form="," lemma="," postag="u--------" relation="AuxX" head="10"/>
+    <word id="12" ref="PER|Inscript|9|12" form="ἔτη" lemma="ἔτος" postag="n-p---nn-" relation="SBJ" head="19"/>
+    <word id="13" ref="PER|Inscript|9|13" form="ΧΗΗ𐅄ΙΙ" lemma="ΧΗΗ𐅄ΙΙ" postag="m--------" relation="ATR" head="12"/>
+    <word id="14" ref="PER|Inscript|9|14" form="," lemma="," postag="u--------" relation="AuxX" head="13"/>
+    <word id="15" ref="PER|Inscript|9|15" form="βασιλεύοντος" lemma="βασιλεύω" postag="v-sppamg-" relation="ADV" head="19" sem="time"/>
+    <word id="16" ref="PER|Inscript|9|16" form="Ἀθηνῶν" lemma="Ἀθῆναι" postag="n-p---fg-" relation="OBJ" head="15" sem="totality"/>
+    <word id="17" ref="PER|Inscript|9|17" form="Ἀμφικτύονος" lemma="Ἀμφικτύων" postag="n-s---mg-" relation="SBJ" head="15"/>
+    <word id="18" ref="PER|Inscript|9|18" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
+    <word id="19" ref="PER|Inscript|9|19" form="ἐστί" lemma="εἰμί" postag="v3spia---" relation="PRED" head="0" artificial="elliptic" insertion_id="0012e" sem="statement"/>
+  </sentence>
+  <sentence id="10" ref="PER|Inscript|10" document_id="IG_XII_5_444" subdoc="">
+    <word id="1" ref="PER|Inscript|10|1" form="ἀφ’" lemma="ἀπό" postag="r--------" relation="AuxP" head="60"/>
+    <word id="2" ref="PER|Inscript|10|2" form="οὗ" lemma="οὗ" postag="d--------" relation="ADV" head="20" sem="time"/>
+    <word id="3" ref="PER|Inscript|10|3" form="ναῦς" lemma="ναῦς" postag="n-s----n-" relation="SBJ" head="16"/>
+    <word id="4" ref="PER|Inscript|10|4" form="Δαναὸν" lemma="Δαναός" postag="a-s---ma-" relation="OBJ" head="5"/>
+    <word id="5" ref="PER|Inscript|10|5" form="ἄγουσα" lemma="ἄγω" postag="v-sppafn-" relation="ATR" head="3"/>
+    <word id="6" ref="PER|Inscript|10|6" form="μετὰ" lemma="μετά" postag="r--------" relation="AuxP" head="5"/>
+    <word id="7" ref="PER|Inscript|10|7" form="τῶν" lemma="ὁ" postag="l-p---fg-" relation="ATR" head="9"/>
+    <word id="8" ref="PER|Inscript|10|8" form="πεντήκοντα" lemma="πεντήκοντα" postag="m--------" relation="ATR" head="9"/>
+    <word id="9" ref="PER|Inscript|10|9" form="Δαναίδων" lemma="Δαναίδες" postag="n-p---fg-" relation="ADV" head="6" sem="companion"/>
+    <word id="10" ref="PER|Inscript|10|10" form="ἐξ" lemma="ἐκ" postag="r--------" relation="AuxP" head="15"/>
+    <word id="11" ref="PER|Inscript|10|11" form="Αἰγύπτου" lemma="Αἴγυπτος" postag="n-s---fg-" relation="OBJ" head="10" sem="non_pedalion_separation"/>
+    <word id="12" ref="PER|Inscript|10|12" form="εἰς" lemma="εἰς" postag="r--------" relation="AuxP" head="15"/>
+    <word id="13" ref="PER|Inscript|10|13" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" head="14"/>
+    <word id="14" ref="PER|Inscript|10|14" form="Ἑλλάδα" lemma="Ἑλλάς" postag="n-s---fa-" relation="OBJ" head="12" sem="direction"/>
+    <word id="15" ref="PER|Inscript|10|15" form="ἔπλευσε" lemma="πλέω" postag="v3saia---" relation="OBJ_CO" head="16" sem="time"/>
+    <word id="16" ref="PER|Inscript|10|16" form="καὶ" lemma="καί" postag="b--------" relation="COORD" head="20"/>
+    <word id="17" ref="PER|Inscript|10|17" form="ὠνομάσθη" lemma="ὀνομάζω" postag="v3saip---" relation="OBJ_CO" head="16" sem="time"/>
+    <word id="18" ref="PER|Inscript|10|18" form="πεντηκόντορος" lemma="πεντηκόντορος" postag="n-s---mn-" relation="PNOM" head="17"/>
+    <word id="19" ref="PER|Inscript|10|19" form="," lemma="," postag="u--------" relation="AuxX" head="18"/>
+    <word id="20" ref="PER|Inscript|10|20" form="καὶ" lemma="καί" postag="b--------" relation="COORD" head="1"/>
+    <word id="21" ref="PER|Inscript|10|21" form="αἱ" lemma="ὁ" postag="l-p---fn-" relation="ATR" head="23"/>
+    <word id="22" ref="PER|Inscript|10|22" form="Δαναοῦ" lemma="Δαναός" postag="n-s---mg-" relation="ATR" head="23" sem="possessor"/>
+    <word id="23" ref="PER|Inscript|10|23" form="θυγατέρες" lemma="θυγάτηρ" postag="n-p---fn-" relation="SBJ_CO" head="33"/>
+    <word id="24" ref="PER|Inscript|10|24" form="," lemma="," postag="u--------" relation="AuxX" head="23"/>
+    <word id="25" ref="PER|Inscript|10|25" form="καὶ" lemma="καί" postag="b--------" relation="AuxY" head="33"/>
+    <word id="26" ref="PER|Inscript|10|26" form="Ἀμυμώνη" lemma="Ἀμυμώνη" postag="n-s---fn-" relation="SBJ_CO" head="33"/>
+    <word id="27" ref="PER|Inscript|10|27" form="καὶ" lemma="καί" postag="b--------" relation="AuxY" head="0"/>
+    <word id="28" ref="PER|Inscript|10|28" form="ΒαG" lemma="" postag="" relation="GAP" head="0"/>
+    <word id="29" ref="PER|Inscript|10|29" form="καὶ" lemma="καί" postag="b--------" relation="AuxY" head="0"/>
+    <word id="30" ref="PER|Inscript|10|30" form="Gὼ" lemma="" postag="" relation="GAP" head="0"/>
+    <word id="31" ref="PER|Inscript|10|31" form="καὶ" lemma="καί" postag="b--------" relation="AuxY" head="33"/>
+    <word id="32" ref="PER|Inscript|10|32" form="Ἑλίκη" lemma="Ἑλίκη" postag="n-s---fn-" relation="SBJ_CO" head="33"/>
+    <word id="33" ref="PER|Inscript|10|33" form="καὶ" lemma="καί" postag="b--------" relation="COORD" head="42"/>
+    <word id="34" ref="PER|Inscript|10|34" form="Ἀρχεδίκη" lemma="Ἀρχεδίκη" postag="n-s---fn-" relation="SBJ_CO" head="33"/>
+    <word id="35" ref="PER|Inscript|10|35" form="ἀποκληρωθεῖσαι" lemma="ἀποκληρόω" postag="v-pappfn-" relation="ATR" head="33"/>
+    <word id="36" ref="PER|Inscript|10|36" form="ὑπὸ" lemma="ὑπό" postag="r--------" relation="AuxP" head="35"/>
+    <word id="37" ref="PER|Inscript|10|37" form="τῶν" lemma="ὁ" postag="l-p---mg-" relation="ATR" head="38"/>
+    <word id="38" ref="PER|Inscript|10|38" form="λοιπῶν" lemma="λοιπός" postag="a-p---mg-" relation="OBJ" head="36" sem="agent"/>
+    <word id="39" ref="PER|Inscript|10|39" form="Ἀθηνᾶς" lemma="Ἀθήνη" postag="n-s---fg-" relation="ATR" head="40" sem="possessor"/>
+    <word id="40" ref="PER|Inscript|10|40" form="ἱερὸν" lemma="ἱερός" postag="a-s---na-" relation="OBJ" head="41"/>
+    <word id="41" ref="PER|Inscript|10|41" form="ἱδρύσαντο" lemma="ἱδρύω" postag="v3paim---" relation="OBJ_CO" head="42" sem="time"/>
+    <word id="42" ref="PER|Inscript|10|42" form="καὶ" lemma="καί" postag="b--------" relation="COORD" head="20"/>
+    <word id="43" ref="PER|Inscript|10|43" form="ἔθυσαν" lemma="θύω" postag="v3paia---" relation="OBJ_CO" head="42" sem="time"/>
+    <word id="44" ref="PER|Inscript|10|44" form="ἐπὶ" lemma="ἐπί" postag="r--------" relation="ADV" head="43"/>
+    <word id="45" ref="PER|Inscript|10|45" form="τῆς" lemma="ὁ" postag="l-s---fg-" relation="ATR" head="46"/>
+    <word id="46" ref="PER|Inscript|10|46" form="ἀκτῆς" lemma="ἀκτή" postag="n-s---fg-" relation="ADV" head="44" sem="location"/>
+    <word id="47" ref="PER|Inscript|10|47" form="ἐμ" lemma="ἐν" postag="r--------" relation="AuxP" head="43"/>
+    <word id="48" ref="PER|Inscript|10|48" form="παράπλωι" lemma="παράπλοος" postag="n-s---md-" relation="ADV" head="47" sem="location"/>
+    <word id="49" ref="PER|Inscript|10|49" form="ἐν" lemma="ἐν" postag="r--------" relation="AuxP" head="43"/>
+    <word id="50" ref="PER|Inscript|10|50" form="Λίνδωι" lemma="Λίνδος" postag="n-s---fd-" relation="ADV" head="49" sem="location"/>
+    <word id="51" ref="PER|Inscript|10|51" form="τῆς" lemma="ὁ" postag="l-s---fg-" relation="ATR" head="52"/>
+    <word id="52" ref="PER|Inscript|10|52" form="Ῥοδίας" lemma="Ῥόδιος" postag="a-s---fg-" relation="ATR" head="50" sem="possessor"/>
+    <word id="53" ref="PER|Inscript|10|53" form="," lemma="," postag="u--------" relation="AuxX" head="52"/>
+    <word id="54" ref="PER|Inscript|10|54" form="ἔτη" lemma="ἔτος" postag="n-p---nn-" relation="SBJ" head="60"/>
+    <word id="55" ref="PER|Inscript|10|55" form="ΧΗΗΔΔΔΔ𐅃ΙΙ" lemma="ΧΗΗΔΔΔΔ𐅃ΙΙ" postag="m--------" relation="ATR" head="54"/>
+    <word id="56" ref="PER|Inscript|10|56" form="," lemma="," postag="u--------" relation="AuxX" head="55"/>
+    <word id="57" ref="PER|Inscript|10|57" form="βασιλεύοντος" lemma="βασιλεύω" postag="v-sppamg-" relation="ADV" head="60" sem="time"/>
+    <word id="58" ref="PER|Inscript|10|58" form="Ἀθηνῶν" lemma="Ἀθῆναι" postag="n-p---fg-" relation="OBJ" head="57" sem="totality"/>
+    <word id="59" ref="PER|Inscript|10|59" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
+    <word id="60" ref="PER|Inscript|10|60" form="ἐστί" lemma="εἰμί" postag="v3spia---" relation="PRED" head="0" artificial="elliptic" insertion_id="0054e" sem="statement"/>
+    <word id="61" ref="PER|Inscript|10|61" form="[0]" lemma="[0]" postag="n------g-" relation="SBJ" head="57" artificial="elliptic" insertion_id="0058e"/>
+  </sentence>
+  <sentence id="11" ref="PER|Inscript|11" document_id="IG_XII_5_444" subdoc="">
+    <word id="1" ref="PER|Inscript|11|1" form="ἀφ’" lemma="ἀπό" postag="r--------" relation="AuxP" head="74"/>
+    <word id="2" ref="PER|Inscript|11|2" form="οὗ" lemma="οὗ" postag="d--------" relation="ADV" head="26" sem="time"/>
+    <word id="3" ref="PER|Inscript|11|3" form="Ἐριχθόνιος" lemma="Ἐριχθόνιος" postag="n-s---mn-" relation="SBJ" head="14"/>
+    <word id="4" ref="PER|Inscript|11|4" form="Παναθηναίοις" lemma="Παναθήναια" postag="a-p---nd-" relation="ADV" head="9" sem="time"/>
+    <word id="5" ref="PER|Inscript|11|5" form="τοῖς" lemma="ὁ" postag="l-p---nd-" relation="ATR" head="7"/>
+    <word id="6" ref="PER|Inscript|11|6" form="πρώτοις" lemma="πρῶτος" postag="a-p---nds" relation="PNOM" head="7"/>
+    <word id="7" ref="PER|Inscript|11|7" form="γενομένοις" lemma="γίγνομαι" postag="v-papmnd-" relation="APOS" head="4" sem="time"/>
+    <word id="8" ref="PER|Inscript|11|8" form="ἅρμα" lemma="ἅρμα" postag="n-s---na-" relation="OBJ" head="9"/>
+    <word id="9" ref="PER|Inscript|11|9" form="ἔζευξε" lemma="ζεύγνυμι" postag="v3saia---" relation="OBJ_CO" head="14" sem="time"/>
+    <word id="10" ref="PER|Inscript|11|10" form="καὶ" lemma="καί" postag="b--------" relation="AuxY" head="14"/>
+    <word id="11" ref="PER|Inscript|11|11" form="τὸν" lemma="ὁ" postag="l-s---ma-" relation="ATR" head="12"/>
+    <word id="12" ref="PER|Inscript|11|12" form="ἀγῶνα" lemma="ἀγών" postag="n-s---ma-" relation="OBJ" head="13"/>
+    <word id="13" ref="PER|Inscript|11|13" form="ἐδείκνυε" lemma="δείκνυμι" postag="v3siia---" relation="OBJ_CO" head="14" sem="time"/>
+    <word id="14" ref="PER|Inscript|11|14" form="καὶ" lemma="καί" postag="b--------" relation="COORD" head="26"/>
+    <word id="15" ref="PER|Inscript|11|15" form="Ἀθηναίους" lemma="Ἀθηναῖος" postag="a-p---ma-" relation="OBJ" head="16"/>
+    <word id="16" ref="PER|Inscript|11|16" form="ὠνόμασε" lemma="ὀνομάζω" postag="v3saia---" relation="OBJ_CO" head="14" sem="time"/>
+    <word id="17" ref="PER|Inscript|11|17" form="," lemma="," postag="u--------" relation="AuxX" head="16"/>
+    <word id="18" ref="PER|Inscript|11|18" form="καὶ" lemma="καί" postag="b--------" relation="AuxY" head="26"/>
+    <word id="19" ref="PER|Inscript|11|19" form="ἄγαλμα" lemma="ἄγαλμα" postag="n-s---nn-" relation="SBJ" head="22"/>
+    <word id="20" ref="PER|Inscript|11|20" form="θεῶν" lemma="θεός" postag="n-p---mg-" relation="ATR" head="21" sem="possessor"/>
+    <word id="21" ref="PER|Inscript|11|21" form="μητρὸς" lemma="μήτηρ" postag="n-s---fg-" relation="ATR" head="19" sem="possessor"/>
+    <word id="22" ref="PER|Inscript|11|22" form="ἐφάνη" lemma="φαίνω" postag="v3saip---" relation="OBJ_CO" head="26" sem="time"/>
+    <word id="23" ref="PER|Inscript|11|23" form="ἐγ" lemma="ἐν" postag="r--------" relation="AuxP" head="22"/>
+    <word id="24" ref="PER|Inscript|11|24" form="Κυβέλοις" lemma="Κύβελα" postag="n-p---nd-" relation="ADV" head="23" sem="location"/>
+    <word id="25" ref="PER|Inscript|11|25" form="," lemma="," postag="u--------" relation="AuxX" head="24"/>
+    <word id="26" ref="PER|Inscript|11|26" form="καὶ" lemma="καί" postag="b--------" relation="COORD" head="1"/>
+    <word id="27" ref="PER|Inscript|11|27" form="Ὕαγνις" lemma="Ὕαγνις" postag="n-s---mn-" relation="SBJ" head="39"/>
+    <word id="28" ref="PER|Inscript|11|28" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" head="29"/>
+    <word id="29" ref="PER|Inscript|11|29" form="Φρὺξ" lemma="Φρύξ" postag="n-s---mn-" relation="ATR" head="27"/>
+    <word id="30" ref="PER|Inscript|11|30" form="αὐλοὺς" lemma="αὐλός" postag="n-p---ma-" relation="OBJ" head="32"/>
+    <word id="31" ref="PER|Inscript|11|31" form="πρῶτος" lemma="πρῶτος" postag="a-s---mn-" relation="ADV" head="32"/>
+    <word id="32" ref="PER|Inscript|11|32" form="ηὗρεν" lemma="εὑρίσκω" postag="v3saia---" relation="OBJ_CO" head="39" sem="time"/>
+    <word id="33" ref="PER|Inscript|11|33" form="ἐγ" lemma="ἐν" postag="r--------" relation="AuxP" head="32"/>
+    <word id="34" ref="PER|Inscript|11|34" form="Κελαιναῖς" lemma="Κελαιναί" postag="n-p---fd-" relation="ADV" head="33" sem="location"/>
+    <word id="35" ref="PER|Inscript|11|35" form="πόλει" lemma="πόλις" postag="n-s---fd-" relation="APOS" head="34" sem="location"/>
+    <word id="36" ref="PER|Inscript|11|36" form="τῆς" lemma="ὁ" postag="l-s---fg-" relation="ATR" head="37"/>
+    <word id="37" ref="PER|Inscript|11|37" form="Φρυγίας" lemma="Φρυγία" postag="n-s---fg-" relation="ATR" head="35" sem="possessor"/>
+    <word id="38" ref="PER|Inscript|11|38" form="," lemma="," postag="u--------" relation="AuxX" head="37"/>
+    <word id="39" ref="PER|Inscript|11|39" form="καὶ" lemma="καί" postag="b--------" relation="COORD" head="26"/>
+    <word id="40" ref="PER|Inscript|11|40" form="ἁρμονίαν" lemma="ἁρμονία" postag="n-s---fa-" relation="OBJ_CO" head="55"/>
+    <word id="41" ref="PER|Inscript|11|41" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" head="42"/>
+    <word id="42" ref="PER|Inscript|11|42" form="καλουμένην" lemma="καλέω" postag="v-sppefa-" relation="APOS" head="40"/>
+    <word id="43" ref="PER|Inscript|11|43" form="Φρυγιστὶ" lemma="Φρυγιστί" postag="d--------" relation="PNOM" head="42" sem="manner"/>
+    <word id="44" ref="PER|Inscript|11|44" form="πρῶτος" lemma="πρῶτος" postag="a-s---mn-" relation="ADV" head="45"/>
+    <word id="45" ref="PER|Inscript|11|45" form="ηὔλησε" lemma="αὐλέω" postag="v3saia---" relation="OBJ_CO" head="39" sem="time"/>
+    <word id="46" ref="PER|Inscript|11|46" form="," lemma="," postag="u--------" relation="AuxX" head="45"/>
+    <word id="47" ref="PER|Inscript|11|47" form="καὶ" lemma="καί" postag="b--------" relation="AuxY" head="55"/>
+    <word id="48" ref="PER|Inscript|11|48" form="ἄλλους" lemma="ἄλλος" postag="p-p---ma-" relation="ATR" head="49"/>
+    <word id="49" ref="PER|Inscript|11|49" form="νόμους" lemma="νόμος" postag="n-p---ma-" relation="OBJ_CO" head="55"/>
+    <word id="50" ref="PER|Inscript|11|50" form="μητρός" lemma="μήτηρ" postag="n-s---fg-" relation="ATR_CO" head="53" sem="possessor"/>
+    <word id="51" ref="PER|Inscript|11|51" form="," lemma="," postag="u--------" relation="AuxY" head="53"/>
+    <word id="52" ref="PER|Inscript|11|52" form="Διονύσου" lemma="Διονύσος" postag="n-s---mg-" relation="ATR_CO" head="53" sem="possessor"/>
+    <word id="53" ref="PER|Inscript|11|53" form="," lemma="," postag="u--------" relation="COORD" head="49"/>
+    <word id="54" ref="PER|Inscript|11|54" form="Πανὸς" lemma="Πᾶν" postag="n-s---mg-" relation="ATR_CO" head="53" sem="possessor"/>
+    <word id="55" ref="PER|Inscript|11|55" form="καὶ" lemma="καί" postag="b--------" relation="COORD" head="45"/>
+    <word id="56" ref="PER|Inscript|11|56" form="τὸν" lemma="ὁ" postag="l-s---ma-" relation="ATR" head="60"/>
+    <word id="57" ref="PER|Inscript|11|57" form="ἐπὶ" lemma="ἐπί" postag="r--------" relation="AuxP" head="60"/>
+    <word id="58" ref="PER|Inscript|11|58" form="τῶι" lemma="ὁ" postag="l-s---md-" relation="ATR" head="59"/>
+    <word id="59" ref="PER|Inscript|11|59" form="Πύθωνι" lemma="Πύθων" postag="n-s---md-" relation="ATR" head="57" sem="instrument"/>
+    <word id="60" ref="PER|Inscript|11|60" form="ἐπικήδειον" lemma="ἐπικήδειος" postag="a-s---ma-" relation="OBJ_CO" head="55"/>
+    <word id="61" ref="PER|Inscript|11|61" form="Λυδιστί" lemma="Λυδιστί" postag="d--------" relation="ATR" head="60" sem="manner"/>
+    <word id="62" ref="PER|Inscript|11|62" form="," lemma="," postag="u--------" relation="AuxX" head="61"/>
+    <word id="63" ref="PER|Inscript|11|63" form="ἔτη" lemma="ἔτος" postag="n-p---nn-" relation="SBJ" head="74"/>
+    <word id="64" ref="PER|Inscript|11|64" form="ΧΗΗΔΔΔΔΙΙ" lemma="ΧΗΗΔΔΔΔΙΙ" postag="m--------" relation="ATR" head="63"/>
+    <word id="65" ref="PER|Inscript|11|65" form="," lemma="," postag="u--------" relation="AuxX" head="64"/>
+    <word id="66" ref="PER|Inscript|11|66" form="βασιλεύοντος" lemma="βασιλεύω" postag="v-sppamg-" relation="ADV" head="74" sem="time"/>
+    <word id="67" ref="PER|Inscript|11|67" form="Ἀθηνῶν" lemma="Ἀθῆναι" postag="n-p---fg-" relation="OBJ" head="66" sem="totality"/>
+    <word id="68" ref="PER|Inscript|11|68" form="Ἐριχθονίου" lemma="Ἐριχθόνιος" postag="n-s---mg-" relation="SBJ" head="66"/>
+    <word id="69" ref="PER|Inscript|11|69" form="τοῦ" lemma="ὁ" postag="l-s---mg-" relation="ATR" head="72"/>
+    <word id="70" ref="PER|Inscript|11|70" form="τὸ" lemma="ὁ" postag="l-s---na-" relation="ATR" head="71"/>
+    <word id="71" ref="PER|Inscript|11|71" form="ἅρμα" lemma="ἅρμα" postag="n-s---na-" relation="OBJ" head="72"/>
+    <word id="72" ref="PER|Inscript|11|72" form="ζεύξαντος" lemma="ζεύγνυμι" postag="v-sapamg-" relation="APOS" head="68"/>
+    <word id="73" ref="PER|Inscript|11|73" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
+    <word id="74" ref="PER|Inscript|11|74" form="ἐστί" lemma="εἰμί" postag="v3spia---" relation="PRED" head="0" artificial="elliptic" insertion_id="0063e" sem="statement"/>
+  </sentence>
+  <sentence id="12" ref="PER|Inscript|12" document_id="IG_XII_5_444" subdoc="">
+    <word id="1" ref="PER|Inscript|12|1" form="ἀφ’" lemma="ἀπό" postag="r--------" relation="AuxP" head="32"/>
+    <word id="2" ref="PER|Inscript|12|2" form="οὗ" lemma="οὗ" postag="d--------" relation="ADV" head="11" sem="time"/>
+    <word id="3" ref="PER|Inscript|12|3" form="Μίνως" lemma="Μίνως" postag="n-s---mn-" relation="SBJ" head="9"/>
+    <word id="4" ref="PER|Inscript|12|4" form="Κρήτης" lemma="Κρήτη" postag="n-s---fg-" relation="OBJ" head="5"/>
+    <word id="5" ref="PER|Inscript|12|5" form="βασιλεύσας" lemma="βασιλεύω" postag="v-sapamn-" relation="ADV" head="9" sem="time"/>
+    <word id="6" ref="PER|Inscript|12|6" form="Κνωσὸν" lemma="Κνωσσός" postag="n-s---ma-" relation="OBJ_CO" head="7"/>
+    <word id="7" ref="PER|Inscript|12|7" form="καὶ" lemma="καί" postag="b--------" relation="COORD" head="9"/>
+    <word id="8" ref="PER|Inscript|12|8" form="Κυδωνίαν" lemma="Κυδωνία" postag="n-s---fa-" relation="OBJ_CO" head="7"/>
+    <word id="9" ref="PER|Inscript|12|9" form="ὤικισε" lemma="οἰκίζω" postag="v3saia---" relation="OBJ_CO" head="11" sem="time"/>
+    <word id="10" ref="PER|Inscript|12|10" form="," lemma="," postag="u--------" relation="AuxX" head="9"/>
+    <word id="11" ref="PER|Inscript|12|11" form="καὶ" lemma="καί" postag="b--------" relation="COORD" head="1"/>
+    <word id="12" ref="PER|Inscript|12|12" form="σίδηρος" lemma="σίδηρος" postag="n-s---mn-" relation="SBJ" head="13"/>
+    <word id="13" ref="PER|Inscript|12|13" form="ηὑρέθη" lemma="εὑρίσκω" postag="v3saip---" relation="OBJ_CO" head="11" sem="time"/>
+    <word id="14" ref="PER|Inscript|12|14" form="ἐν" lemma="ἐν" postag="r--------" relation="AuxP" head="13"/>
+    <word id="15" ref="PER|Inscript|12|15" form="τῆι" lemma="ὁ" postag="l-s---fd-" relation="ATR" head="16"/>
+    <word id="16" ref="PER|Inscript|12|16" form="ἴδηι" lemma="ἴδη" postag="n-s---fd-" relation="ADV" head="14" sem="location"/>
+    <word id="17" ref="PER|Inscript|12|17" form="," lemma="," postag="u--------" relation="AuxX" head="16"/>
+    <word id="18" ref="PER|Inscript|12|18" form="εὑρόντων" lemma="εὑρίσκω" postag="v-papamg-" relation="ADV" head="13" sem="cause"/>
+    <word id="19" ref="PER|Inscript|12|19" form="τῶν" lemma="ὁ" postag="l-p---mg-" relation="ATR" head="21"/>
+    <word id="20" ref="PER|Inscript|12|20" form="Ἰδαίων" lemma="Ἰδαῖος" postag="a-p---mg-" relation="ATR" head="21"/>
+    <word id="21" ref="PER|Inscript|12|21" form="Δακτύλων" lemma="Δάκτυλοι" postag="n-p---mg-" relation="APOS" head="23"/>
+    <word id="22" ref="PER|Inscript|12|22" form="Κέλμιος" lemma="Κελμίς" postag="n-s---mg-" relation="SBJ_CO" head="23"/>
+    <word id="23" ref="PER|Inscript|12|23" form="καὶ" lemma="καί" postag="b--------" relation="COORD" head="18"/>
+    <word id="24" ref="PER|Inscript|12|24" form="Δαμναμενέως" lemma="Δαμναμενεύς" postag="n-s---mg-" relation="SBJ_CO" head="23"/>
+    <word id="25" ref="PER|Inscript|12|25" form="," lemma="," postag="u--------" relation="AuxX" head="24"/>
+    <word id="26" ref="PER|Inscript|12|26" form="ἔτη" lemma="ἔτος" postag="n-p---nn-" relation="SBJ" head="32"/>
+    <word id="27" ref="PER|Inscript|12|27" form="," lemma="," postag="u--------" relation="AuxX" head="33"/>
+    <word id="28" ref="PER|Inscript|12|28" form="βασιλεύοντος" lemma="βασιλεύω" postag="v-sppamg-" relation="ADV" head="32" sem="time"/>
+    <word id="29" ref="PER|Inscript|12|29" form="Ἀθηνῶν" lemma="Ἀθῆναι" postag="n-p---fg-" relation="OBJ" head="28" sem="totality"/>
+    <word id="30" ref="PER|Inscript|12|30" form="Πανδίονος" lemma="Πανδίων" postag="n-s---mg-" relation="SBJ" head="28"/>
+    <word id="31" ref="PER|Inscript|12|31" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
+    <word id="32" ref="PER|Inscript|12|32" form="ἐστὶ" lemma="εἰμί" postag="v3spia---" relation="PRED" head="0" artificial="elliptic" insertion_id="0026e" sem="statement"/>
+    <word id="33" ref="PER|Inscript|12|33" form="[0]" lemma="[0]" postag="m--------" relation="ATR" head="26" artificial="elliptic" insertion_id="0026f"/>
+    <word id="34" ref="PER|Inscript|12|34" form="αὐτὸν" lemma="αὐτός" postag="p-s---ma-" relation="OBJ" head="18" artificial="elliptic" insertion_id="0018e"/>
+  </sentence>
+  <sentence id="13" ref="PER|Inscript|13" document_id="IG_XII_5_444" subdoc="">
+    <word id="1" ref="PER|Inscript|13|1" form="ἀφ’" lemma="ἀπό" postag="r--------" relation="AuxP" head="27"/>
+    <word id="2" ref="PER|Inscript|13|2" form="οὗ" lemma="οὗ" postag="d--------" relation="ADV" head="9" sem="time"/>
+    <word id="3" ref="PER|Inscript|13|3" form="Δημήτηρ" lemma="Δημήτηρ" postag="n-s---fn-" relation="SBJ" head="8"/>
+    <word id="4" ref="PER|Inscript|13|4" form="ἀφικομένη" lemma="ἀφικνέομαι" postag="v-sapmfn-" relation="ADV" head="8" sem="time"/>
+    <word id="5" ref="PER|Inscript|13|5" form="εἰς" lemma="εἰς" postag="r--------" relation="AuxP" head="4"/>
+    <word id="6" ref="PER|Inscript|13|6" form="Ἀθήνας" lemma="Ἀθῆναι" postag="n-p---fa-" relation="OBJ" head="5" sem="direction"/>
+    <word id="7" ref="PER|Inscript|13|7" form="καρπὸν" lemma="καρπός" postag="n-s---ma-" relation="OBJ" head="8"/>
+    <word id="8" ref="PER|Inscript|13|8" form="ἐφύτευσεν" lemma="φυτεύω" postag="v3saia---" relation="OBJ_CO" head="9" sem="time"/>
+    <word id="9" ref="PER|Inscript|13|9" form="καὶ" lemma="καί" postag="b--------" relation="COORD" head="1"/>
+    <word id="10" ref="PER|Inscript|13|10" form="προηροσία" lemma="προηρόσιος" postag="a-s---fn-" relation="SBJ" head="11"/>
+    <word id="11" ref="PER|Inscript|13|11" form="ἐπράχθη" lemma="πράσσω" postag="v3saip---" relation="OBJ_CO" head="9" sem="time"/>
+    <word id="12" ref="PER|Inscript|13|12" form="πρώτη" lemma="πρῶτος" postag="a-s---fn-" relation="ATR" head="10"/>
+    <word id="13" ref="PER|Inscript|13|13" form="δ?" lemma="..." postag="v-s-p-mg-" relation="ADV" head="11"/>
+    <word id="14" ref="PER|Inscript|13|14" form="Τριπτολέμου" lemma="Τριπτόλεμος" postag="n-s---mg-" relation="SBJ" head="13"/>
+    <word id="15" ref="PER|Inscript|13|15" form="τοῦ" lemma="ὁ" postag="l-s---mg-" relation="APOS" head="14"/>
+    <word id="16" ref="PER|Inscript|13|16" form="Κελεοῦ" lemma="Κελεός" postag="n-s---mg-" relation="ATR_CO" head="17" sem="possessor"/>
+    <word id="17" ref="PER|Inscript|13|17" form="καὶ" lemma="καί" postag="b--------" relation="COORD" head="15"/>
+    <word id="18" ref="PER|Inscript|13|18" form="Νεαίρας" lemma="Νέαιρα" postag="n-s---fg-" relation="ATR_CO" head="17" sem="possessor"/>
+    <word id="19" ref="PER|Inscript|13|19" form="," lemma="," postag="u--------" relation="AuxX" head="18"/>
+    <word id="20" ref="PER|Inscript|13|20" form="ἔτη" lemma="ἔτος" postag="n-p---nn-" relation="SBJ" head="27"/>
+    <word id="21" ref="PER|Inscript|13|21" form="ΧΗΔΔΔΔ𐅃Ι" lemma="ΧΗΔΔΔΔ𐅃Ι" postag="m--------" relation="ATR" head="20"/>
+    <word id="22" ref="PER|Inscript|13|22" form="," lemma="," postag="u--------" relation="AuxX" head="21"/>
+    <word id="23" ref="PER|Inscript|13|23" form="βασιλεύοντος" lemma="βασιλεύω" postag="v-sppamg-" relation="ADV" head="27" sem="time"/>
+    <word id="24" ref="PER|Inscript|13|24" form="Ἀθήνησιν" lemma="Ἀθῆναι" postag="d--------" relation="OBJ" head="23" sem="location"/>
+    <word id="25" ref="PER|Inscript|13|25" form="Ἐριχθέως" lemma="Ἐριχθεύς" postag="n-s---mg-" relation="SBJ" head="23"/>
+    <word id="26" ref="PER|Inscript|13|26" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
+    <word id="27" ref="PER|Inscript|13|27" form="ἐστὶ" lemma="εἰμί" postag="v3spia---" relation="PRED" head="0" artificial="elliptic" insertion_id="0020e" sem="statement"/>
+  </sentence>
+  <sentence id="14" ref="PER|Inscript|14" document_id="IG_XII_5_444" subdoc="">
+    <word id="1" ref="PER|Inscript|14|1" form="ἀφ’" lemma="ἀπό" postag="r--------" relation="AuxP" head="20"/>
+    <word id="2" ref="PER|Inscript|14|2" form="οὗ" lemma="οὗ" postag="d--------" relation="ADV" head="6" sem="time"/>
+    <word id="3" ref="PER|Inscript|14|3" form="Τριπτόλεμος" lemma="Τριπτόλεμος" postag="n-s---mn-" relation="SBJ" head="6"/>
+    <word id="4" ref="PER|Inscript|14|4" form="πρῶτος" lemma="πρῶτος" postag="a-s---mn-" relation="ADV" head="6"/>
+    <word id="5" ref="PER|Inscript|14|5" form="καρπὸν" lemma="καρπός" postag="n-s---ma-" relation="OBJ" head="6"/>
+    <word id="6" ref="PER|Inscript|14|6" form="ἔσπειρεν" lemma="σπείρω" postag="v3saia---" relation="OBJ" head="1" sem="time"/>
+    <word id="7" ref="PER|Inscript|14|7" form="ἐν" lemma="ἐν" postag="r--------" relation="AuxP" head="6"/>
+    <word id="8" ref="PER|Inscript|14|8" form="τῆι" lemma="ὁ" postag="l-s---fd-" relation="ATR" head="9"/>
+    <word id="9" ref="PER|Inscript|14|9" form="Ῥαρίαι" lemma="Ῥάριος" postag="a-s---fd-" relation="ADV" head="7" sem="location"/>
+    <word id="10" ref="PER|Inscript|14|10" form="καλουμένηι" lemma="καλέω" postag="v-sppefd-" relation="ATR" head="9"/>
+    <word id="11" ref="PER|Inscript|14|11" form="Ἐλευσῖνι" lemma="Ἐλευσίς" postag="n-s---fd-" relation="PNOM" head="10"/>
+    <word id="12" ref="PER|Inscript|14|12" form="," lemma="," postag="u--------" relation="AuxX" head="11"/>
+    <word id="13" ref="PER|Inscript|14|13" form="ἔτη" lemma="ἔτος" postag="n-p---nn-" relation="SBJ" head="20"/>
+    <word id="14" ref="PER|Inscript|14|14" form="ΧΗΔΔΔΔ𐅃" lemma="ΧΗΔΔΔΔ𐅃" postag="m--------" relation="ATR" head="13"/>
+    <word id="15" ref="PER|Inscript|14|15" form="," lemma="," postag="u--------" relation="AuxX" head="14"/>
+    <word id="16" ref="PER|Inscript|14|16" form="βασιλεύοντος" lemma="βασιλεύω" postag="v-sppamg-" relation="ADV" head="20" sem="time"/>
+    <word id="17" ref="PER|Inscript|14|17" form="Ἀθηνῶν" lemma="Ἀθῆναι" postag="n-p---fg-" relation="OBJ" head="16" sem="totality"/>
+    <word id="18" ref="PER|Inscript|14|18" form="Ἐριχθέως" lemma="Ἐριχθεύς" postag="n-s---mg-" relation="SBJ" head="16"/>
+    <word id="19" ref="PER|Inscript|14|19" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
+    <word id="20" ref="PER|Inscript|14|20" form="ἐστὶ" lemma="εἰμί" postag="v3spia---" relation="PRED" head="0" artificial="elliptic" insertion_id="0013e" sem="statement"/>
+  </sentence>
+  <sentence id="15" ref="PER|Inscript|15" document_id="IG_XII_5_444" subdoc="">
+    <word id="1" ref="PER|Inscript|15|1" form="ἀφ’" lemma="ἀπό" postag="r--------" relation="AuxP" head="41"/>
+    <word id="2" ref="PER|Inscript|15|2" form="οὗ" lemma="οὗ" postag="d--------" relation="ADV" head="12" sem="time"/>
+    <word id="3" ref="PER|Inscript|15|3" form="Ὀρφεὺς" lemma="Ὀρφεύς" postag="n-s---mn-" relation="SBJ" head="12"/>
+    <word id="4" ref="PER|Inscript|15|4" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" head="8"/>
+    <word id="5" ref="PER|Inscript|15|5" form="Οἰάγρου" lemma="Οἴαγρος" postag="n-s---mg-" relation="ATR_CO" head="6" sem="possessor"/>
+    <word id="6" ref="PER|Inscript|15|6" form="καὶ" lemma="καί" postag="b--------" relation="COORD" head="8"/>
+    <word id="7" ref="PER|Inscript|15|7" form="Καλλιόπης" lemma="Καλλιόπη" postag="n-s---fg-" relation="ATR_CO" head="6" sem="possessor"/>
+    <word id="8" ref="PER|Inscript|15|8" form="υἱὸς" lemma="υἱός" postag="n-s---mn-" relation="APOS" head="3"/>
+    <word id="9" ref="PER|Inscript|15|9" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" head="11"/>
+    <word id="10" ref="PER|Inscript|15|10" form="ἑαυτοῦ" lemma="ἑαυτοῦ" postag="p-s---mg-" relation="ATR" head="11" sem="possessor"/>
+    <word id="11" ref="PER|Inscript|15|11" form="ποίησιν" lemma="ποίησις" postag="n-s---fa-" relation="OBJ_CO" head="25"/>
+    <word id="12" ref="PER|Inscript|15|12" form="ἐξέθηκε" lemma="ἐκτίθημι" postag="v3saia---" relation="OBJ" head="1" sem="time"/>
+    <word id="13" ref="PER|Inscript|15|13" form="Κόρης" lemma="Κόρα" postag="n-s---fg-" relation="ATR" head="15" sem="patient"/>
+    <word id="14" ref="PER|Inscript|15|14" form="τε" lemma="τε" postag="b--------" relation="AuxY" head="25"/>
+    <word id="15" ref="PER|Inscript|15|15" form="ἁρπαγὴν" lemma="ἁρπαγή" postag="n-s---fa-" relation="OBJ_CO" head="25"/>
+    <word id="16" ref="PER|Inscript|15|16" form="καὶ" lemma="καί" postag="b--------" relation="AuxY" head="25"/>
+    <word id="17" ref="PER|Inscript|15|17" form="Δήμητρος" lemma="Δημήτηρ" postag="n-s---fg-" relation="ATR" head="18" sem="agent"/>
+    <word id="18" ref="PER|Inscript|15|18" form="ζήτησιν" lemma="ζήτησις" postag="n-s---fa-" relation="OBJ_CO" head="25"/>
+    <word id="19" ref="PER|Inscript|15|19" form="καὶ" lemma="καί" postag="b--------" relation="AuxY" head="25"/>
+    <word id="20" ref="PER|Inscript|15|20" form="τὸν" lemma="ὁ" postag="l-s---ma-" relation="ATR" head="24"/>
+    <word id="21" ref="PER|Inscript|15|21" form="αὐτουργηθέντα" lemma="αὐτουργέω" postag="v-sappma-" relation="ATR" head="24"/>
+    <word id="22" ref="PER|Inscript|15|22" form="ὑπ’" lemma="ὑπό" postag="r--------" relation="AuxP" head="21"/>
+    <word id="23" ref="PER|Inscript|15|23" form="αὐτῆς" lemma="αὐτός" postag="p-s---fg-" relation="OBJ" head="22" sem="agent"/>
+    <word id="24" ref="PER|Inscript|15|24" form="σπόρον" lemma="σπόρος" postag="n-s---ma-" relation="OBJ_CO" head="25"/>
+    <word id="25" ref="PER|Inscript|15|25" form="καὶ" lemma="καί" postag="b--------" relation="COORD" head="12"/>
+    <word id="26" ref="PER|Inscript|15|26" form="τὸ" lemma="ὁ" postag="l-s---na-" relation="ATR" head="28"/>
+    <word id="27" ref="PER|Inscript|15|27" form="ἐκεῖθεν" lemma="ἐκεῖθεν" postag="d--------" relation="ADV" head="28" sem="source"/>
+    <word id="28" ref="PER|Inscript|15|28" form="ἔθος" lemma="ἔθος" postag="n-s---na-" relation="OBJ" head="25"/>
+    <word id="29" ref="PER|Inscript|15|29" form="τῶν" lemma="ὁ" postag="l-p---mg-" relation="ATR" head="30"/>
+    <word id="30" ref="PER|Inscript|15|30" form="ὑποδεξαμένων" lemma="ὑποδείκνυμι" postag="v-papmmg-" relation="ATR" head="28" sem="possessor"/>
+    <word id="31" ref="PER|Inscript|15|31" form="τὸν" lemma="ὁ" postag="l-s---ma-" relation="ATR" head="32"/>
+    <word id="32" ref="PER|Inscript|15|32" form="καρπόν" lemma="καρπός" postag="n-s---ma-" relation="OBJ" head="30"/>
+    <word id="33" ref="PER|Inscript|15|33" form="," lemma="," postag="u--------" relation="AuxX" head="32"/>
+    <word id="34" ref="PER|Inscript|15|34" form="ἔτη" lemma="ἔτος" postag="n-p---nn-" relation="SBJ" head="41"/>
+    <word id="35" ref="PER|Inscript|15|35" form="ΧΗΔΔΔ𐅃" lemma="ΧΗΔΔΔ𐅃" postag="m--------" relation="ATR" head="34"/>
+    <word id="36" ref="PER|Inscript|15|36" form="," lemma="," postag="u--------" relation="AuxX" head="35"/>
+    <word id="37" ref="PER|Inscript|15|37" form="βασιλεύοντος" lemma="βασιλεύω" postag="v-sppamg-" relation="ADV" head="41" sem="time"/>
+    <word id="38" ref="PER|Inscript|15|38" form="Ἀθηνῶν" lemma="Ἀθῆναι" postag="n-p---fg-" relation="OBJ" head="37" sem="totality"/>
+    <word id="39" ref="PER|Inscript|15|39" form="Ἐριχθέως" lemma="Ἐριχθεύς" postag="n-s---mg-" relation="SBJ" head="37"/>
+    <word id="40" ref="PER|Inscript|15|40" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
+    <word id="41" ref="PER|Inscript|15|41" form="ἐστὶ" lemma="εἰμί" postag="v3spia---" relation="PRED" head="0" artificial="elliptic" insertion_id="0034e" sem="statement"/>
+  </sentence>
+</treebank>

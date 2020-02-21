@@ -1,0 +1,1424 @@
+<treebank>
+  <sentence id="1" ref="HARR|Septuag|1" document_id="0527-055" subdoc="1">
+    <word id="1" ref="HARR|Septuag|1|1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="8"/>
+    <word id="2" ref="HARR|Septuag|1|2" form="ἦν" lemma="εἰμί" postag="v3siia---" relation="PRED_CO" head="8"/>
+    <word id="3" ref="HARR|Septuag|1|3" form="ἀνὴρ" lemma="ἀνήρ" postag="n-s---mn-" relation="SBJ" head="2"/>
+    <word id="4" ref="HARR|Septuag|1|4" form="οἰκῶν" lemma="οἰκέω" postag="v-sppamnp" relation="ATR" head="3"/>
+    <word id="5" ref="HARR|Septuag|1|5" form="ἐν" lemma="ἐν" postag="r--------" relation="AuxP" head="4"/>
+    <word id="6" ref="HARR|Septuag|1|6" form="Βαβυλῶνι" lemma="Βαβυλών" postag="n-s---fd-" relation="ADV" head="5" sem="location"/>
+    <word id="7" ref="HARR|Septuag|1|7" form="," lemma="," postag="u--------" relation="AuxX" head="8"/>
+    <word id="8" ref="HARR|Septuag|1|8" form="καὶ" lemma="καί" postag="b--------" relation="COORD" head="0"/>
+    <word id="9" ref="HARR|Septuag|1|9" form="ὄνομα" lemma="ὄνομα" postag="n-s---nn-" relation="SBJ" head="13"/>
+    <word id="10" ref="HARR|Septuag|1|10" form="αὐτῷ" lemma="αὐτός" postag="p-s---md-" relation="PNOM" head="13" sem="possessor"/>
+    <word id="11" ref="HARR|Septuag|1|11" form="Ιωακιμ" lemma="Ιωακιμ" postag="n-s---mn-" relation="PNOM" head="13"/>
+    <word id="12" ref="HARR|Septuag|1|12" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
+    <word id="13" ref="HARR|Septuag|1|13" form="ην" lemma="" postag="---------" relation="PRED_CO" head="8" artificial="elliptic" insertion_id="0011e"/>
+  </sentence>
+  <sentence id="2" ref="HARR|Septuag|2" document_id="0527-055" subdoc="2">
+    <word id="1" ref="HARR|Septuag|2|1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="2"/>
+    <word id="2" ref="HARR|Septuag|2|2" form="ἔλαβεν" lemma="λαμβάνω" postag="v3saia---" relation="PRED" head="0"/>
+    <word id="3" ref="HARR|Septuag|2|3" form="γυναῖκα" lemma="γυνή" postag="n-s---fa-" relation="OBJ" head="2"/>
+    <word id="4" ref="HARR|Septuag|2|4" form="," lemma="," postag="u--------" relation="AuxX" head="18"/>
+    <word id="5" ref="HARR|Septuag|2|5" form="ᾗ" lemma="ὅς" postag="p-s---fd-" relation="PNOM" head="18" sem="possessor"/>
+    <word id="6" ref="HARR|Septuag|2|6" form="ὄνομα" lemma="ὄνομα" postag="n-s---nn-" relation="SBJ" head="18"/>
+    <word id="7" ref="HARR|Septuag|2|7" form="Σουσαννα" lemma="Σουσάννα" postag="n-s---fn-" relation="PNOM" head="18"/>
+    <word id="8" ref="HARR|Septuag|2|8" form="θυγάτηρ" lemma="θυγάτηρ" postag="n-s---fn-" relation="APOS" head="7"/>
+    <word id="9" ref="HARR|Septuag|2|9" form="Χελκιου" lemma="Χελκιος" postag="n-s---mg-" relation="ATR" head="8" sem="possessor"/>
+    <word id="10" ref="HARR|Septuag|2|10" form="," lemma="," postag="u--------" relation="AuxX" head="18"/>
+    <word id="11" ref="HARR|Septuag|2|11" form="καλὴ" lemma="καλός" postag="a-s---fn-" relation="ATR_CO" head="13"/>
+    <word id="12" ref="HARR|Septuag|2|12" form="σφόδρα" lemma="σφόδρα" postag="d--------" relation="ADV" head="11"/>
+    <word id="13" ref="HARR|Septuag|2|13" form="καὶ" lemma="καί" postag="b--------" relation="COORD" head="7"/>
+    <word id="14" ref="HARR|Septuag|2|14" form="φοβουμένη" lemma="φοβέω" postag="v-sppefn-" relation="ATR_CO" head="13"/>
+    <word id="15" ref="HARR|Septuag|2|15" form="τὸν" lemma="ὁ" postag="l-s---ma-" relation="ATR" head="16"/>
+    <word id="16" ref="HARR|Septuag|2|16" form="κύριον" lemma="κύριος" postag="n-s---ma-" relation="OBJ" head="14"/>
+    <word id="17" ref="HARR|Septuag|2|17" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
+    <word id="18" ref="HARR|Septuag|2|18" form="ην" lemma="" postag="---------" relation="ATR" head="3" artificial="elliptic" insertion_id="0009e"/>
+  </sentence>
+  <sentence id="3" ref="HARR|Septuag|3" document_id="0527-055" subdoc="3">
+    <word id="1" ref="HARR|Septuag|3|1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="6"/>
+    <word id="2" ref="HARR|Septuag|3|2" form="οἱ" lemma="ὁ" postag="l-p---mn-" relation="ATR" head="3"/>
+    <word id="3" ref="HARR|Septuag|3|3" form="γονεῖς" lemma="γονεύς" postag="n-p---mn-" relation="SBJ" head="6"/>
+    <word id="4" ref="HARR|Septuag|3|4" form="αὐτῆς" lemma="αὐτός" postag="p-s---fg-" relation="ATR" head="3" sem="possessor"/>
+    <word id="5" ref="HARR|Septuag|3|5" form="δίκαιοι" lemma="δίκαιος" postag="a-p---mn-" relation="PNOM" head="16"/>
+    <word id="6" ref="HARR|Septuag|3|6" form="καὶ" lemma="καί" postag="b--------" relation="COORD" head="0"/>
+    <word id="7" ref="HARR|Septuag|3|7" form="ἐδίδαξαν" lemma="διδάσκω" postag="v3paia---" relation="PRED_CO" head="6"/>
+    <word id="8" ref="HARR|Septuag|3|8" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" head="9"/>
+    <word id="9" ref="HARR|Septuag|3|9" form="θυγατέρα" lemma="θυγάτηρ" postag="n-s---fa-" relation="OBJ" head="7"/>
+    <word id="10" ref="HARR|Septuag|3|10" form="αὐτῶν" lemma="αὐτός" postag="p-p---mg-" relation="ATR" head="9" sem="possessor"/>
+    <word id="11" ref="HARR|Septuag|3|11" form="κατὰ" lemma="κατά" postag="r--------" relation="AuxP" head="7"/>
+    <word id="12" ref="HARR|Septuag|3|12" form="τὸν" lemma="ὁ" postag="l-s---ma-" relation="ATR" head="13"/>
+    <word id="13" ref="HARR|Septuag|3|13" form="νόμον" lemma="νόμος" postag="n-s---ma-" relation="OBJ" head="11" sem="harrington_orientation"/>
+    <word id="14" ref="HARR|Septuag|3|14" form="Μωυσῆ" lemma="Μωϋσῆς" postag="n-s---mg-" relation="ATR" head="13" sem="possessor"/>
+    <word id="15" ref="HARR|Septuag|3|15" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
+    <word id="16" ref="HARR|Septuag|3|16" form="ησαν" lemma="" postag="---------" relation="PRED_CO" head="6" artificial="elliptic" insertion_id="0004e"/>
+  </sentence>
+  <sentence id="4" ref="HARR|Septuag|4" document_id="0527-055" subdoc="4">
+    <word id="1" ref="HARR|Septuag|4|1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="7"/>
+    <word id="2" ref="HARR|Septuag|4|2" form="ἦν" lemma="εἰμί" postag="v3siia---" relation="PRED_CO" head="7"/>
+    <word id="3" ref="HARR|Septuag|4|3" form="Ιωακιμ" lemma="Ιωακιμ" postag="n-s---mn-" relation="SBJ" head="2"/>
+    <word id="4" ref="HARR|Septuag|4|4" form="πλούσιος" lemma="πλούσιος" postag="a-s---mn-" relation="PNOM" head="2"/>
+    <word id="5" ref="HARR|Septuag|4|5" form="σφόδρα" lemma="σφόδρα" postag="d--------" relation="ADV" head="4"/>
+    <word id="6" ref="HARR|Septuag|4|6" form="," lemma="," postag="u--------" relation="AuxX" head="7"/>
+    <word id="7" ref="HARR|Septuag|4|7" form="καὶ" lemma="καί" postag="b--------" relation="COORD" head="0"/>
+    <word id="8" ref="HARR|Septuag|4|8" form="ἦν" lemma="εἰμί" postag="v3siia---" relation="PRED_CO" head="7"/>
+    <word id="9" ref="HARR|Septuag|4|9" form="αὐτῷ" lemma="αὐτός" postag="p-s---md-" relation="PNOM" head="8" sem="possessor"/>
+    <word id="10" ref="HARR|Septuag|4|10" form="παράδεισος" lemma="παράδεισος" postag="n-s---mn-" relation="SBJ" head="8"/>
+    <word id="11" ref="HARR|Septuag|4|11" form="γειτνιῶν" lemma="γειτνιάω" postag="v-sppamn-" relation="ATR" head="10"/>
+    <word id="12" ref="HARR|Septuag|4|12" form="τῷ" lemma="ὁ" postag="l-s---md-" relation="ATR" head="13"/>
+    <word id="13" ref="HARR|Septuag|4|13" form="οἴκῳ" lemma="οἶκος" postag="n-s---md-" relation="ADV" head="11" sem="harrington_reference"/>
+    <word id="14" ref="HARR|Septuag|4|14" form="αὐτοῦ" lemma="αὐτός" postag="p-s---mg-" relation="ATR" head="13" sem="possessor"/>
+    <word id="15" ref="HARR|Septuag|4|15" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+  <sentence id="5" ref="HARR|Septuag|5" document_id="0527-055" subdoc="5">
+    <word id="1" ref="HARR|Septuag|5|1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="4"/>
+    <word id="2" ref="HARR|Septuag|5|2" form="πρὸς" lemma="πρός" postag="r--------" relation="AuxP" head="4"/>
+    <word id="3" ref="HARR|Septuag|5|3" form="αὐτὸν" lemma="αὐτός" postag="p-s---ma-" relation="OBJ" head="2" sem="harrington_orientation"/>
+    <word id="4" ref="HARR|Septuag|5|4" form="προσήγοντο" lemma="προσάγω" postag="v3piie---" relation="PRED" head="0"/>
+    <word id="5" ref="HARR|Septuag|5|5" form="οἱ" lemma="ὁ" postag="l-p---mn-" relation="ATR" head="6"/>
+    <word id="6" ref="HARR|Septuag|5|6" form="Ιουδαῖοι" lemma="Ἰουδαῖος" postag="a-p---mnp" relation="SBJ" head="4"/>
+    <word id="7" ref="HARR|Septuag|5|7" form="διὰ" lemma="διά" postag="r--------" relation="AuxP" head="4"/>
+    <word id="8" ref="HARR|Septuag|5|8" form="τὸ" lemma="ὁ" postag="l-s---na-" relation="ATR" head="9"/>
+    <word id="9" ref="HARR|Septuag|5|9" form="εἶναι" lemma="εἰμί" postag="v--pna---" relation="OBJ" head="7" sem="harrington_orientation"/>
+    <word id="10" ref="HARR|Septuag|5|10" form="αὐτὸν" lemma="αὐτός" postag="p-s---ma-" relation="SBJ" head="9"/>
+    <word id="11" ref="HARR|Septuag|5|11" form="ἐνδοξότερον" lemma="ἔνδοξος" postag="a-s---mac" relation="PNOM" head="9"/>
+    <word id="12" ref="HARR|Septuag|5|12" form="πάντων" lemma="πᾶς" postag="a-p---mg-" relation="ATR" head="11" sem="totality"/>
+    <word id="13" ref="HARR|Septuag|5|13" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+  <sentence id="6" ref="HARR|Septuag|6" document_id="0527-055" subdoc="6">
+    <word id="1" ref="HARR|Septuag|6|1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="2"/>
+    <word id="2" ref="HARR|Septuag|6|2" form="ἀπεδείχθησαν" lemma="ἀποδείκνυμι" postag="v3paip---" relation="PRED" head="0"/>
+    <word id="3" ref="HARR|Septuag|6|3" form="δύο" lemma="δύο" postag="m--------" relation="ATR" head="4"/>
+    <word id="4" ref="HARR|Septuag|6|4" form="πρεσβύτεροι" lemma="πρέσβυς" postag="a-p---mnc" relation="SBJ" head="2"/>
+    <word id="5" ref="HARR|Septuag|6|5" form="ἐκ" lemma="ἐκ" postag="r--------" relation="AuxP" head="2"/>
+    <word id="6" ref="HARR|Septuag|6|6" form="τοῦ" lemma="ὁ" postag="l-s---mg-" relation="ATR" head="7"/>
+    <word id="7" ref="HARR|Septuag|6|7" form="λαοῦ" lemma="λαός" postag="n-s---mg-" relation="OBJ" head="5" sem="harrington_orientation"/>
+    <word id="8" ref="HARR|Septuag|6|8" form="κριταὶ" lemma="κριτής" postag="n-p---mn-" relation="PNOM" head="2"/>
+    <word id="9" ref="HARR|Septuag|6|9" form="ἐν" lemma="ἐν" postag="r--------" relation="AuxP" head="2"/>
+    <word id="10" ref="HARR|Septuag|6|10" form="τῷ" lemma="ὁ" postag="l-s---md-" relation="ATR" head="11"/>
+    <word id="11" ref="HARR|Septuag|6|11" form="ἐνιαυτῷ" lemma="ἐνιαυτός" postag="n-s---md-" relation="ADV" head="9" sem="location"/>
+    <word id="12" ref="HARR|Septuag|6|12" form="ἐκείνῳ" lemma="ἐκεῖνος" postag="p-s---md-" relation="ATR" head="11"/>
+    <word id="13" ref="HARR|Septuag|6|13" form="," lemma="," postag="u--------" relation="AuxX" head="16"/>
+    <word id="14" ref="HARR|Septuag|6|14" form="περὶ" lemma="περί" postag="r--------" relation="AuxP" head="16"/>
+    <word id="15" ref="HARR|Septuag|6|15" form="ὧν" lemma="ὅς" postag="p-p---mg-" relation="OBJ" head="14" sem="harrington_orientation"/>
+    <word id="16" ref="HARR|Septuag|6|16" form="ἐλάλησεν" lemma="λαλέω" postag="v3saia---" relation="ATR" head="4"/>
+    <word id="17" ref="HARR|Septuag|6|17" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" head="18"/>
+    <word id="18" ref="HARR|Septuag|6|18" form="δεσπότης" lemma="δεσπότης" postag="n-s---mn-" relation="SBJ" head="16"/>
+    <word id="19" ref="HARR|Septuag|6|19" form="ὅτι" lemma="ὅτι" postag="c--------" relation="AuxC" head="16"/>
+    <word id="20" ref="HARR|Septuag|6|20" form="ἐξῆλθεν" lemma="ἐξέρχομαι" postag="v3saia---" relation="OBJ" head="19" sem="statement"/>
+    <word id="21" ref="HARR|Septuag|6|21" form="ἀνομία" lemma="ἀνομία" postag="n-s---fn-" relation="SBJ" head="20"/>
+    <word id="22" ref="HARR|Septuag|6|22" form="ἐκ" lemma="ἐκ" postag="r--------" relation="AuxP" head="20"/>
+    <word id="23" ref="HARR|Septuag|6|23" form="Βαβυλῶνος" lemma="Βαβυλών" postag="n-s---fg-" relation="OBJ" head="22" sem="harrington_orientation"/>
+    <word id="24" ref="HARR|Septuag|6|24" form="ἐκ" lemma="ἐκ" postag="r--------" relation="AuxP" head="20"/>
+    <word id="25" ref="HARR|Septuag|6|25" form="πρεσβυτέρων" lemma="πρέσβυς" postag="a-p---mg-" relation="ATR" head="26"/>
+    <word id="26" ref="HARR|Septuag|6|26" form="κριτῶν" lemma="κριτής" postag="n-p---mg-" relation="OBJ" head="24" sem="harrington_orientation"/>
+    <word id="27" ref="HARR|Septuag|6|27" form="," lemma="," postag="u--------" relation="AuxX" head="29"/>
+    <word id="28" ref="HARR|Septuag|6|28" form="οἳ" lemma="ὅς" postag="p-p---mn-" relation="SBJ" head="29"/>
+    <word id="29" ref="HARR|Septuag|6|29" form="ἐδόκουν" lemma="δοκέω" postag="v3piia---" relation="ATR" head="26"/>
+    <word id="30" ref="HARR|Septuag|6|30" form="κυβερνᾶν" lemma="κυβερνάω" postag="v--pna---" relation="OBJ" head="29"/>
+    <word id="31" ref="HARR|Septuag|6|31" form="τὸν" lemma="ὁ" postag="l-s---ma-" relation="ATR" head="32"/>
+    <word id="32" ref="HARR|Septuag|6|32" form="λαόν" lemma="λαός" postag="n-s---ma-" relation="OBJ" head="30"/>
+    <word id="33" ref="HARR|Septuag|6|33" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+  <sentence id="7" ref="HARR|Septuag|7" document_id="0527-055" subdoc="7">
+    <word id="1" ref="HARR|Septuag|7|1" form="οὗτοι" lemma="οὗτος" postag="p-p---mn-" relation="SBJ" head="2"/>
+    <word id="2" ref="HARR|Septuag|7|2" form="προσεκαρτέρουν" lemma="προσκαρτερέω" postag="v3piia---" relation="PRED_CO" head="8"/>
+    <word id="3" ref="HARR|Septuag|7|3" form="ἐν" lemma="ἐν" postag="r--------" relation="AuxP" head="2"/>
+    <word id="4" ref="HARR|Septuag|7|4" form="τῇ" lemma="ὁ" postag="l-s---fd-" relation="ATR" head="5"/>
+    <word id="5" ref="HARR|Septuag|7|5" form="οἰκίᾳ" lemma="οἰκία" postag="n-s---fd-" relation="ADV" head="3" sem="location"/>
+    <word id="6" ref="HARR|Septuag|7|6" form="Ιωακιμ" lemma="Ιωακιμ" postag="n-s---mg-" relation="ATR" head="5" sem="possessor"/>
+    <word id="7" ref="HARR|Septuag|7|7" form="," lemma="," postag="u--------" relation="AuxX" head="8"/>
+    <word id="8" ref="HARR|Septuag|7|8" form="καὶ" lemma="καί" postag="b--------" relation="COORD" head="0"/>
+    <word id="9" ref="HARR|Septuag|7|9" form="ἤρχοντο" lemma="ἔρχομαι" postag="v3piie---" relation="PRED_CO" head="8"/>
+    <word id="10" ref="HARR|Septuag|7|10" form="πρὸς" lemma="πρός" postag="r--------" relation="AuxP" head="9"/>
+    <word id="11" ref="HARR|Septuag|7|11" form="αὐτοὺς" lemma="αὐτός" postag="p-p---ma-" relation="OBJ" head="10" sem="harrington_orientation"/>
+    <word id="12" ref="HARR|Septuag|7|12" form="πάντες" lemma="πᾶς" postag="a-p---mn-" relation="ATR" head="14"/>
+    <word id="13" ref="HARR|Septuag|7|13" form="οἱ" lemma="ὁ" postag="l-p---mn-" relation="ATR" head="14"/>
+    <word id="14" ref="HARR|Septuag|7|14" form="κρινόμενοι" lemma="κρίνω" postag="v-pppemn-" relation="ADV" head="9" sem="cause"/>
+    <word id="15" ref="HARR|Septuag|7|15" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+  <sentence id="8" ref="HARR|Septuag|8" document_id="0527-055" subdoc="8">
+    <word id="1" ref="HARR|Septuag|8|1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="2"/>
+    <word id="2" ref="HARR|Septuag|8|2" form="ἐγένετο" lemma="γίγνομαι" postag="v3saim---" relation="PRED" head="0"/>
+    <word id="3" ref="HARR|Septuag|8|3" form="ἡνίκα" lemma="ἡνίκα" postag="c--------" relation="AuxC" head="12"/>
+    <word id="4" ref="HARR|Septuag|8|4" form="ἀπέτρεχεν" lemma="ἀποτρέχω" postag="v3siia---" relation="ADV" head="3" sem="time"/>
+    <word id="5" ref="HARR|Septuag|8|5" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" head="6"/>
+    <word id="6" ref="HARR|Septuag|8|6" form="λαὸς" lemma="λαός" postag="n-s---mn-" relation="SBJ" head="4"/>
+    <word id="7" ref="HARR|Septuag|8|7" form="μέσον" lemma="μέσος" postag="a-s---na-" relation="ADV" head="4" sem="harrington_extent"/>
+    <word id="8" ref="HARR|Septuag|8|8" form="ἡμέρας" lemma="ἡμέρα" postag="n-s---fg-" relation="ATR" head="7" sem="possessor"/>
+    <word id="9" ref="HARR|Septuag|8|9" form="," lemma="," postag="u--------" relation="AuxX" head="4"/>
+    <word id="10" ref="HARR|Septuag|8|10" form="εἰσεπορεύετο" lemma="εἰσπορεύω" postag="v3siie---" relation="SBJ_CO" head="12" sem="statement"/>
+    <word id="11" ref="HARR|Septuag|8|11" form="Σουσαννα" lemma="Σουσάννα" postag="n-s---fn-" relation="SBJ" head="12"/>
+    <word id="12" ref="HARR|Septuag|8|12" form="καὶ" lemma="καί" postag="b--------" relation="COORD" head="2"/>
+    <word id="13" ref="HARR|Septuag|8|13" form="περιεπάτει" lemma="περιπατέω" postag="v3siia---" relation="SBJ_CO" head="12" sem="statement"/>
+    <word id="14" ref="HARR|Septuag|8|14" form="ἐν" lemma="ἐν" postag="r--------" relation="AuxP" head="13"/>
+    <word id="15" ref="HARR|Septuag|8|15" form="τῷ" lemma="ὁ" postag="l-s---md-" relation="ATR" head="16"/>
+    <word id="16" ref="HARR|Septuag|8|16" form="παραδείσῳ" lemma="παράδεισος" postag="n-s---md-" relation="ADV" head="14" sem="location"/>
+    <word id="17" ref="HARR|Septuag|8|17" form="τοῦ" lemma="ὁ" postag="l-s---mg-" relation="ATR" head="18"/>
+    <word id="18" ref="HARR|Septuag|8|18" form="ἀνδρὸς" lemma="ἀνήρ" postag="n-s---mg-" relation="ATR" head="16" sem="possessor"/>
+    <word id="19" ref="HARR|Septuag|8|19" form="αὐτῆς" lemma="αὐτός" postag="p-s---fg-" relation="ATR" head="18" sem="possessor"/>
+    <word id="20" ref="HARR|Septuag|8|20" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+  <sentence id="9" ref="HARR|Septuag|9" document_id="0527-055" subdoc="9">
+    <word id="1" ref="HARR|Septuag|9|1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="12"/>
+    <word id="2" ref="HARR|Septuag|9|2" form="ἐθεώρουν" lemma="θεωρέω" postag="v3piia---" relation="PRED_CO" head="12"/>
+    <word id="3" ref="HARR|Septuag|9|3" form="αὐτὴν" lemma="αὐτός" postag="p-s---fa-" relation="OBJ" head="2"/>
+    <word id="4" ref="HARR|Septuag|9|4" form="οἱ" lemma="ὁ" postag="l-p---mn-" relation="ATR" head="6"/>
+    <word id="5" ref="HARR|Septuag|9|5" form="δύο" lemma="δύο" postag="m--------" relation="ATR" head="6"/>
+    <word id="6" ref="HARR|Septuag|9|6" form="πρεσβύτεροι" lemma="πρέσβυς" postag="a-p---mnc" relation="SBJ" head="2"/>
+    <word id="7" ref="HARR|Septuag|9|7" form="καθ’" lemma="κατά" postag="r--------" relation="AuxP" head="2"/>
+    <word id="8" ref="HARR|Septuag|9|8" form="ἡμέραν" lemma="ἡμέρα" postag="n-s---fa-" relation="OBJ" head="7" sem="harrington_orientation"/>
+    <word id="9" ref="HARR|Septuag|9|9" form="εἰσπορευομένην" lemma="εἰσπορεύω" postag="v-sppefa-" relation="ADV_CO" head="10" sem="time"/>
+    <word id="10" ref="HARR|Septuag|9|10" form="καὶ" lemma="καί" postag="b--------" relation="COORD" head="3"/>
+    <word id="11" ref="HARR|Septuag|9|11" form="περιπατοῦσαν" lemma="περιπατέω" postag="v-sppafa-" relation="ADV_CO" head="10" sem="time"/>
+    <word id="12" ref="HARR|Septuag|9|12" form="καὶ" lemma="καί" postag="b--------" relation="COORD" head="0"/>
+    <word id="13" ref="HARR|Septuag|9|13" form="ἐγένοντο" lemma="γίγνομαι" postag="v3paim---" relation="PRED_CO" head="12"/>
+    <word id="14" ref="HARR|Septuag|9|14" form="ἐν" lemma="ἐν" postag="r--------" relation="AuxP" head="13"/>
+    <word id="15" ref="HARR|Septuag|9|15" form="ἐπιθυμίᾳ" lemma="ἐπιθυμία" postag="n-s---fd-" relation="ADV" head="14" sem="location"/>
+    <word id="16" ref="HARR|Septuag|9|16" form="αὐτῆς" lemma="αὐτός" postag="p-s---fg-" relation="ATR" head="15" sem="patient"/>
+    <word id="17" ref="HARR|Septuag|9|17" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+  <sentence id="10" ref="HARR|Septuag|10" document_id="0527-055" subdoc="10">
+    <word id="1" ref="HARR|Septuag|10|1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="6"/>
+    <word id="2" ref="HARR|Septuag|10|2" form="διέστρεψαν" lemma="διαστρέφω" postag="v3paia---" relation="PRED_CO" head="6"/>
+    <word id="3" ref="HARR|Septuag|10|3" form="τὸν" lemma="ὁ" postag="l-s---ma-" relation="ATR" head="5"/>
+    <word id="4" ref="HARR|Septuag|10|4" form="ἑαυτῶν" lemma="ἑαυτοῦ" postag="p-p---mg-" relation="ATR" head="5" sem="possessor"/>
+    <word id="5" ref="HARR|Septuag|10|5" form="νοῦν" lemma="νόος" postag="n-s---ma-" relation="OBJ" head="2"/>
+    <word id="6" ref="HARR|Septuag|10|6" form="καὶ" lemma="καί" postag="b--------" relation="COORD" head="0"/>
+    <word id="7" ref="HARR|Septuag|10|7" form="ἐξέκλιναν" lemma="ἐκκλίνω" postag="v3paia---" relation="PRED_CO" head="6"/>
+    <word id="8" ref="HARR|Septuag|10|8" form="τοὺς" lemma="ὁ" postag="l-p---ma-" relation="ATR" head="9"/>
+    <word id="9" ref="HARR|Septuag|10|9" form="ὀφθαλμοὺς" lemma="ὀφθαλμός" postag="n-p---ma-" relation="OBJ" head="7"/>
+    <word id="10" ref="HARR|Septuag|10|10" form="αὐτῶν" lemma="αὐτός" postag="p-p---mg-" relation="ATR" head="9" sem="possessor"/>
+    <word id="11" ref="HARR|Septuag|10|11" form="τοῦ" lemma="ὁ" postag="l-s---ng-" relation="ATR" head="18"/>
+    <word id="12" ref="HARR|Septuag|10|12" form="μὴ" lemma="μή" postag="d--------" relation="AuxZ" head="13"/>
+    <word id="13" ref="HARR|Septuag|10|13" form="βλέπειν" lemma="βλέπω" postag="v--pna---" relation="OBJ_CO" head="18" sem="harrington_orientation"/>
+    <word id="14" ref="HARR|Septuag|10|14" form="εἰς" lemma="εἰς" postag="r--------" relation="AuxP" head="13"/>
+    <word id="15" ref="HARR|Septuag|10|15" form="τὸν" lemma="ὁ" postag="l-s---ma-" relation="ATR" head="16"/>
+    <word id="16" ref="HARR|Septuag|10|16" form="οὐρανὸν" lemma="οὐρανός" postag="n-s---ma-" relation="OBJ" head="14" sem="harrington_orientation"/>
+    <word id="17" ref="HARR|Septuag|10|17" form="μη" lemma="μή" postag="d--------" relation="AuxZ" head="19"/>
+    <word id="18" ref="HARR|Septuag|10|18" form="-δὲ" lemma="δέ" postag="b--------" relation="COORD" head="7"/>
+    <word id="19" ref="HARR|Septuag|10|19" form="μνημονεύειν" lemma="μνημονεύω" postag="v--pna---" relation="OBJ_CO" head="18" sem="harrington_orientation"/>
+    <word id="20" ref="HARR|Septuag|10|20" form="κριμάτων" lemma="κρίμα" postag="n-p---ng-" relation="ATR" head="19" sem="patient"/>
+    <word id="21" ref="HARR|Septuag|10|21" form="δικαίων" lemma="δίκαιος" postag="a-p---ng-" relation="ATR" head="20"/>
+    <word id="22" ref="HARR|Septuag|10|22" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+  <sentence id="11" ref="HARR|Septuag|11" document_id="0527-055" subdoc="11">
+    <word id="1" ref="HARR|Septuag|11|1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="7"/>
+    <word id="2" ref="HARR|Septuag|11|2" form="ἦσαν" lemma="εἰμί" postag="v3piia---" relation="PRED_CO" head="7"/>
+    <word id="3" ref="HARR|Septuag|11|3" form="ἀμφότεροι" lemma="ἀμφότερος" postag="a-p---mn-" relation="SBJ" head="2"/>
+    <word id="4" ref="HARR|Septuag|11|4" form="κατανενυγμένοι" lemma="κατανύσσω" postag="v-prpemn-" relation="PNOM" head="2"/>
+    <word id="5" ref="HARR|Septuag|11|5" form="περὶ" lemma="περί" postag="r--------" relation="AuxP" head="2"/>
+    <word id="6" ref="HARR|Septuag|11|6" form="αὐτῆς" lemma="αὐτός" postag="p-s---fg-" relation="OBJ" head="5" sem="harrington_orientation"/>
+    <word id="7" ref="HARR|Septuag|11|7" form="καὶ" lemma="καί" postag="b--------" relation="COORD" head="0"/>
+    <word id="8" ref="HARR|Septuag|11|8" form="οὐκ" lemma="οὐ" postag="d--------" relation="AuxZ" head="9"/>
+    <word id="9" ref="HARR|Septuag|11|9" form="ἀνήγγειλαν" lemma="ἀναγγέλλω" postag="v3paia---" relation="PRED_CO" head="7"/>
+    <word id="10" ref="HARR|Septuag|11|10" form="ἀλλήλοις" lemma="ἀλλήλων" postag="p-p---md-" relation="OBJ" head="9" sem="recipient"/>
+    <word id="11" ref="HARR|Septuag|11|11" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" head="12"/>
+    <word id="12" ref="HARR|Septuag|11|12" form="ὀδύνην" lemma="ὀδύνη" postag="n-s---fa-" relation="OBJ" head="9"/>
+    <word id="13" ref="HARR|Septuag|11|13" form="αὐτῶν" lemma="αὐτός" postag="p-p---mg-" relation="ATR" head="12" sem="possessor"/>
+    <word id="14" ref="HARR|Septuag|11|14" form="," lemma="," postag="u--------" relation="AuxX" head="16"/>
+    <word id="15" ref="HARR|Septuag|11|15" form="ὅτι" lemma="ὅτι" postag="c--------" relation="AuxC" head="9"/>
+    <word id="16" ref="HARR|Septuag|11|16" form="ᾐσχύνοντο" lemma="αἰσχύνω" postag="v3piie---" relation="ADV" head="15" sem="cause"/>
+    <word id="17" ref="HARR|Septuag|11|17" form="ἀναγγεῖλαι" lemma="ἀναγγέλλω" postag="v--ana---" relation="OBJ" head="16"/>
+    <word id="18" ref="HARR|Septuag|11|18" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" head="19"/>
+    <word id="19" ref="HARR|Septuag|11|19" form="ἐπιθυμίαν" lemma="ἐπιθυμία" postag="n-s---fa-" relation="OBJ" head="17"/>
+    <word id="20" ref="HARR|Septuag|11|20" form="αὐτῶν" lemma="αὐτός" postag="p-p---mg-" relation="ATR" head="19" sem="possessor"/>
+    <word id="21" ref="HARR|Septuag|11|21" form="ὅτι" lemma="ὅτι" postag="c--------" relation="AuxC" head="19"/>
+    <word id="22" ref="HARR|Septuag|11|22" form="ἤθελον" lemma="ἐθέλω" postag="v3piia---" relation="APOS" head="21" sem="statement"/>
+    <word id="23" ref="HARR|Septuag|11|23" form="συγγενέσθαι" lemma="συγγίγνομαι" postag="v--anm---" relation="OBJ" head="22"/>
+    <word id="24" ref="HARR|Septuag|11|24" form="αὐτῇ" lemma="αὐτός" postag="p-s---fd-" relation="ADV" head="23" sem="companion"/>
+    <word id="25" ref="HARR|Septuag|11|25" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+  <sentence id="12" ref="HARR|Septuag|12" document_id="0527-055" subdoc="12">
+    <word id="1" ref="HARR|Septuag|12|1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="2"/>
+    <word id="2" ref="HARR|Septuag|12|2" form="παρετηροῦσαν" lemma="παρατηρέω" postag="v3paia---" relation="PRED" head="0"/>
+    <word id="3" ref="HARR|Septuag|12|3" form="φιλοτίμως" lemma="φιλότιμος" postag="d--------" relation="ADV" head="2"/>
+    <word id="4" ref="HARR|Septuag|12|4" form="καθ’" lemma="κατά" postag="r--------" relation="AuxP" head="2"/>
+    <word id="5" ref="HARR|Septuag|12|5" form="ἡμέραν" lemma="ἡμέρα" postag="n-s---fa-" relation="ADV" head="4" sem="harrington_extent"/>
+    <word id="6" ref="HARR|Septuag|12|6" form="ὁρᾶν" lemma="ὁράω" postag="v--pna---" relation="OBJ" head="2"/>
+    <word id="7" ref="HARR|Septuag|12|7" form="αὐτήν" lemma="αὐτός" postag="p-s---fa-" relation="OBJ" head="6"/>
+    <word id="8" ref="HARR|Septuag|12|8" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+  <sentence id="13" ref="HARR|Septuag|13" document_id="0527-055" subdoc="13">
+    <word id="1" ref="HARR|Septuag|13|1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="2"/>
+    <word id="2" ref="HARR|Septuag|13|2" form="εἶπαν" lemma="λέγω" postag="v3paia---" relation="PRED" head="0"/>
+    <word id="3" ref="HARR|Septuag|13|3" form="ἕτερος" lemma="ἕτερος" postag="a-s---mn-" relation="SBJ" head="2"/>
+    <word id="4" ref="HARR|Septuag|13|4" form="τῷ" lemma="ὁ" postag="l-s---md-" relation="ATR" head="5"/>
+    <word id="5" ref="HARR|Septuag|13|5" form="ἑτέρῳ" lemma="ἕτερος" postag="a-s---md-" relation="OBJ" head="2" sem="recipient"/>
+    <word id="6" ref="HARR|Septuag|13|6" form="πορευθῶμεν" lemma="πορεύω" postag="v1pasp---" relation="OBJ" head="2" sem="statement"/>
+    <word id="7" ref="HARR|Septuag|13|7" form="δὴ" lemma="δή" postag="d--------" relation="AuxY" head="6"/>
+    <word id="8" ref="HARR|Septuag|13|8" form="εἰς" lemma="εἰς" postag="r--------" relation="AuxP" head="6"/>
+    <word id="9" ref="HARR|Septuag|13|9" form="οἶκον" lemma="οἶκος" postag="n-s---ma-" relation="OBJ" head="8" sem="harrington_orientation"/>
+    <word id="10" ref="HARR|Septuag|13|10" form="," lemma="," postag="u--------" relation="AuxX" head="14"/>
+    <word id="11" ref="HARR|Septuag|13|11" form="ὅτι" lemma="ὅτι" postag="c--------" relation="AuxC" head="6"/>
+    <word id="12" ref="HARR|Septuag|13|12" form="ἀρίστου" lemma="ἄριστον" postag="n-s---ng-" relation="ATR" head="13" sem="possessor"/>
+    <word id="13" ref="HARR|Septuag|13|13" form="ὥρα" lemma="ὥρα" postag="n-s---fn-" relation="SBJ" head="14"/>
+    <word id="14" ref="HARR|Septuag|13|14" form="ἐστίν" lemma="εἰμί" postag="v3spia---" relation="ADV" head="11" sem="cause"/>
+    <word id="15" ref="HARR|Septuag|13|15" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+  <sentence id="14" ref="HARR|Septuag|14" document_id="0527-055" subdoc="14">
+    <word id="1" ref="HARR|Septuag|14|1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="3"/>
+    <word id="2" ref="HARR|Septuag|14|2" form="ἐξελθόντες" lemma="ἐξέρχομαι" postag="v-papamn-" relation="ADV" head="3" sem="time"/>
+    <word id="3" ref="HARR|Septuag|14|3" form="διεχωρίσθησαν" lemma="διαχωρίζω" postag="v3paip---" relation="PRED" head="0"/>
+    <word id="4" ref="HARR|Septuag|14|4" form="ἀπ’" lemma="ἀπό" postag="r--------" relation="AuxP" head="3"/>
+    <word id="5" ref="HARR|Septuag|14|5" form="ἀλλήλων" lemma="ἀλλήλων" postag="p-p---mg-" relation="OBJ" head="4" sem="harrington_orientation"/>
+    <word id="6" ref="HARR|Septuag|14|6" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+  <sentence id="15" ref="HARR|Septuag|15" document_id="0527-055" subdoc="15">
+    <word id="1" ref="HARR|Septuag|15|1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="7"/>
+    <word id="2" ref="HARR|Septuag|15|2" form="ἀνακάμψαντες" lemma="ἀνακάμπτω" postag="v-papamn-" relation="ADV" head="3" sem="time"/>
+    <word id="3" ref="HARR|Septuag|15|3" form="ἦλθον" lemma="ἔρχομαι" postag="v3paia---" relation="PRED_CO" head="7"/>
+    <word id="4" ref="HARR|Septuag|15|4" form="ἐπὶ" lemma="ἐπί" postag="r--------" relation="AuxP" head="3"/>
+    <word id="5" ref="HARR|Septuag|15|5" form="τὸ" lemma="ὁ" postag="l-s---na-" relation="ATR" head="6"/>
+    <word id="6" ref="HARR|Septuag|15|6" form="αὐτὸ" lemma="αὐτός" postag="p-s---na-" relation="OBJ" head="4" sem="harrington_orientation"/>
+    <word id="7" ref="HARR|Septuag|15|7" form="καὶ" lemma="καί" postag="b--------" relation="COORD" head="0"/>
+    <word id="8" ref="HARR|Septuag|15|8" form="ἀνετάζοντες" lemma="ἀνετάζω" postag="v-pppamn-" relation="ADV" head="12" sem="time"/>
+    <word id="9" ref="HARR|Septuag|15|9" form="ἀλλήλους" lemma="ἀλλήλων" postag="p-p---ma-" relation="OBJ" head="8"/>
+    <word id="10" ref="HARR|Septuag|15|10" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" head="11"/>
+    <word id="11" ref="HARR|Septuag|15|11" form="αἰτίαν" lemma="αἰτία" postag="n-s---fa-" relation="OBJ" head="8" sem="cognate object"/>
+    <word id="12" ref="HARR|Septuag|15|12" form="ὡμολόγησαν" lemma="ὁμολογέω" postag="v3paia---" relation="PRED_CO" head="7"/>
+    <word id="13" ref="HARR|Septuag|15|13" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" head="14"/>
+    <word id="14" ref="HARR|Septuag|15|14" form="ἐπιθυμίαν" lemma="ἐπιθυμία" postag="n-s---fa-" relation="OBJ" head="12"/>
+    <word id="15" ref="HARR|Septuag|15|15" form="αὐτῶν" lemma="αὐτός" postag="p-p---mg-" relation="ATR" head="14" sem="possessor"/>
+    <word id="16" ref="HARR|Septuag|15|16" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+  <sentence id="16" ref="HARR|Septuag|16" document_id="0527-055" subdoc="16">
+    <word id="1" ref="HARR|Septuag|16|1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="4"/>
+    <word id="2" ref="HARR|Septuag|16|2" form="τότε" lemma="τότε" postag="d--------" relation="ADV" head="4"/>
+    <word id="3" ref="HARR|Septuag|16|3" form="κοινῇ" lemma="κοινῇ" postag="d--------" relation="ADV" head="4" sem="manner"/>
+    <word id="4" ref="HARR|Septuag|16|4" form="συνετάξαντο" lemma="συντάσσω" postag="v3paim---" relation="PRED" head="0"/>
+    <word id="5" ref="HARR|Septuag|16|5" form="καιρὸν" lemma="καιρός" postag="n-s---ma-" relation="OBJ" head="4"/>
+    <word id="6" ref="HARR|Septuag|16|6" form="ὅτε" lemma="ὅτε" postag="c--------" relation="AuxC" head="5"/>
+    <word id="7" ref="HARR|Septuag|16|7" form="αὐτὴν" lemma="αὐτός" postag="p-s---fa-" relation="OBJ" head="9"/>
+    <word id="8" ref="HARR|Septuag|16|8" form="δυνήσονται" lemma="δύναμαι" postag="v3pfim---" relation="ADV" head="6" sem="goal"/>
+    <word id="9" ref="HARR|Septuag|16|9" form="εὑρεῖν" lemma="εὑρίσκω" postag="v--ana---" relation="OBJ" head="8"/>
+    <word id="10" ref="HARR|Septuag|16|10" form="μόνην" lemma="μόνος" postag="a-s---fa-" relation="ATR" head="7"/>
+    <word id="11" ref="HARR|Septuag|16|11" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+  <sentence id="17" ref="HARR|Septuag|17" document_id="0527-055" subdoc="17">
+    <word id="1" ref="HARR|Septuag|17|1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="2"/>
+    <word id="2" ref="HARR|Septuag|17|2" form="ἐγένετο" lemma="γίγνομαι" postag="v3saim---" relation="PRED" head="0"/>
+    <word id="3" ref="HARR|Septuag|17|3" form="ἐν" lemma="ἐν" postag="r--------" relation="AuxP" head="2"/>
+    <word id="4" ref="HARR|Septuag|17|4" form="τῷ" lemma="ὁ" postag="l-s---nd-" relation="ATR" head="5"/>
+    <word id="5" ref="HARR|Septuag|17|5" form="παρατηρεῖν" lemma="παρατηρέω" postag="v--pna---" relation="ADV" head="3" sem="location"/>
+    <word id="6" ref="HARR|Septuag|17|6" form="αὐτοὺς" lemma="αὐτός" postag="p-p---ma-" relation="SBJ" head="5"/>
+    <word id="7" ref="HARR|Septuag|17|7" form="ἡμέραν" lemma="ἡμέρα" postag="n-s---fa-" relation="OBJ" head="5"/>
+    <word id="8" ref="HARR|Septuag|17|8" form="εὔθετον" lemma="εὔθετος" postag="a-s---fa-" relation="ATR" head="7"/>
+    <word id="9" ref="HARR|Septuag|17|9" form="εἰσῆλθέν" lemma="εἰσέρχομαι" postag="v3saia---" relation="SBJ_CO" head="20" sem="statement"/>
+    <word id="10" ref="HARR|Septuag|17|10" form="ποτε" lemma="ποτέ" postag="d--------" relation="ADV" head="9"/>
+    <word id="11" ref="HARR|Septuag|17|11" form="καθὼς" lemma="καθώς" postag="c--------" relation="AuxC" head="9"/>
+    <word id="12" ref="HARR|Septuag|17|12" form="ἐχθὲς" lemma="χθές" postag="d--------" relation="ADV_CO" head="13"/>
+    <word id="13" ref="HARR|Septuag|17|13" form="καὶ" lemma="καί" postag="b--------" relation="COORD" head="31"/>
+    <word id="14" ref="HARR|Septuag|17|14" form="τρίτης" lemma="τρίτος" postag="a-s---fg-" relation="ATR" head="15"/>
+    <word id="15" ref="HARR|Septuag|17|15" form="ἡμέρας" lemma="ἡμέρα" postag="n-s---fg-" relation="ADV_CO" head="13" sem="time frame"/>
+    <word id="16" ref="HARR|Septuag|17|16" form="μετὰ" lemma="μετά" postag="r--------" relation="AuxP" head="9"/>
+    <word id="17" ref="HARR|Septuag|17|17" form="δύο" lemma="δύο" postag="m--------" relation="ATR" head="19"/>
+    <word id="18" ref="HARR|Septuag|17|18" form="μόνων" lemma="μόνος" postag="a-p---ng-" relation="ATR" head="19"/>
+    <word id="19" ref="HARR|Septuag|17|19" form="κορασίων" lemma="κοράσιον" postag="n-p---ng-" relation="ADV" head="16" sem="companion"/>
+    <word id="20" ref="HARR|Septuag|17|20" form="καὶ" lemma="καί" postag="b--------" relation="COORD" head="2"/>
+    <word id="21" ref="HARR|Septuag|17|21" form="ἐπεθύμησε" lemma="ἐπιθυμέω" postag="v3saia---" relation="SBJ_CO" head="20" sem="statement"/>
+    <word id="22" ref="HARR|Septuag|17|22" form="λούσασθαι" lemma="λούω" postag="v--anm---" relation="OBJ" head="21"/>
+    <word id="23" ref="HARR|Septuag|17|23" form="ἐν" lemma="ἐν" postag="r--------" relation="AuxP" head="22"/>
+    <word id="24" ref="HARR|Septuag|17|24" form="τῷ" lemma="ὁ" postag="l-s---md-" relation="ATR" head="25"/>
+    <word id="25" ref="HARR|Septuag|17|25" form="παραδείσῳ" lemma="παράδεισος" postag="n-s---md-" relation="ADV" head="23" sem="location"/>
+    <word id="26" ref="HARR|Septuag|17|26" form="," lemma="," postag="u--------" relation="AuxX" head="29"/>
+    <word id="27" ref="HARR|Septuag|17|27" form="ὅτι" lemma="ὅτι" postag="c--------" relation="AuxC" head="21"/>
+    <word id="28" ref="HARR|Septuag|17|28" form="καῦμα" lemma="καῦμα" postag="n-s---nn-" relation="SBJ" head="29"/>
+    <word id="29" ref="HARR|Septuag|17|29" form="ἦν" lemma="εἰμί" postag="v3siia---" relation="ADV" head="27" sem="cause"/>
+    <word id="30" ref="HARR|Septuag|17|30" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
+    <word id="31" ref="HARR|Septuag|17|31" form="[εισηλθεν]" lemma="" postag="---------" relation="ADV" head="11" artificial="elliptic" insertion_id="0011e" sem="comparison"/>
+  </sentence>
+  <sentence id="18" ref="HARR|Septuag|18" document_id="0527-055" subdoc="18">
+    <word id="1" ref="HARR|Septuag|18|1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="3"/>
+    <word id="2" ref="HARR|Septuag|18|2" form="οὐκ" lemma="οὐ" postag="d--------" relation="AuxZ" head="3"/>
+    <word id="3" ref="HARR|Septuag|18|3" form="ἦν" lemma="εἰμί" postag="v3siia---" relation="PRED" head="0"/>
+    <word id="4" ref="HARR|Septuag|18|4" form="οὐδεὶς" lemma="οὐδείς" postag="p-s---mn-" relation="SBJ" head="3"/>
+    <word id="5" ref="HARR|Septuag|18|5" form="ἐκεῖ" lemma="ἐκεῖ" postag="d--------" relation="ADV" head="3"/>
+    <word id="6" ref="HARR|Septuag|18|6" form="πλὴν" lemma="πλήν" postag="c--------" relation="AuxC" head="4"/>
+    <word id="7" ref="HARR|Septuag|18|7" form="οἱ" lemma="ὁ" postag="l-p---mn-" relation="ATR" head="9"/>
+    <word id="8" ref="HARR|Septuag|18|8" form="δύο" lemma="δύο" postag="m--------" relation="ATR" head="9"/>
+    <word id="9" ref="HARR|Septuag|18|9" form="πρεσβύτεροι" lemma="πρέσβυς" postag="a-p---mnc" relation="ADV" head="6" sem="comparison"/>
+    <word id="10" ref="HARR|Septuag|18|10" form="κεκρυμμένοι" lemma="κρύπτω" postag="v-prpemn-" relation="ATR_CO" head="11"/>
+    <word id="11" ref="HARR|Septuag|18|11" form="καὶ" lemma="καί" postag="b--------" relation="COORD" head="9"/>
+    <word id="12" ref="HARR|Septuag|18|12" form="παρατηροῦντες" lemma="παρατηρέω" postag="v-pppamn-" relation="ATR_CO" head="11"/>
+    <word id="13" ref="HARR|Septuag|18|13" form="αὐτήν" lemma="αὐτός" postag="p-s---fa-" relation="OBJ" head="12"/>
+    <word id="14" ref="HARR|Septuag|18|14" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+  <sentence id="19" ref="HARR|Septuag|19" document_id="0527-055" subdoc="19">
+    <word id="1" ref="HARR|Septuag|19|1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="2"/>
+    <word id="2" ref="HARR|Septuag|19|2" form="εἶπεν" lemma="λέγω" postag="v3saia---" relation="PRED" head="0"/>
+    <word id="3" ref="HARR|Septuag|19|3" form="τοῖς" lemma="ὁ" postag="l-p---nd-" relation="ATR" head="4"/>
+    <word id="4" ref="HARR|Septuag|19|4" form="κορασίοις" lemma="κοράσιον" postag="n-p---nd-" relation="OBJ" head="2" sem="recipient"/>
+    <word id="5" ref="HARR|Septuag|19|5" form="ἐνέγκατε" lemma="φέρω" postag="v2pama---" relation="OBJ_CO" head="11" sem="statement"/>
+    <word id="6" ref="HARR|Septuag|19|6" form="δή" lemma="δή" postag="d--------" relation="AuxY" head="5"/>
+    <word id="7" ref="HARR|Septuag|19|7" form="μοι" lemma="ἐγώ" postag="p1s---cd-" relation="OBJ" head="5" sem="recipient"/>
+    <word id="8" ref="HARR|Septuag|19|8" form="ἔλαιον" lemma="ἔλαιον" postag="n-s---na-" relation="OBJ_CO" head="9"/>
+    <word id="9" ref="HARR|Septuag|19|9" form="καὶ" lemma="καί" postag="b--------" relation="COORD" head="5"/>
+    <word id="10" ref="HARR|Septuag|19|10" form="σμῆγμα" lemma="σμῆγμα" postag="n-s---na-" relation="OBJ_CO" head="9"/>
+    <word id="11" ref="HARR|Septuag|19|11" form="καὶ" lemma="καί" postag="b--------" relation="COORD" head="2"/>
+    <word id="12" ref="HARR|Septuag|19|12" form="τὰς" lemma="ὁ" postag="l-p---fa-" relation="ATR" head="13"/>
+    <word id="13" ref="HARR|Septuag|19|13" form="θύρας" lemma="θύρα" postag="n-p---fa-" relation="OBJ" head="16"/>
+    <word id="14" ref="HARR|Septuag|19|14" form="τοῦ" lemma="ὁ" postag="l-s---mg-" relation="ATR" head="15"/>
+    <word id="15" ref="HARR|Septuag|19|15" form="παραδείσου" lemma="παράδεισος" postag="n-s---mg-" relation="ATR" head="13" sem="possessor"/>
+    <word id="16" ref="HARR|Septuag|19|16" form="κλείσατε" lemma="κλείω" postag="v2pama---" relation="OBJ_CO" head="11" sem="statement"/>
+    <word id="17" ref="HARR|Septuag|19|17" form="," lemma="," postag="u--------" relation="AuxX" head="19"/>
+    <word id="18" ref="HARR|Septuag|19|18" form="ὅπως" lemma="ὅπως" postag="c--------" relation="AuxC" head="16"/>
+    <word id="19" ref="HARR|Septuag|19|19" form="λούσωμαι" lemma="λούω" postag="v1sasm---" relation="ADV" head="18" sem="goal"/>
+    <word id="20" ref="HARR|Septuag|19|20" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+  <sentence id="20" ref="HARR|Septuag|20" document_id="0527-055" subdoc="20">
+    <word id="1" ref="HARR|Septuag|20|1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="21"/>
+    <word id="2" ref="HARR|Septuag|20|2" form="ἐποίησαν" lemma="ποιέω" postag="v3paia---" relation="PRED_CO" head="21"/>
+    <word id="3" ref="HARR|Septuag|20|3" form="καθὼς" lemma="καθώς" postag="c--------" relation="AuxC" head="2"/>
+    <word id="4" ref="HARR|Septuag|20|4" form="εἶπεν" lemma="λέγω" postag="v3saia---" relation="ADV" head="3" sem="comparison"/>
+    <word id="5" ref="HARR|Septuag|20|5" form="καὶ" lemma="καί" postag="b--------" relation="AuxY" head="21"/>
+    <word id="6" ref="HARR|Septuag|20|6" form="ἀπέκλεισαν" lemma="ἀποκλείω" postag="v3paia---" relation="PRED_CO" head="21"/>
+    <word id="7" ref="HARR|Septuag|20|7" form="τὰς" lemma="ὁ" postag="l-p---fa-" relation="ATR" head="8"/>
+    <word id="8" ref="HARR|Septuag|20|8" form="θύρας" lemma="θύρα" postag="n-p---fa-" relation="OBJ" head="6"/>
+    <word id="9" ref="HARR|Septuag|20|9" form="τοῦ" lemma="ὁ" postag="l-s---mg-" relation="ATR" head="10"/>
+    <word id="10" ref="HARR|Septuag|20|10" form="παραδείσου" lemma="παράδεισος" postag="n-s---mg-" relation="ATR" head="8" sem="possessor"/>
+    <word id="11" ref="HARR|Septuag|20|11" form="καὶ" lemma="καί" postag="b--------" relation="AuxY" head="21"/>
+    <word id="12" ref="HARR|Septuag|20|12" form="ἐξῆλθαν" lemma="ἐξέρχομαι" postag="v3paia---" relation="PRED_CO" head="21"/>
+    <word id="13" ref="HARR|Septuag|20|13" form="κατὰ" lemma="κατά" postag="r--------" relation="AuxP" head="12"/>
+    <word id="14" ref="HARR|Septuag|20|14" form="τὰς" lemma="ὁ" postag="l-p---fa-" relation="ATR" head="16"/>
+    <word id="15" ref="HARR|Septuag|20|15" form="πλαγίας" lemma="πλάγιος" postag="a-p---fa-" relation="ATR" head="16"/>
+    <word id="16" ref="HARR|Septuag|20|16" form="θύρας" lemma="θύρα" postag="n-p---fa-" relation="ADV" head="13" sem="harrington_extent"/>
+    <word id="17" ref="HARR|Septuag|20|17" form="ἐνέγκαι" lemma="φέρω" postag="v--ana---" relation="ADV" head="12" sem="goal"/>
+    <word id="18" ref="HARR|Septuag|20|18" form="τὰ" lemma="ὁ" postag="l-p---na-" relation="ATR" head="19"/>
+    <word id="19" ref="HARR|Septuag|20|19" form="προστεταγμένα" lemma="προστάσσω" postag="v-prpena-" relation="OBJ" head="17"/>
+    <word id="20" ref="HARR|Septuag|20|20" form="αὐταῖς" lemma="αὐτός" postag="p-p---fd-" relation="OBJ" head="19" sem="recipient"/>
+    <word id="21" ref="HARR|Septuag|20|21" form="καὶ" lemma="καί" postag="b--------" relation="COORD" head="0"/>
+    <word id="22" ref="HARR|Septuag|20|22" form="οὐκ" lemma="οὐ" postag="d--------" relation="AuxZ" head="23"/>
+    <word id="23" ref="HARR|Septuag|20|23" form="εἴδοσαν" lemma="ὁράω" postag="v3paia---" relation="PRED_CO" head="21"/>
+    <word id="24" ref="HARR|Septuag|20|24" form="τοὺς" lemma="ὁ" postag="l-p---ma-" relation="ATR" head="25"/>
+    <word id="25" ref="HARR|Septuag|20|25" form="πρεσβυτέρους" lemma="πρέσβυς" postag="a-p---ma-" relation="OBJ" head="23"/>
+    <word id="26" ref="HARR|Septuag|20|26" form="," lemma="," postag="u--------" relation="AuxX" head="28"/>
+    <word id="27" ref="HARR|Septuag|20|27" form="ὅτι" lemma="ὅτι" postag="c--------" relation="AuxC" head="23"/>
+    <word id="28" ref="HARR|Septuag|20|28" form="ἦσαν" lemma="εἰμί" postag="v3piia---" relation="ADV" head="27"/>
+    <word id="29" ref="HARR|Septuag|20|29" form="κεκρυμμένοι" lemma="κρύπτω" postag="v-prpemn-" relation="PNOM" head="28" sem="cause"/>
+    <word id="30" ref="HARR|Septuag|20|30" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+  <sentence id="21" ref="HARR|Septuag|21" document_id="0527-055" subdoc="21">
+    <word id="1" ref="HARR|Septuag|21|1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="2"/>
+    <word id="2" ref="HARR|Septuag|21|2" form="ἐγένετο" lemma="γίγνομαι" postag="v3saim---" relation="PRED" head="0"/>
+    <word id="3" ref="HARR|Septuag|21|3" form="ὡς" lemma="ὡς" postag="c--------" relation="AuxC" head="2"/>
+    <word id="4" ref="HARR|Septuag|21|4" form="ἐξήλθοσαν" lemma="ἐξέρχομαι" postag="v3paia---" relation="ADV" head="3" sem="time"/>
+    <word id="5" ref="HARR|Septuag|21|5" form="τὰ" lemma="ὁ" postag="l-p---nn-" relation="ATR" head="6"/>
+    <word id="6" ref="HARR|Septuag|21|6" form="κοράσια" lemma="κοράσιον" postag="n-p---nn-" relation="SBJ" head="4"/>
+    <word id="7" ref="HARR|Septuag|21|7" form="," lemma="," postag="u--------" relation="AuxX" head="4"/>
+    <word id="8" ref="HARR|Septuag|21|8" form="καὶ" lemma="καί" postag="b--------" relation="AuxY" head="16"/>
+    <word id="9" ref="HARR|Septuag|21|9" form="ἀνέστησαν" lemma="ἀνίστημι" postag="v3paia---" relation="SBJ_CO" head="16" sem="statement"/>
+    <word id="10" ref="HARR|Septuag|21|10" form="οἱ" lemma="ὁ" postag="l-p---mn-" relation="ATR" head="12"/>
+    <word id="11" ref="HARR|Septuag|21|11" form="δύο" lemma="δύο" postag="m--------" relation="ATR" head="12"/>
+    <word id="12" ref="HARR|Septuag|21|12" form="πρεσβῦται" lemma="πρεσβύτης" postag="n-p---mn-" relation="SBJ" head="16"/>
+    <word id="13" ref="HARR|Septuag|21|13" form="καὶ" lemma="καί" postag="b--------" relation="AuxY" head="16"/>
+    <word id="14" ref="HARR|Septuag|21|14" form="ἐπέδραμον" lemma="ἐπιτρέχω" postag="v3paia---" relation="SBJ_CO" head="16" sem="statement"/>
+    <word id="15" ref="HARR|Septuag|21|15" form="αὐτῇ" lemma="αὐτός" postag="p-s---fd-" relation="ADV" head="14" sem="harrington_reference"/>
+    <word id="16" ref="HARR|Septuag|21|16" form="καὶ" lemma="καί" postag="b--------" relation="COORD" head="2"/>
+    <word id="17" ref="HARR|Septuag|21|17" form="εἶπον" lemma="λέγω" postag="v3paia---" relation="SBJ_CO" head="16" sem="statement"/>
+    <word id="18" ref="HARR|Septuag|21|18" form="ἰδοὺ" lemma="ἰδού" postag="d--------" relation="ExD" head="30"/>
+    <word id="19" ref="HARR|Septuag|21|19" form="αἱ" lemma="ὁ" postag="l-p---fn-" relation="ATR" head="20"/>
+    <word id="20" ref="HARR|Septuag|21|20" form="θύραι" lemma="θύρα" postag="n-p---fn-" relation="SBJ" head="23"/>
+    <word id="21" ref="HARR|Septuag|21|21" form="τοῦ" lemma="ὁ" postag="l-s---mg-" relation="ATR" head="22"/>
+    <word id="22" ref="HARR|Septuag|21|22" form="παραδείσου" lemma="παράδεισος" postag="n-s---mg-" relation="ATR" head="20" sem="possessor"/>
+    <word id="23" ref="HARR|Septuag|21|23" form="κέκλεινται" lemma="κλείω" postag="v3prie---" relation="OBJ_CO" head="30" sem="statement"/>
+    <word id="24" ref="HARR|Septuag|21|24" form="," lemma="," postag="u--------" relation="AuxX" head="30"/>
+    <word id="25" ref="HARR|Septuag|21|25" form="καὶ" lemma="καί" postag="b--------" relation="AuxY" head="30"/>
+    <word id="26" ref="HARR|Septuag|21|26" form="οὐδεὶς" lemma="οὐδείς" postag="p-s---mn-" relation="SBJ" head="27"/>
+    <word id="27" ref="HARR|Septuag|21|27" form="θεωρεῖ" lemma="θεωρέω" postag="v3spia---" relation="OBJ_CO" head="30" sem="statement"/>
+    <word id="28" ref="HARR|Septuag|21|28" form="ἡμᾶς" lemma="ἐγώ" postag="p1p---ca-" relation="OBJ" head="27"/>
+    <word id="29" ref="HARR|Septuag|21|29" form="," lemma="," postag="u--------" relation="AuxX" head="30"/>
+    <word id="30" ref="HARR|Septuag|21|30" form="καὶ" lemma="καί" postag="b--------" relation="COORD" head="17"/>
+    <word id="31" ref="HARR|Septuag|21|31" form="ἐν" lemma="ἐν" postag="r--------" relation="AuxP" head="34"/>
+    <word id="32" ref="HARR|Septuag|21|32" form="ἐπιθυμίᾳ" lemma="ἐπιθυμία" postag="n-s---fd-" relation="ADV" head="31" sem="location"/>
+    <word id="33" ref="HARR|Septuag|21|33" form="σού" lemma="σύ" postag="p2s---cg-" relation="ATR" head="32" sem="patient"/>
+    <word id="34" ref="HARR|Septuag|21|34" form="ἐσμεν" lemma="εἰμί" postag="v1ppia---" relation="OBJ_CO" head="30" sem="statement"/>
+    <word id="35" ref="HARR|Septuag|21|35" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+  <sentence id="22" ref="HARR|Septuag|22" document_id="0527-055" subdoc="22">
+    <word id="1" ref="HARR|Septuag|22|1" form="διὸ" lemma="διό" postag="d--------" relation="ADV" head="4"/>
+    <word id="2" ref="HARR|Septuag|22|2" form="συγκατάθου" lemma="συγκατατίθημι" postag="v2samm---" relation="PRED_CO" head="4"/>
+    <word id="3" ref="HARR|Septuag|22|3" form="ἡμῖν" lemma="ἐγώ" postag="p1p---cd-" relation="ADV" head="2" sem="companion"/>
+    <word id="4" ref="HARR|Septuag|22|4" form="καὶ" lemma="καί" postag="b--------" relation="COORD" head="0"/>
+    <word id="5" ref="HARR|Septuag|22|5" form="γενοῦ" lemma="γίγνομαι" postag="v2samm---" relation="PRED_CO" head="4"/>
+    <word id="6" ref="HARR|Septuag|22|6" form="μεθ’" lemma="μετά" postag="r--------" relation="AuxP" head="5"/>
+    <word id="7" ref="HARR|Septuag|22|7" form="ἡμῶν" lemma="ἐγώ" postag="p1p---cg-" relation="ADV" head="6" sem="companion"/>
+    <word id="8" ref="HARR|Septuag|22|8" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+  <sentence id="23" ref="HARR|Septuag|23" document_id="0527-055" subdoc="23">
+    <word id="1" ref="HARR|Septuag|23|1" form="εἰ" lemma="εἰ" postag="c--------" relation="AuxC" head="5"/>
+    <word id="2" ref="HARR|Septuag|23|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="5"/>
+    <word id="3" ref="HARR|Septuag|23|3" form="μή" lemma="μή" postag="d--------" relation="AuxZ" head="21"/>
+    <word id="4" ref="HARR|Septuag|23|4" form="," lemma="," postag="u--------" relation="AuxX" head="21"/>
+    <word id="5" ref="HARR|Septuag|23|5" form="καταμαρτυρήσομέν" lemma="καταμαρτυρέω" postag="v1pfia---" relation="PRED" head="0"/>
+    <word id="6" ref="HARR|Septuag|23|6" form="σου" lemma="σύ" postag="p2s---cg-" relation="OBJ" head="5" sem="harrington_orientation"/>
+    <word id="7" ref="HARR|Septuag|23|7" form="ὅτι" lemma="ὅτι" postag="c--------" relation="AuxC" head="5"/>
+    <word id="8" ref="HARR|Septuag|23|8" form="ἦν" lemma="εἰμί" postag="v3siia---" relation="OBJ_CO" head="12" sem="statement"/>
+    <word id="9" ref="HARR|Septuag|23|9" form="μετὰ" lemma="μετά" postag="r--------" relation="AuxP" head="8"/>
+    <word id="10" ref="HARR|Septuag|23|10" form="σοῦ" lemma="σύ" postag="p2s---cg-" relation="ADV" head="9" sem="companion"/>
+    <word id="11" ref="HARR|Septuag|23|11" form="νεανίσκος" lemma="νεανίσκος" postag="n-s---mn-" relation="SBJ" head="8"/>
+    <word id="12" ref="HARR|Septuag|23|12" form="καὶ" lemma="καί" postag="b--------" relation="COORD" head="7"/>
+    <word id="13" ref="HARR|Septuag|23|13" form="διὰ" lemma="διά" postag="r--------" relation="AuxP" head="15"/>
+    <word id="14" ref="HARR|Septuag|23|14" form="τοῦτο" lemma="οὗτος" postag="p-s---na-" relation="ADV" head="13" sem="harrington_extent"/>
+    <word id="15" ref="HARR|Septuag|23|15" form="ἐξαπέστειλας" lemma="ἐξαποστέλλω" postag="v2saia---" relation="OBJ_CO" head="12" sem="statement"/>
+    <word id="16" ref="HARR|Septuag|23|16" form="τὰ" lemma="ὁ" postag="l-p---na-" relation="ATR" head="17"/>
+    <word id="17" ref="HARR|Septuag|23|17" form="κοράσια" lemma="κοράσιον" postag="n-p---na-" relation="OBJ" head="15"/>
+    <word id="18" ref="HARR|Septuag|23|18" form="ἀπὸ" lemma="ἀπό" postag="r--------" relation="AuxP" head="15"/>
+    <word id="19" ref="HARR|Septuag|23|19" form="σοῦ" lemma="σύ" postag="p2s---cg-" relation="OBJ" head="18" sem="harrington_orientation"/>
+    <word id="20" ref="HARR|Septuag|23|20" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
+    <word id="21" ref="HARR|Septuag|23|21" form="[γενῃ]" lemma="γίγνομαι" postag="v2sasa---" relation="ADV" head="1" artificial="elliptic" insertion_id="0003e" sem="condition"/>
+  </sentence>
+  <sentence id="24" ref="HARR|Septuag|24" document_id="0527-055" subdoc="24">
+    <word id="1" ref="HARR|Septuag|24|1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="4"/>
+    <word id="2" ref="HARR|Septuag|24|2" form="ἀνεστέναξεν" lemma="ἀναστενάζω" postag="v3saia---" relation="PRED_CO" head="4"/>
+    <word id="3" ref="HARR|Septuag|24|3" form="Σουσαννα" lemma="Σουσάννα" postag="n-s---fn-" relation="SBJ" head="4"/>
+    <word id="4" ref="HARR|Septuag|24|4" form="καὶ" lemma="καί" postag="b--------" relation="COORD" head="0"/>
+    <word id="5" ref="HARR|Septuag|24|5" form="εἶπεν" lemma="λέγω" postag="v3saia---" relation="PRED_CO" head="4"/>
+    <word id="6" ref="HARR|Septuag|24|6" form="στενά" lemma="στενός" postag="a-p---nn-" relation="PNOM" head="10"/>
+    <word id="7" ref="HARR|Septuag|24|7" form="μοι" lemma="ἐγώ" postag="p1s---cd-" relation="ADV" head="6" sem="harrington_reference"/>
+    <word id="8" ref="HARR|Septuag|24|8" form="πάντοθεν" lemma="πάντοθεν" postag="d--------" relation="ADV" head="10"/>
+    <word id="9" ref="HARR|Septuag|24|9" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
+    <word id="10" ref="HARR|Septuag|24|10" form="[εστι]" lemma="" postag="---------" relation="OBJ" head="5" artificial="elliptic" insertion_id="0007e" sem="statement"/>
+  </sentence>
+  <sentence id="25" ref="HARR|Septuag|25" document_id="0527-055" subdoc="25">
+    <word id="1" ref="HARR|Septuag|25|1" form="ἐάν" lemma="ἐάν" postag="c--------" relation="AuxC" head="9"/>
+    <word id="2" ref="HARR|Septuag|25|2" form="τε" lemma="τε" postag="b--------" relation="AuxY" head="12"/>
+    <word id="3" ref="HARR|Septuag|25|3" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="12"/>
+    <word id="4" ref="HARR|Septuag|25|4" form="τοῦτο" lemma="οὗτος" postag="p-s---na-" relation="OBJ" head="5"/>
+    <word id="5" ref="HARR|Septuag|25|5" form="πράξω" lemma="πράσσω" postag="v1sasa---" relation="ADV" head="1" sem="condition"/>
+    <word id="6" ref="HARR|Septuag|25|6" form="," lemma="," postag="u--------" relation="AuxX" head="5"/>
+    <word id="7" ref="HARR|Septuag|25|7" form="θάνατός" lemma="θάνατος" postag="n-s---mn-" relation="PNOM" head="9"/>
+    <word id="8" ref="HARR|Septuag|25|8" form="μοί" lemma="ἐγώ" postag="p1s---cd-" relation="PNOM" head="9" sem="possessor"/>
+    <word id="9" ref="HARR|Septuag|25|9" form="ἐστιν" lemma="εἰμί" postag="v3spia---" relation="PRED_CO" head="12"/>
+    <word id="10" ref="HARR|Septuag|25|10" form="," lemma="," postag="u--------" relation="AuxX" head="12"/>
+    <word id="11" ref="HARR|Septuag|25|11" form="ἐάν" lemma="ἐάν" postag="c--------" relation="AuxC" head="17"/>
+    <word id="12" ref="HARR|Septuag|25|12" form="τε" lemma="τε" postag="b--------" relation="COORD" head="0"/>
+    <word id="13" ref="HARR|Septuag|25|13" form="μὴ" lemma="μή" postag="c--------" relation="AuxZ" head="14"/>
+    <word id="14" ref="HARR|Septuag|25|14" form="πράξω" lemma="πράσσω" postag="v1sasa---" relation="ADV" head="11" sem="condition"/>
+    <word id="15" ref="HARR|Septuag|25|15" form="," lemma="," postag="u--------" relation="AuxX" head="14"/>
+    <word id="16" ref="HARR|Septuag|25|16" form="οὐκ" lemma="οὐ" postag="d--------" relation="AuxZ" head="17"/>
+    <word id="17" ref="HARR|Septuag|25|17" form="ἐκφεύξομαι" lemma="ἐκφεύγω" postag="v1sfim---" relation="PRED_CO" head="12"/>
+    <word id="18" ref="HARR|Septuag|25|18" form="τὰς" lemma="ὁ" postag="l-p---fa-" relation="ATR" head="19"/>
+    <word id="19" ref="HARR|Septuag|25|19" form="χεῖρας" lemma="χείρ" postag="n-p---fa-" relation="OBJ" head="17"/>
+    <word id="20" ref="HARR|Septuag|25|20" form="ὑμῶν" lemma="σύ" postag="p2p---cg-" relation="ATR" head="19" sem="possessor"/>
+    <word id="21" ref="HARR|Septuag|25|21" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+  <sentence id="26" ref="HARR|Septuag|26" document_id="0527-055" subdoc="26">
+    <word id="1" ref="HARR|Septuag|26|1" form="αἱρετόν" lemma="αἱρετός" postag="a-s---nn-" relation="PNOM" head="3"/>
+    <word id="2" ref="HARR|Septuag|26|2" form="μοί" lemma="ἐγώ" postag="p1s---cd-" relation="OBJ" head="1" sem="agent"/>
+    <word id="3" ref="HARR|Septuag|26|3" form="ἐστιν" lemma="εἰμί" postag="v3spia---" relation="PRED" head="0"/>
+    <word id="4" ref="HARR|Septuag|26|4" form="μὴ" lemma="μή" postag="d--------" relation="AuxZ" head="5"/>
+    <word id="5" ref="HARR|Septuag|26|5" form="πράξασαν" lemma="πράσσω" postag="v-sapafa-" relation="ADV" head="6" sem="time"/>
+    <word id="6" ref="HARR|Septuag|26|6" form="ἐμπεσεῖν" lemma="ἐμπίπτω" postag="v--ana---" relation="SBJ_CO" head="11"/>
+    <word id="7" ref="HARR|Septuag|26|7" form="εἰς" lemma="εἰς" postag="r--------" relation="AuxP" head="6"/>
+    <word id="8" ref="HARR|Septuag|26|8" form="τὰς" lemma="ὁ" postag="l-p---fa-" relation="ATR" head="9"/>
+    <word id="9" ref="HARR|Septuag|26|9" form="χεῖρας" lemma="χείρ" postag="n-p---fa-" relation="OBJ" head="7" sem="harrington_orientation"/>
+    <word id="10" ref="HARR|Septuag|26|10" form="ὑμῶν" lemma="σύ" postag="p2p---cg-" relation="ATR" head="9" sem="possessor"/>
+    <word id="11" ref="HARR|Septuag|26|11" form="ἢ" lemma="ἤ" postag="b--------" relation="COORD" head="3"/>
+    <word id="12" ref="HARR|Septuag|26|12" form="ἁμαρτεῖν" lemma="ἁμαρτάνω" postag="v--ana---" relation="SBJ_CO" head="11"/>
+    <word id="13" ref="HARR|Septuag|26|13" form="ἐνώπιον" lemma="ἐνώπιον" postag="r--------" relation="AuxP" head="12"/>
+    <word id="14" ref="HARR|Septuag|26|14" form="κυρίου" lemma="κύριος" postag="a-s---mg-" relation="ADV" head="13" sem="possessor"/>
+    <word id="15" ref="HARR|Septuag|26|15" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+  <sentence id="27" ref="HARR|Septuag|27" document_id="0527-055" subdoc="27">
+    <word id="1" ref="HARR|Septuag|27|1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="8"/>
+    <word id="2" ref="HARR|Septuag|27|2" form="ἀνεβόησεν" lemma="ἀναβοάω" postag="v3saia---" relation="PRED_CO" head="8"/>
+    <word id="3" ref="HARR|Septuag|27|3" form="φωνῇ" lemma="φωνή" postag="n-s---fd-" relation="ADV" head="2" sem="manner"/>
+    <word id="4" ref="HARR|Septuag|27|4" form="μεγάλῃ" lemma="μέγας" postag="a-s---fd-" relation="ATR" head="3"/>
+    <word id="5" ref="HARR|Septuag|27|5" form="Σουσαννα" lemma="Σουσάννα" postag="n-s---fn-" relation="SBJ" head="2"/>
+    <word id="6" ref="HARR|Septuag|27|6" form="," lemma="," postag="u--------" relation="AuxX" head="8"/>
+    <word id="7" ref="HARR|Septuag|27|7" form="ἐβόησαν" lemma="βοάω" postag="v3paia---" relation="PRED_CO" head="8"/>
+    <word id="8" ref="HARR|Septuag|27|8" form="δὲ" lemma="δέ" postag="b--------" relation="COORD" head="0"/>
+    <word id="9" ref="HARR|Septuag|27|9" form="καὶ" lemma="καί" postag="b--------" relation="AuxY" head="7"/>
+    <word id="10" ref="HARR|Septuag|27|10" form="οἱ" lemma="ὁ" postag="l-p---mn-" relation="ATR" head="12"/>
+    <word id="11" ref="HARR|Septuag|27|11" form="δύο" lemma="δύο" postag="m--------" relation="ATR" head="12"/>
+    <word id="12" ref="HARR|Septuag|27|12" form="πρεσβῦται" lemma="πρεσβύτης" postag="n-p---mn-" relation="SBJ" head="7"/>
+    <word id="13" ref="HARR|Septuag|27|13" form="κατέναντι" lemma="κατέναντι" postag="d--------" relation="AuxP" head="7"/>
+    <word id="14" ref="HARR|Septuag|27|14" form="αὐτῆς" lemma="αὐτός" postag="p-s---fg-" relation="OBJ" head="13" sem="harrington_orientation"/>
+    <word id="15" ref="HARR|Septuag|27|15" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+  <sentence id="28" ref="HARR|Septuag|28" document_id="0527-055" subdoc="28">
+    <word id="1" ref="HARR|Septuag|28|1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="5"/>
+    <word id="2" ref="HARR|Septuag|28|2" form="δραμὼν" lemma="τρέχω" postag="v-sapamn-" relation="ADV" head="4" sem="time"/>
+    <word id="3" ref="HARR|Septuag|28|3" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" head="4"/>
+    <word id="4" ref="HARR|Septuag|28|4" form="εἷς" lemma="εἷς" postag="m-s---mn-" relation="SBJ" head="5"/>
+    <word id="5" ref="HARR|Septuag|28|5" form="ἤνοιξεν" lemma="ἀνοίγνυμι" postag="v3saia---" relation="PRED" head="0"/>
+    <word id="6" ref="HARR|Septuag|28|6" form="τὰς" lemma="ὁ" postag="l-p---fa-" relation="ATR" head="7"/>
+    <word id="7" ref="HARR|Septuag|28|7" form="θύρας" lemma="θύρα" postag="n-p---fa-" relation="OBJ" head="5"/>
+    <word id="8" ref="HARR|Septuag|28|8" form="τοῦ" lemma="ὁ" postag="l-s---mg-" relation="ATR" head="9"/>
+    <word id="9" ref="HARR|Septuag|28|9" form="παραδείσου" lemma="παράδεισος" postag="n-s---mg-" relation="ATR" head="7" sem="possessor"/>
+    <word id="10" ref="HARR|Septuag|28|10" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+  <sentence id="29" ref="HARR|Septuag|29" document_id="0527-055" subdoc="29">
+    <word id="1" ref="HARR|Septuag|29|1" form="ὡς" lemma="ὡς" postag="c--------" relation="AuxC" head="14"/>
+    <word id="2" ref="HARR|Septuag|29|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="14"/>
+    <word id="3" ref="HARR|Septuag|29|3" form="ἤκουσαν" lemma="ἀκούω" postag="v3paia---" relation="ADV" head="1" sem="time"/>
+    <word id="4" ref="HARR|Septuag|29|4" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" head="5"/>
+    <word id="5" ref="HARR|Septuag|29|5" form="κραυγὴν" lemma="κραυγή" postag="n-s---fa-" relation="OBJ" head="3"/>
+    <word id="6" ref="HARR|Septuag|29|6" form="ἐν" lemma="ἐν" postag="r--------" relation="AuxP" head="5"/>
+    <word id="7" ref="HARR|Septuag|29|7" form="τῷ" lemma="ὁ" postag="l-s---md-" relation="ATR" head="8"/>
+    <word id="8" ref="HARR|Septuag|29|8" form="παραδείσῳ" lemma="παράδεισος" postag="n-s---md-" relation="ADV" head="6" sem="location"/>
+    <word id="9" ref="HARR|Septuag|29|9" form="οἱ" lemma="ὁ" postag="l-p---mn-" relation="SBJ" head="3"/>
+    <word id="10" ref="HARR|Septuag|29|10" form="ἐκ" lemma="ἐκ" postag="r--------" relation="AuxP" head="9"/>
+    <word id="11" ref="HARR|Septuag|29|11" form="τῆς" lemma="ὁ" postag="l-s---fg-" relation="ATR" head="12"/>
+    <word id="12" ref="HARR|Septuag|29|12" form="οἰκίας" lemma="οἰκία" postag="n-s---fg-" relation="OBJ" head="10" sem="harrington_orientation"/>
+    <word id="13" ref="HARR|Septuag|29|13" form="," lemma="," postag="u--------" relation="AuxX" head="14"/>
+    <word id="14" ref="HARR|Septuag|29|14" form="εἰσεπήδησαν" lemma="εἰσπηδάω" postag="v3paia---" relation="PRED" head="0"/>
+    <word id="15" ref="HARR|Septuag|29|15" form="διὰ" lemma="διά" postag="r--------" relation="AuxP" head="14"/>
+    <word id="16" ref="HARR|Septuag|29|16" form="τῆς" lemma="ὁ" postag="l-s---fg-" relation="ATR" head="18"/>
+    <word id="17" ref="HARR|Septuag|29|17" form="πλαγίας" lemma="πλάγιος" postag="a-s---fg-" relation="ATR" head="18"/>
+    <word id="18" ref="HARR|Septuag|29|18" form="θύρας" lemma="θύρα" postag="n-s---fg-" relation="OBJ" head="15" sem="harrington_orientation"/>
+    <word id="19" ref="HARR|Septuag|29|19" form="ἰδεῖν" lemma="ὁράω" postag="v--ana---" relation="ADV" head="14" sem="goal"/>
+    <word id="20" ref="HARR|Septuag|29|20" form="τὸ" lemma="ὁ" postag="l-s---na-" relation="ATR" head="21"/>
+    <word id="21" ref="HARR|Septuag|29|21" form="συμβεβηκὸς" lemma="συμβαίνω" postag="v-srpana-" relation="OBJ" head="19" sem="question"/>
+    <word id="22" ref="HARR|Septuag|29|22" form="αὐτῇ" lemma="αὐτός" postag="p-s---fd-" relation="ADV" head="21" sem="experiencer"/>
+    <word id="23" ref="HARR|Septuag|29|23" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+  <sentence id="30" ref="HARR|Septuag|30" document_id="0527-055" subdoc="30">
+    <word id="1" ref="HARR|Septuag|30|1" form="ἡνίκα" lemma="ἡνίκα" postag="c--------" relation="AuxC" head="10"/>
+    <word id="2" ref="HARR|Septuag|30|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="10"/>
+    <word id="3" ref="HARR|Septuag|30|3" form="εἶπαν" lemma="λέγω" postag="v3paia---" relation="ADV" head="1" sem="time"/>
+    <word id="4" ref="HARR|Septuag|30|4" form="οἱ" lemma="ὁ" postag="l-p---mn-" relation="ATR" head="5"/>
+    <word id="5" ref="HARR|Septuag|30|5" form="πρεσβῦται" lemma="πρεσβύτης" postag="n-p---mn-" relation="SBJ" head="3"/>
+    <word id="6" ref="HARR|Septuag|30|6" form="τοὺς" lemma="ὁ" postag="l-p---ma-" relation="ATR" head="7"/>
+    <word id="7" ref="HARR|Septuag|30|7" form="λόγους" lemma="λόγος" postag="n-p---ma-" relation="OBJ" head="3"/>
+    <word id="8" ref="HARR|Septuag|30|8" form="αὐτῶν" lemma="αὐτός" postag="p-p---mg-" relation="ATR" head="7" sem="possessor"/>
+    <word id="9" ref="HARR|Septuag|30|9" form="," lemma="," postag="u--------" relation="AuxX" head="3"/>
+    <word id="10" ref="HARR|Septuag|30|10" form="κατῃσχύνθησαν" lemma="καταισχύνω" postag="v3paip---" relation="PRED" head="0"/>
+    <word id="11" ref="HARR|Septuag|30|11" form="οἱ" lemma="ὁ" postag="l-p---mn-" relation="ATR" head="12"/>
+    <word id="12" ref="HARR|Septuag|30|12" form="δοῦλοι" lemma="δοῦλος" postag="n-p---mn-" relation="SBJ" head="10"/>
+    <word id="13" ref="HARR|Septuag|30|13" form="σφόδρα" lemma="σφόδρα" postag="d--------" relation="ADV" head="10"/>
+    <word id="14" ref="HARR|Septuag|30|14" form="," lemma="," postag="u--------" relation="AuxX" head="18"/>
+    <word id="15" ref="HARR|Septuag|30|15" form="ὅτι" lemma="ὅτι" postag="c--------" relation="AuxC" head="10"/>
+    <word id="16" ref="HARR|Septuag|30|16" form="πώποτε" lemma="πώποτε" postag="d--------" relation="ADV" head="18"/>
+    <word id="17" ref="HARR|Septuag|30|17" form="οὐκ" lemma="οὐ" postag="d--------" relation="AuxZ" head="16"/>
+    <word id="18" ref="HARR|Septuag|30|18" form="ἐρρέθη" lemma="λέγω" postag="v3saip---" relation="ADV" head="15" sem="cause"/>
+    <word id="19" ref="HARR|Septuag|30|19" form="λόγος" lemma="λόγος" postag="n-s---mn-" relation="SBJ" head="18"/>
+    <word id="20" ref="HARR|Septuag|30|20" form="τοιοῦτος" lemma="τοιοῦτος" postag="p-s---mn-" relation="ATR" head="19"/>
+    <word id="21" ref="HARR|Septuag|30|21" form="περὶ" lemma="περί" postag="r--------" relation="AuxP" head="19"/>
+    <word id="22" ref="HARR|Septuag|30|22" form="Σουσαννης" lemma="Σουσάννα" postag="n-s---fg-" relation="OBJ" head="21" sem="harrington_orientation"/>
+    <word id="23" ref="HARR|Septuag|30|23" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+  <sentence id="31" ref="HARR|Septuag|31" document_id="0527-055" subdoc="31">
+    <word id="1" ref="HARR|Septuag|31|1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="2"/>
+    <word id="2" ref="HARR|Septuag|31|2" form="ἐγένετο" lemma="γίγνομαι" postag="v3saim---" relation="PRED" head="0"/>
+    <word id="3" ref="HARR|Septuag|31|3" form="τῇ" lemma="ὁ" postag="l-s---fd-" relation="ATR" head="4"/>
+    <word id="4" ref="HARR|Septuag|31|4" form="ἐπαύριον" lemma="ἐπαύριον" postag="d--------" relation="ADV" head="2" sem="location"/>
+    <word id="5" ref="HARR|Septuag|31|5" form="ὡς" lemma="ὡς" postag="c--------" relation="AuxC" head="2"/>
+    <word id="6" ref="HARR|Septuag|31|6" form="συνῆλθεν" lemma="συνέρχομαι" postag="v3saia---" relation="ADV" head="5" sem="time"/>
+    <word id="7" ref="HARR|Septuag|31|7" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" head="8"/>
+    <word id="8" ref="HARR|Septuag|31|8" form="λαὸς" lemma="λαός" postag="n-s---mn-" relation="SBJ" head="6"/>
+    <word id="9" ref="HARR|Septuag|31|9" form="πρὸς" lemma="πρός" postag="r--------" relation="AuxP" head="6"/>
+    <word id="10" ref="HARR|Septuag|31|10" form="τὸν" lemma="ὁ" postag="l-s---ma-" relation="ATR" head="11"/>
+    <word id="11" ref="HARR|Septuag|31|11" form="ἄνδρα" lemma="ἀνήρ" postag="n-s---ma-" relation="OBJ" head="9" sem="harrington_orientation"/>
+    <word id="12" ref="HARR|Septuag|31|12" form="αὐτῆς" lemma="αὐτός" postag="p-s---fg-" relation="ATR" head="11" sem="possessor"/>
+    <word id="13" ref="HARR|Septuag|31|13" form="Ιωακιμ" lemma="Ιωακιμ" postag="n-s---ma-" relation="APOS" head="11" sem="harrington_orientation"/>
+    <word id="14" ref="HARR|Septuag|31|14" form="," lemma="," postag="u--------" relation="AuxX" head="6"/>
+    <word id="15" ref="HARR|Septuag|31|15" form="ἦλθον" lemma="ἔρχομαι" postag="v3paia---" relation="SBJ_CO" head="28" sem="statement"/>
+    <word id="16" ref="HARR|Septuag|31|16" form="οἱ" lemma="ὁ" postag="l-p---mn-" relation="ATR" head="18"/>
+    <word id="17" ref="HARR|Septuag|31|17" form="δύο" lemma="δύο" postag="m--------" relation="ATR" head="18"/>
+    <word id="18" ref="HARR|Septuag|31|18" form="πρεσβῦται" lemma="πρεσβύτης" postag="n-p---mn-" relation="SBJ" head="28"/>
+    <word id="19" ref="HARR|Septuag|31|19" form="πλήρεις" lemma="πλήρης" postag="a-p---mn-" relation="ATR" head="18"/>
+    <word id="20" ref="HARR|Septuag|31|20" form="τῆς" lemma="ὁ" postag="l-s---fg-" relation="ATR" head="22"/>
+    <word id="21" ref="HARR|Septuag|31|21" form="ἀνόμου" lemma="ἄνομος" postag="a-s---fg-" relation="ATR" head="22"/>
+    <word id="22" ref="HARR|Septuag|31|22" form="ἐννοίας" lemma="ἔννοια" postag="n-s---fg-" relation="ADV" head="19" sem="totality"/>
+    <word id="23" ref="HARR|Septuag|31|23" form="κατὰ" lemma="κατά" postag="r--------" relation="AuxP" head="22"/>
+    <word id="24" ref="HARR|Septuag|31|24" form="Σουσαννης" lemma="Σουσάννα" postag="n-s---fg-" relation="OBJ" head="23" sem="harrington_orientation"/>
+    <word id="25" ref="HARR|Septuag|31|25" form="τοῦ" lemma="ὁ" postag="l-s---ng-" relation="ATR" head="26"/>
+    <word id="26" ref="HARR|Septuag|31|26" form="θανατῶσαι" lemma="θανατόω" postag="v--ana---" relation="ATR" head="22" sem="patient"/>
+    <word id="27" ref="HARR|Septuag|31|27" form="αὐτὴν" lemma="αὐτός" postag="p-s---fa-" relation="OBJ" head="26"/>
+    <word id="28" ref="HARR|Septuag|31|28" form="καὶ" lemma="καί" postag="b--------" relation="COORD" head="2"/>
+    <word id="29" ref="HARR|Septuag|31|29" form="εἶπαν" lemma="λέγω" postag="v3paia---" relation="SBJ_CO" head="28" sem="statement"/>
+    <word id="30" ref="HARR|Septuag|31|30" form="ἔμπροσθεν" lemma="ἔμπροσθεν" postag="r--------" relation="AuxP" head="29"/>
+    <word id="31" ref="HARR|Septuag|31|31" form="τοῦ" lemma="ὁ" postag="l-s---mg-" relation="ATR" head="32"/>
+    <word id="32" ref="HARR|Septuag|31|32" form="λαοῦ" lemma="λαός" postag="n-s---mg-" relation="ADV" head="30" sem="harrington_orientation"/>
+    <word id="33" ref="HARR|Septuag|31|33" form="ἀποστείλατε" lemma="ἀποστέλλω" postag="v2pama---" relation="OBJ" head="29" sem="statement"/>
+    <word id="34" ref="HARR|Septuag|31|34" form="ἐπὶ" lemma="ἐπί" postag="r--------" relation="AuxP" head="33"/>
+    <word id="35" ref="HARR|Septuag|31|35" form="Σουσανναν" lemma="Σουσάννα" postag="n-s---fa-" relation="OBJ" head="34" sem="harrington_orientation"/>
+    <word id="36" ref="HARR|Septuag|31|36" form="θυγατέρα" lemma="θυγάτηρ" postag="n-s---fa-" relation="APOS" head="35" sem="harrington_orientation"/>
+    <word id="37" ref="HARR|Septuag|31|37" form="Χελκιου" lemma="Χελκιος" postag="n-s---mg-" relation="ATR" head="36" sem="possessor"/>
+    <word id="38" ref="HARR|Septuag|31|38" form="," lemma="," postag="u--------" relation="AuxX" head="40"/>
+    <word id="39" ref="HARR|Septuag|31|39" form="ἥ" lemma="ὅς" postag="p-s---fn-" relation="SBJ" head="40"/>
+    <word id="40" ref="HARR|Septuag|31|40" form="ἐστιν" lemma="εἰμί" postag="v3spia---" relation="ATR" head="35"/>
+    <word id="41" ref="HARR|Septuag|31|41" form="γυνὴ" lemma="γυνή" postag="n-s---fn-" relation="PNOM" head="40"/>
+    <word id="42" ref="HARR|Septuag|31|42" form="Ιωακιμ" lemma="Ιωακιμ" postag="n-s---mg-" relation="ATR" head="41" sem="possessor"/>
+    <word id="43" ref="HARR|Septuag|31|43" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+  <sentence id="32" ref="HARR|Septuag|32" document_id="0527-055" subdoc="32">
+    <word id="1" ref="HARR|Septuag|32|1" form="οἱ" lemma="ὁ" postag="l-p---mn-" relation="SBJ" head="3"/>
+    <word id="2" ref="HARR|Septuag|32|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="3"/>
+    <word id="3" ref="HARR|Septuag|32|3" form="ἀπέστειλαν" lemma="ἀποστέλλω" postag="v3paia---" relation="PRED" head="0"/>
+    <word id="4" ref="HARR|Septuag|32|4" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+  <sentence id="33" ref="HARR|Septuag|33" document_id="0527-055" subdoc="33">
+    <word id="1" ref="HARR|Septuag|33|1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="2"/>
+    <word id="2" ref="HARR|Septuag|33|2" form="ἦλθεν" lemma="ἔρχομαι" postag="v3saia---" relation="PRED" head="0"/>
+    <word id="3" ref="HARR|Septuag|33|3" form="αὐτὴ" lemma="αὐτός" postag="p-s---fn-" relation="SBJ_CO" head="12"/>
+    <word id="4" ref="HARR|Septuag|33|4" form="καὶ" lemma="καί" postag="b--------" relation="AuxY" head="12"/>
+    <word id="5" ref="HARR|Septuag|33|5" form="οἱ" lemma="ὁ" postag="l-p---mn-" relation="ATR" head="6"/>
+    <word id="6" ref="HARR|Septuag|33|6" form="γονεῖς" lemma="γονεύς" postag="n-p---mn-" relation="SBJ_CO" head="12"/>
+    <word id="7" ref="HARR|Septuag|33|7" form="αὐτῆς" lemma="αὐτός" postag="p-s---fg-" relation="ATR" head="6" sem="possessor"/>
+    <word id="8" ref="HARR|Septuag|33|8" form="καὶ" lemma="καί" postag="b--------" relation="AuxY" head="12"/>
+    <word id="9" ref="HARR|Septuag|33|9" form="τὰ" lemma="ὁ" postag="l-p---nn-" relation="ATR" head="10"/>
+    <word id="10" ref="HARR|Septuag|33|10" form="τέκνα" lemma="τέκνον" postag="n-p---nn-" relation="SBJ_CO" head="12"/>
+    <word id="11" ref="HARR|Septuag|33|11" form="αὐτῆς" lemma="αὐτός" postag="p-s---fg-" relation="ATR" head="10" sem="possessor"/>
+    <word id="12" ref="HARR|Septuag|33|12" form="καὶ" lemma="καί" postag="b--------" relation="COORD" head="2"/>
+    <word id="13" ref="HARR|Septuag|33|13" form="πάντες" lemma="πᾶς" postag="a-p---mn-" relation="ATR" head="15"/>
+    <word id="14" ref="HARR|Septuag|33|14" form="οἱ" lemma="ὁ" postag="l-p---mn-" relation="ATR" head="15"/>
+    <word id="15" ref="HARR|Septuag|33|15" form="συγγενεῖς" lemma="συγγενής" postag="n-p---mn-" relation="SBJ_CO" head="12"/>
+    <word id="16" ref="HARR|Septuag|33|16" form="αὐτῆς" lemma="αὐτός" postag="p-s---fg-" relation="ATR" head="15" sem="possessor"/>
+    <word id="17" ref="HARR|Septuag|33|17" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+  <sentence id="34" ref="HARR|Septuag|34" document_id="0527-055" subdoc="34">
+    <word id="1" ref="HARR|Septuag|34|1" form="ἡ" lemma="ὁ" postag="l-s---fn-" relation="ATR" head="3"/>
+    <word id="2" ref="HARR|Septuag|34|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="4"/>
+    <word id="3" ref="HARR|Septuag|34|3" form="Σουσαννα" lemma="Σουσάννα" postag="n-s---fn-" relation="SBJ" head="4"/>
+    <word id="4" ref="HARR|Septuag|34|4" form="ἦν" lemma="εἰμί" postag="v3siia---" relation="PRED" head="0"/>
+    <word id="5" ref="HARR|Septuag|34|5" form="τρυφερὰ" lemma="τρυφερός" postag="a-s---fn-" relation="PNOM_CO" head="7"/>
+    <word id="6" ref="HARR|Septuag|34|6" form="σφόδρα" lemma="σφόδρα" postag="d--------" relation="ADV" head="5"/>
+    <word id="7" ref="HARR|Septuag|34|7" form="καὶ" lemma="καί" postag="b--------" relation="COORD" head="4"/>
+    <word id="8" ref="HARR|Septuag|34|8" form="καλὴ" lemma="καλός" postag="a-s---fn-" relation="PNOM_CO" head="7"/>
+    <word id="9" ref="HARR|Septuag|34|9" form="τῷ" lemma="ὁ" postag="l-s---nd-" relation="ATR" head="10"/>
+    <word id="10" ref="HARR|Septuag|34|10" form="εἴδει" lemma="εἶδος" postag="n-s---nd-" relation="ADV" head="8" sem="respect"/>
+    <word id="11" ref="HARR|Septuag|34|11" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+  <sentence id="35" ref="HARR|Septuag|35" document_id="0527-055" subdoc="35">
+    <word id="1" ref="HARR|Septuag|35|1" form="οἱ" lemma="ὁ" postag="l-p---mn-" relation="ATR" head="3"/>
+    <word id="2" ref="HARR|Septuag|35|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="4"/>
+    <word id="3" ref="HARR|Septuag|35|3" form="παράνομοι" lemma="παράνομος" postag="a-p---mn-" relation="SBJ" head="4"/>
+    <word id="4" ref="HARR|Septuag|35|4" form="ἐκέλευσαν" lemma="κελεύω" postag="v3paia---" relation="PRED" head="0"/>
+    <word id="5" ref="HARR|Septuag|35|5" form="ἀποκαλυφθῆναι" lemma="ἀποκαλύπτω" postag="v--anp---" relation="OBJ" head="4" sem="cognate object"/>
+    <word id="6" ref="HARR|Septuag|35|6" form="αὐτήν" lemma="αὐτός" postag="p-s---fa-" relation="OBJ" head="4"/>
+    <word id="7" ref="HARR|Septuag|35|7" form="," lemma="," postag="u--------" relation="AuxX" head="8"/>
+    <word id="8" ref="HARR|Septuag|35|8" form="ἦν" lemma="εἰμί" postag="v3siia---" relation="ExD" head="4"/>
+    <word id="9" ref="HARR|Septuag|35|9" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="8"/>
+    <word id="10" ref="HARR|Septuag|35|10" form="κατακεκαλυμμένη" lemma="κατακαλύπτω" postag="v-srpefn-" relation="PNOM" head="8" sem="cause"/>
+    <word id="11" ref="HARR|Septuag|35|11" form="," lemma="," postag="u--------" relation="AuxX" head="8"/>
+    <word id="12" ref="HARR|Septuag|35|12" form="ὅπως" lemma="ὅπως" postag="c--------" relation="AuxC" head="4"/>
+    <word id="13" ref="HARR|Septuag|35|13" form="ἐμπλησθῶσιν" lemma="ἐμπίμπλημι" postag="v3pasp---" relation="ADV" head="12" sem="goal"/>
+    <word id="14" ref="HARR|Septuag|35|14" form="τοῦ" lemma="ὁ" postag="l-s---ng-" relation="ATR" head="15"/>
+    <word id="15" ref="HARR|Septuag|35|15" form="κάλλους" lemma="κάλλος" postag="n-s---ng-" relation="ATR" head="13" sem="patient"/>
+    <word id="16" ref="HARR|Septuag|35|16" form="αὐτῆς" lemma="αὐτός" postag="p-s---fg-" relation="ATR" head="15" sem="possessor"/>
+    <word id="17" ref="HARR|Septuag|35|17" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+  <sentence id="36" ref="HARR|Septuag|36" document_id="0527-055" subdoc="36">
+    <word id="1" ref="HARR|Septuag|36|1" form="ἔκλαιον" lemma="κλαίω" postag="v3piia---" relation="PRED" head="0"/>
+    <word id="2" ref="HARR|Septuag|36|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="1"/>
+    <word id="3" ref="HARR|Septuag|36|3" form="οἱ" lemma="ὁ" postag="l-p---mn-" relation="SBJ_CO" head="6"/>
+    <word id="4" ref="HARR|Septuag|36|4" form="παρ’" lemma="παρά" postag="r--------" relation="AuxP" head="3"/>
+    <word id="5" ref="HARR|Septuag|36|5" form="αὐτῆς" lemma="αὐτός" postag="p-s---fg-" relation="OBJ" head="4" sem="harrington_orientation"/>
+    <word id="6" ref="HARR|Septuag|36|6" form="καὶ" lemma="καί" postag="b--------" relation="COORD" head="1"/>
+    <word id="7" ref="HARR|Septuag|36|7" form="πάντες" lemma="πᾶς" postag="a-p---mn-" relation="ATR" head="9"/>
+    <word id="8" ref="HARR|Septuag|36|8" form="οἱ" lemma="ὁ" postag="l-p---mn-" relation="ATR" head="9"/>
+    <word id="9" ref="HARR|Septuag|36|9" form="ἰδόντες" lemma="ὁράω" postag="v-papamn-" relation="SBJ_CO" head="6"/>
+    <word id="10" ref="HARR|Septuag|36|10" form="αὐτήν" lemma="αὐτός" postag="p-s---fa-" relation="OBJ" head="9"/>
+    <word id="11" ref="HARR|Septuag|36|11" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+  <sentence id="37" ref="HARR|Septuag|37" document_id="0527-055" subdoc="37">
+    <word id="1" ref="HARR|Septuag|37|1" form="ἀναστάντες" lemma="ἀνίστημι" postag="v-papamn-" relation="ADV" head="5" sem="time"/>
+    <word id="2" ref="HARR|Septuag|37|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="10"/>
+    <word id="3" ref="HARR|Septuag|37|3" form="οἱ" lemma="ὁ" postag="l-p---mn-" relation="ATR" head="5"/>
+    <word id="4" ref="HARR|Septuag|37|4" form="δύο" lemma="δύο" postag="m--------" relation="ATR" head="5"/>
+    <word id="5" ref="HARR|Septuag|37|5" form="πρεσβῦται" lemma="πρεσβύτης" postag="n-p---mn-" relation="SBJ" head="10"/>
+    <word id="6" ref="HARR|Septuag|37|6" form="ἐν" lemma="ἐν" postag="r--------" relation="AuxP" head="1"/>
+    <word id="7" ref="HARR|Septuag|37|7" form="μέσῳ" lemma="μέσος" postag="a-s---md-" relation="ATR" head="9"/>
+    <word id="8" ref="HARR|Septuag|37|8" form="τῷ" lemma="ὁ" postag="l-s---md-" relation="ATR" head="9"/>
+    <word id="9" ref="HARR|Septuag|37|9" form="λαῷ" lemma="λαός" postag="n-s---md-" relation="ADV" head="6" sem="location"/>
+    <word id="10" ref="HARR|Septuag|37|10" form="ἔθηκαν" lemma="τίθημι" postag="v3paia---" relation="PRED" head="0"/>
+    <word id="11" ref="HARR|Septuag|37|11" form="τὰς" lemma="ὁ" postag="l-p---fa-" relation="ATR" head="12"/>
+    <word id="12" ref="HARR|Septuag|37|12" form="χεῖρας" lemma="χείρ" postag="n-p---fa-" relation="OBJ" head="10"/>
+    <word id="13" ref="HARR|Septuag|37|13" form="ἐπὶ" lemma="ἐπί" postag="r--------" relation="AuxP" head="10"/>
+    <word id="14" ref="HARR|Septuag|37|14" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" head="15"/>
+    <word id="15" ref="HARR|Septuag|37|15" form="κεφαλὴν" lemma="κεφαλή" postag="n-s---fa-" relation="OBJ" head="13" sem="harrington_orientation"/>
+    <word id="16" ref="HARR|Septuag|37|16" form="αὐτῆς" lemma="αὐτός" postag="p-s---fg-" relation="ATR" head="15" sem="possessor"/>
+    <word id="17" ref="HARR|Septuag|37|17" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+  <sentence id="38" ref="HARR|Septuag|38" document_id="0527-055" subdoc="38">
+    <word id="1" ref="HARR|Septuag|38|1" form="ἡ" lemma="ὁ" postag="l-s---fn-" relation="SBJ" head="4"/>
+    <word id="2" ref="HARR|Septuag|38|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="4"/>
+    <word id="3" ref="HARR|Septuag|38|3" form="κλαίουσα" lemma="κλαίω" postag="v-sppafn-" relation="ADV" head="1" sem="time"/>
+    <word id="4" ref="HARR|Septuag|38|4" form="ἀνέβλεψεν" lemma="ἀναβλέπω" postag="v3saia---" relation="PRED" head="0"/>
+    <word id="5" ref="HARR|Septuag|38|5" form="εἰς" lemma="εἰς" postag="r--------" relation="AuxP" head="4"/>
+    <word id="6" ref="HARR|Septuag|38|6" form="τὸν" lemma="ὁ" postag="l-s---ma-" relation="ATR" head="7"/>
+    <word id="7" ref="HARR|Septuag|38|7" form="οὐρανόν" lemma="οὐρανός" postag="n-s---ma-" relation="OBJ" head="5" sem="harrington_orientation"/>
+    <word id="8" ref="HARR|Septuag|38|8" form="," lemma="," postag="u--------" relation="AuxX" head="10"/>
+    <word id="9" ref="HARR|Septuag|38|9" form="ὅτι" lemma="ὅτι" postag="c--------" relation="AuxC" head="4"/>
+    <word id="10" ref="HARR|Septuag|38|10" form="ἦν" lemma="εἰμί" postag="v3siia---" relation="ADV" head="9"/>
+    <word id="11" ref="HARR|Septuag|38|11" form="ἡ" lemma="ὁ" postag="l-s---fn-" relation="ATR" head="12"/>
+    <word id="12" ref="HARR|Septuag|38|12" form="καρδία" lemma="καρδία" postag="n-s---fn-" relation="SBJ" head="10"/>
+    <word id="13" ref="HARR|Septuag|38|13" form="αὐτῆς" lemma="αὐτός" postag="p-s---fg-" relation="ATR" head="12" sem="possessor"/>
+    <word id="14" ref="HARR|Septuag|38|14" form="πεποιθυῖα" lemma="πείθω" postag="v-srpafn-" relation="PNOM" head="10" sem="cause"/>
+    <word id="15" ref="HARR|Septuag|38|15" form="ἐπὶ" lemma="ἐπί" postag="r--------" relation="AuxP" head="10"/>
+    <word id="16" ref="HARR|Septuag|38|16" form="τῷ" lemma="ὁ" postag="l-s---md-" relation="ATR" head="17"/>
+    <word id="17" ref="HARR|Septuag|38|17" form="κυρίῳ" lemma="κύριος" postag="n-s---md-" relation="ADV" head="15" sem="location"/>
+    <word id="18" ref="HARR|Septuag|38|18" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+  <sentence id="39" ref="HARR|Septuag|39" document_id="0527-055" subdoc="39">
+    <word id="1" ref="HARR|Septuag|39|1" form="εἶπαν" lemma="λέγω" postag="v3paia---" relation="PRED" head="0"/>
+    <word id="2" ref="HARR|Septuag|39|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="1"/>
+    <word id="3" ref="HARR|Septuag|39|3" form="οἱ" lemma="ὁ" postag="l-p---mn-" relation="ATR" head="4"/>
+    <word id="4" ref="HARR|Septuag|39|4" form="πρεσβῦται" lemma="πρεσβύτης" postag="n-p---mn-" relation="SBJ" head="1"/>
+    <word id="5" ref="HARR|Septuag|39|5" form="περιπατούντων" lemma="περιπατέω" postag="v-pppamgp" relation="ADV" head="22"/>
+    <word id="6" ref="HARR|Septuag|39|6" form="ἡμῶν" lemma="ἐγώ" postag="p1p---cg-" relation="SBJ" head="5"/>
+    <word id="7" ref="HARR|Septuag|39|7" form="ἐν" lemma="ἐν" postag="r--------" relation="AuxP" head="5"/>
+    <word id="8" ref="HARR|Septuag|39|8" form="τῷ" lemma="ὁ" postag="l-s---md-" relation="ATR" head="9"/>
+    <word id="9" ref="HARR|Septuag|39|9" form="παραδείσῳ" lemma="παράδεισος" postag="n-s---md-" relation="ADV" head="7" sem="location"/>
+    <word id="10" ref="HARR|Septuag|39|10" form="μόνων" lemma="μόνος" postag="a-p---mg-" relation="ATR" head="6"/>
+    <word id="11" ref="HARR|Septuag|39|11" form="εἰσῆλθεν" lemma="εἰσέρχομαι" postag="v3saia---" relation="OBJ_CO" head="22" sem="statement"/>
+    <word id="12" ref="HARR|Septuag|39|12" form="αὕτη" lemma="οὗτος" postag="p-s---fn-" relation="SBJ" head="22"/>
+    <word id="13" ref="HARR|Septuag|39|13" form="μετὰ" lemma="μετά" postag="r--------" relation="AuxP" head="11"/>
+    <word id="14" ref="HARR|Septuag|39|14" form="δύο" lemma="δύο" postag="m--------" relation="ATR" head="15"/>
+    <word id="15" ref="HARR|Septuag|39|15" form="παιδισκῶν" lemma="παιδισκή" postag="n-p---fg-" relation="ADV" head="13" sem="companion"/>
+    <word id="16" ref="HARR|Septuag|39|16" form="καὶ" lemma="καί" postag="b--------" relation="AuxY" head="22"/>
+    <word id="17" ref="HARR|Septuag|39|17" form="ἀπέκλεισεν" lemma="ἀποκλείω" postag="v3saia---" relation="OBJ_CO" head="22" sem="statement"/>
+    <word id="18" ref="HARR|Septuag|39|18" form="τὰς" lemma="ὁ" postag="l-p---fa-" relation="ATR" head="19"/>
+    <word id="19" ref="HARR|Septuag|39|19" form="θύρας" lemma="θύρα" postag="n-p---fa-" relation="OBJ" head="17"/>
+    <word id="20" ref="HARR|Septuag|39|20" form="τοῦ" lemma="ὁ" postag="l-s---mg-" relation="ATR" head="21"/>
+    <word id="21" ref="HARR|Septuag|39|21" form="παραδείσου" lemma="παράδεισος" postag="n-s---mg-" relation="ATR" head="19" sem="possessor"/>
+    <word id="22" ref="HARR|Septuag|39|22" form="καὶ" lemma="καί" postag="b--------" relation="COORD" head="1"/>
+    <word id="23" ref="HARR|Septuag|39|23" form="ἀπέλυσεν" lemma="ἀπολύω" postag="v3saia---" relation="OBJ_CO" head="22" sem="statement"/>
+    <word id="24" ref="HARR|Septuag|39|24" form="τὰς" lemma="ὁ" postag="l-p---fa-" relation="ATR" head="25"/>
+    <word id="25" ref="HARR|Septuag|39|25" form="παιδίσκας" lemma="παιδίσκη" postag="n-p---fa-" relation="OBJ" head="23"/>
+    <word id="26" ref="HARR|Septuag|39|26" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+  <sentence id="40" ref="HARR|Septuag|40" document_id="0527-055" subdoc="40">
+    <word id="1" ref="HARR|Septuag|40|1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="2"/>
+    <word id="2" ref="HARR|Septuag|40|2" form="ἦλθεν" lemma="ἔρχομαι" postag="v3saia---" relation="PRED" head="0"/>
+    <word id="3" ref="HARR|Septuag|40|3" form="πρὸς" lemma="πρός" postag="r--------" relation="AuxP" head="2"/>
+    <word id="4" ref="HARR|Septuag|40|4" form="αὐτὴν" lemma="αὐτός" postag="p-s---fa-" relation="OBJ" head="3" sem="harrington_orientation"/>
+    <word id="5" ref="HARR|Septuag|40|5" form="νεανίσκος" lemma="νεανίσκος" postag="n-s---mn-" relation="SBJ" head="2"/>
+    <word id="6" ref="HARR|Septuag|40|6" form="," lemma="," postag="u--------" relation="AuxX" head="8"/>
+    <word id="7" ref="HARR|Septuag|40|7" form="ὃς" lemma="ὅς" postag="p-s---mn-" relation="SBJ" head="11"/>
+    <word id="8" ref="HARR|Septuag|40|8" form="ἦν" lemma="εἰμί" postag="v3siia---" relation="ATR_CO" head="11"/>
+    <word id="9" ref="HARR|Septuag|40|9" form="κεκρυμμένος" lemma="κρύπτω" postag="v-srpemn-" relation="PNOM" head="8"/>
+    <word id="10" ref="HARR|Septuag|40|10" form="," lemma="," postag="u--------" relation="AuxX" head="11"/>
+    <word id="11" ref="HARR|Septuag|40|11" form="καὶ" lemma="καί" postag="b--------" relation="COORD" head="5"/>
+    <word id="12" ref="HARR|Septuag|40|12" form="ἀνέπεσε" lemma="ἀναπίπτω" postag="v3saia---" relation="ATR_CO" head="11"/>
+    <word id="13" ref="HARR|Septuag|40|13" form="μετ’" lemma="μετά" postag="r--------" relation="AuxP" head="12"/>
+    <word id="14" ref="HARR|Septuag|40|14" form="αὐτῆς" lemma="αὐτός" postag="p-s---fg-" relation="ADV" head="13" sem="companion"/>
+    <word id="15" ref="HARR|Septuag|40|15" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+  <sentence id="41" ref="HARR|Septuag|41" document_id="0527-055" subdoc="41">
+    <word id="1" ref="HARR|Septuag|41|1" form="ἡμεῖς" lemma="ἐγώ" postag="p1p---cn-" relation="SBJ" head="12"/>
+    <word id="2" ref="HARR|Septuag|41|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="12"/>
+    <word id="3" ref="HARR|Septuag|41|3" form="ὄντες" lemma="εἰμί" postag="v-pppamn-" relation="ADV" head="1" sem="cause"/>
+    <word id="4" ref="HARR|Septuag|41|4" form="ἐν" lemma="ἐν" postag="r--------" relation="AuxP" head="3"/>
+    <word id="5" ref="HARR|Septuag|41|5" form="τῇ" lemma="ὁ" postag="l-s---fd-" relation="ATR" head="6"/>
+    <word id="6" ref="HARR|Septuag|41|6" form="γωνίᾳ" lemma="γωνία" postag="n-s---fd-" relation="ADV" head="4" sem="location"/>
+    <word id="7" ref="HARR|Septuag|41|7" form="τοῦ" lemma="ὁ" postag="l-s---mg-" relation="ATR" head="8"/>
+    <word id="8" ref="HARR|Septuag|41|8" form="παραδείσου" lemma="παράδεισος" postag="n-s---mg-" relation="ATR" head="6" sem="possessor"/>
+    <word id="9" ref="HARR|Septuag|41|9" form="ἰδόντες" lemma="ὁράω" postag="v-papamn-" relation="ADV" head="1" sem="cause"/>
+    <word id="10" ref="HARR|Septuag|41|10" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" head="11"/>
+    <word id="11" ref="HARR|Septuag|41|11" form="ἀνομίαν" lemma="ἀνομία" postag="n-s---fa-" relation="OBJ" head="9"/>
+    <word id="12" ref="HARR|Septuag|41|12" form="ἐδράμομεν" lemma="τρέχω" postag="v1paia---" relation="PRED" head="0"/>
+    <word id="13" ref="HARR|Septuag|41|13" form="ἐπ’" lemma="ἐπί" postag="r--------" relation="AuxP" head="12"/>
+    <word id="14" ref="HARR|Septuag|41|14" form="αὐτούς" lemma="αὐτός" postag="p-p---ma-" relation="OBJ" head="13" sem="harrington_orientation"/>
+    <word id="15" ref="HARR|Septuag|41|15" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+  <sentence id="42" ref="HARR|Septuag|42" document_id="0527-055" subdoc="42">
+    <word id="1" ref="HARR|Septuag|42|1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="24"/>
+    <word id="2" ref="HARR|Septuag|42|2" form="ἰδόντες" lemma="ὁράω" postag="v-papamn-" relation="ADV" head="8" sem="time"/>
+    <word id="3" ref="HARR|Septuag|42|3" form="συγγινομένους" lemma="συγγίγνομαι" postag="v-pppema-" relation="OBJ" head="4" sem="statement"/>
+    <word id="4" ref="HARR|Septuag|42|4" form="αὐτοὺς" lemma="αὐτός" postag="p-p---ma-" relation="OBJ" head="2"/>
+    <word id="5" ref="HARR|Septuag|42|5" form="ἐκείνου" lemma="ἐκεῖνος" postag="p-s---mg-" relation="ATR" head="9" sem="patient"/>
+    <word id="6" ref="HARR|Septuag|42|6" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" head="8"/>
+    <word id="7" ref="HARR|Septuag|42|7" form="οὐκ" lemma="οὐ" postag="d--------" relation="AuxZ" head="8"/>
+    <word id="8" ref="HARR|Septuag|42|8" form="ἠδυνήθημεν" lemma="δύναμαι" postag="v1paip---" relation="PRED_CO" head="24"/>
+    <word id="9" ref="HARR|Septuag|42|9" form="ἐγκρατεῖς" lemma="ἐγκρατής" postag="a-p---mn-" relation="PNOM" head="10"/>
+    <word id="10" ref="HARR|Septuag|42|10" form="γενέσθαι" lemma="γίγνομαι" postag="v--anm---" relation="OBJ" head="8"/>
+    <word id="11" ref="HARR|Septuag|42|11" form="διὰ" lemma="διά" postag="r--------" relation="AuxP" head="8"/>
+    <word id="12" ref="HARR|Septuag|42|12" form="τὸ" lemma="ὁ" postag="l-s---na-" relation="ATR" head="13"/>
+    <word id="13" ref="HARR|Septuag|42|13" form="ἰσχύειν" lemma="ἰσχύω" postag="v--pna---" relation="OBJ_CO" head="17" sem="harrington_orientation"/>
+    <word id="14" ref="HARR|Septuag|42|14" form="αὐτὸν" lemma="αὐτός" postag="p-s---ma-" relation="SBJ" head="13"/>
+    <word id="15" ref="HARR|Septuag|42|15" form="ὑπὲρ" lemma="ὑπέρ" postag="r--------" relation="AuxP" head="13"/>
+    <word id="16" ref="HARR|Septuag|42|16" form="ἡμᾶς" lemma="ἐγώ" postag="p1p---ca-" relation="OBJ" head="15" sem="harrington_orientation"/>
+    <word id="17" ref="HARR|Septuag|42|17" form="καὶ" lemma="καί" postag="b--------" relation="COORD" head="11"/>
+    <word id="18" ref="HARR|Septuag|42|18" form="ἀνοίξαντα" lemma="ἀνοίγνυμι" postag="v-sapama-" relation="ADV" head="21" sem="time"/>
+    <word id="19" ref="HARR|Septuag|42|19" form="τὰς" lemma="ὁ" postag="l-p---fa-" relation="ATR" head="20"/>
+    <word id="20" ref="HARR|Septuag|42|20" form="θύρας" lemma="θύρα" postag="n-p---fa-" relation="OBJ" head="18"/>
+    <word id="21" ref="HARR|Septuag|42|21" form="ἐκπεπηδηκέναι" lemma="ἐκπηδάω" postag="v--rna---" relation="OBJ_CO" head="17" sem="harrington_orientation"/>
+    <word id="22" ref="HARR|Septuag|42|22" form="," lemma="," postag="u--------" relation="AuxX" head="24"/>
+    <word id="23" ref="HARR|Septuag|42|23" form="ταύτης" lemma="οὗτος" postag="p-s---fg-" relation="OBJ" head="25" sem="harrington_orientation"/>
+    <word id="24" ref="HARR|Septuag|42|24" form="δὲ" lemma="δέ" postag="b--------" relation="COORD" head="0"/>
+    <word id="25" ref="HARR|Septuag|42|25" form="ἐπιλαβόμενοι" lemma="ἐπιλαμβάνω" postag="v-papmmn-" relation="SBJ" head="26"/>
+    <word id="26" ref="HARR|Septuag|42|26" form="ἐπηρωτῶμεν" lemma="ἐπερωτάω" postag="v1piia---" relation="PRED_CO" head="33"/>
+    <word id="27" ref="HARR|Septuag|42|27" form="," lemma="," postag="u--------" relation="AuxX" head="29"/>
+    <word id="28" ref="HARR|Septuag|42|28" form="τίς" lemma="τίς" postag="p-s---cn-" relation="PNOM" head="29"/>
+    <word id="29" ref="HARR|Septuag|42|29" form="ἦν" lemma="εἰμί" postag="v3siia---" relation="OBJ" head="26" sem="question"/>
+    <word id="30" ref="HARR|Septuag|42|30" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" head="31"/>
+    <word id="31" ref="HARR|Septuag|42|31" form="νεανίσκος" lemma="νεανίσκος" postag="n-s---mn-" relation="SBJ" head="29"/>
+    <word id="32" ref="HARR|Septuag|42|32" form="," lemma="," postag="u--------" relation="AuxX" head="29"/>
+    <word id="33" ref="HARR|Septuag|42|33" form="καὶ" lemma="καί" postag="b--------" relation="COORD" head="24"/>
+    <word id="34" ref="HARR|Septuag|42|34" form="οὐκ" lemma="οὐ" postag="d--------" relation="AuxZ" head="35"/>
+    <word id="35" ref="HARR|Septuag|42|35" form="ἠθέλησεν" lemma="ἐθέλω" postag="v3saia---" relation="PRED_CO" head="33"/>
+    <word id="36" ref="HARR|Septuag|42|36" form="ἀναγγεῖλαι" lemma="ἀναγγέλλω" postag="v--ana---" relation="OBJ" head="35"/>
+    <word id="37" ref="HARR|Septuag|42|37" form="ἡμῖν" lemma="ἐγώ" postag="p1p---cd-" relation="OBJ" head="36" sem="recipient"/>
+    <word id="38" ref="HARR|Septuag|42|38" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+  <sentence id="43" ref="HARR|Septuag|43" document_id="0527-055" subdoc="43">
+    <word id="1" ref="HARR|Septuag|43|1" form="ταῦτα" lemma="οὗτος" postag="p-p---na-" relation="OBJ" head="2"/>
+    <word id="2" ref="HARR|Septuag|43|2" form="μαρτυροῦμεν" lemma="μαρτυρέω" postag="v1ppia---" relation="PRED" head="0"/>
+    <word id="3" ref="HARR|Septuag|43|3" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+  <sentence id="44" ref="HARR|Septuag|44" document_id="0527-055" subdoc="44">
+    <word id="1" ref="HARR|Septuag|44|1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="12"/>
+    <word id="2" ref="HARR|Septuag|44|2" form="ἐπίστευσεν" lemma="πιστεύω" postag="v3saia---" relation="PRED_CO" head="12"/>
+    <word id="3" ref="HARR|Septuag|44|3" form="αὐτοῖς" lemma="αὐτός" postag="p-p---md-" relation="ADV" head="2" sem="experiencer"/>
+    <word id="4" ref="HARR|Septuag|44|4" form="ἡ" lemma="ὁ" postag="l-s---fn-" relation="ATR" head="5"/>
+    <word id="5" ref="HARR|Septuag|44|5" form="συναγωγὴ" lemma="συναγωγή" postag="n-s---fn-" relation="SBJ" head="12"/>
+    <word id="6" ref="HARR|Septuag|44|6" form="ὡς" lemma="ὡς" postag="c--------" relation="AuxC" head="3"/>
+    <word id="7" ref="HARR|Septuag|44|7" form="πρεσβυτέροις" lemma="πρέσβυς" postag="a-p---md-" relation="ADV_CO" head="10" sem="experiencer"/>
+    <word id="8" ref="HARR|Septuag|44|8" form="τοῦ" lemma="ὁ" postag="l-s---mg-" relation="ATR" head="9"/>
+    <word id="9" ref="HARR|Septuag|44|9" form="λαοῦ" lemma="λαός" postag="n-s---mg-" relation="ATR" head="7" sem="possessor"/>
+    <word id="10" ref="HARR|Septuag|44|10" form="καὶ" lemma="καί" postag="b--------" relation="COORD" head="17"/>
+    <word id="11" ref="HARR|Septuag|44|11" form="κριταῖς" lemma="κριτής" postag="n-p---md-" relation="ADV_CO" head="10" sem="experiencer"/>
+    <word id="12" ref="HARR|Septuag|44|12" form="καὶ" lemma="καί" postag="b--------" relation="COORD" head="0"/>
+    <word id="13" ref="HARR|Septuag|44|13" form="κατέκριναν" lemma="κατακρίνω" postag="v3paia---" relation="PRED_CO" head="12"/>
+    <word id="14" ref="HARR|Septuag|44|14" form="αὐτὴν" lemma="αὐτός" postag="p-s---fa-" relation="OBJ" head="13"/>
+    <word id="15" ref="HARR|Septuag|44|15" form="ἀποθανεῖν" lemma="ἀποθνῄσκω" postag="v--ana---" relation="OBJ" head="13" sem="cognate object"/>
+    <word id="16" ref="HARR|Septuag|44|16" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
+    <word id="17" ref="HARR|Septuag|44|17" form="επιστευσεν" lemma="" postag="---------" relation="ADV" head="6" artificial="elliptic" insertion_id="0011e" sem="comparison"/>
+  </sentence>
+  <sentence id="45" ref="HARR|Septuag|45" document_id="0527-055" subdoc="45">
+    <word id="1" ref="HARR|Septuag|45|1" form="ἀνεβόησεν" lemma="ἀναβοάω" postag="v3saia---" relation="PRED_CO" head="6"/>
+    <word id="2" ref="HARR|Septuag|45|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="6"/>
+    <word id="3" ref="HARR|Septuag|45|3" form="φωνῇ" lemma="φωνή" postag="n-s---fd-" relation="ADV" head="1" sem="manner"/>
+    <word id="4" ref="HARR|Septuag|45|4" form="μεγάλῃ" lemma="μέγας" postag="a-s---fd-" relation="ATR" head="3"/>
+    <word id="5" ref="HARR|Septuag|45|5" form="Σουσαννα" lemma="Σουσάννα" postag="n-s---fn-" relation="SBJ" head="6"/>
+    <word id="6" ref="HARR|Septuag|45|6" form="καὶ" lemma="καί" postag="b--------" relation="COORD" head="0"/>
+    <word id="7" ref="HARR|Septuag|45|7" form="εἶπεν" lemma="λέγω" postag="v3saia---" relation="PRED_CO" head="6"/>
+    <word id="8" ref="HARR|Septuag|45|8" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" head="9"/>
+    <word id="9" ref="HARR|Septuag|45|9" form="θεὸς" lemma="θεός" postag="n-s---mn-" relation="SBJ" head="25"/>
+    <word id="10" ref="HARR|Septuag|45|10" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" head="11"/>
+    <word id="11" ref="HARR|Septuag|45|11" form="αἰώνιος" lemma="αἰώνιος" postag="a-s---mn-" relation="APOS" head="9"/>
+    <word id="12" ref="HARR|Septuag|45|12" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" head="15"/>
+    <word id="13" ref="HARR|Septuag|45|13" form="τῶν" lemma="ὁ" postag="l-p---ng-" relation="ATR" head="14"/>
+    <word id="14" ref="HARR|Septuag|45|14" form="κρυπτῶν" lemma="κρυπτός" postag="a-p---ng-" relation="ATR" head="15" sem="patient"/>
+    <word id="15" ref="HARR|Septuag|45|15" form="γνώστης" lemma="γνώστης" postag="n-s---mn-" relation="APOS" head="9"/>
+    <word id="16" ref="HARR|Septuag|45|16" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" head="17"/>
+    <word id="17" ref="HARR|Septuag|45|17" form="εἰδὼς" lemma="οἶδα" postag="v-srpamn-" relation="APOS" head="9"/>
+    <word id="18" ref="HARR|Septuag|45|18" form="τὰ" lemma="ὁ" postag="l-p---na-" relation="ATR" head="19"/>
+    <word id="19" ref="HARR|Septuag|45|19" form="πάντα" lemma="πᾶς" postag="a-p---na-" relation="OBJ" head="17"/>
+    <word id="20" ref="HARR|Septuag|45|20" form="πρὶν" lemma="πρίν" postag="d--------" relation="AuxP" head="17"/>
+    <word id="21" ref="HARR|Septuag|45|21" form="γενέσεως" lemma="γένεσις" postag="n-s---fg-" relation="ADV" head="20" sem="harrington_orientation"/>
+    <word id="22" ref="HARR|Septuag|45|22" form="αὐτῶν" lemma="αὐτός" postag="p-p---ng-" relation="ATR" head="21" sem="possessor"/>
+    <word id="23" ref="HARR|Septuag|45|23" form="," lemma="," postag="u--------" relation="AuxX" head="0"/>
+    <word id="24" ref="HARR|Septuag|45|24" form="σὺ" lemma="σύ" postag="p2s---cn-" relation="APOS" head="9"/>
+    <word id="25" ref="HARR|Septuag|45|25" form="ἐπίστασαι" lemma="ἐπίσταμαι" postag="v2spie---" relation="OBJ" head="7" sem="statement"/>
+    <word id="26" ref="HARR|Septuag|45|26" form="ὅτι" lemma="ὅτι" postag="c--------" relation="AuxC" head="25"/>
+    <word id="27" ref="HARR|Septuag|45|27" form="ψευδῆ" lemma="ψευδής" postag="a-p---na-" relation="OBJ" head="29"/>
+    <word id="28" ref="HARR|Septuag|45|28" form="μου" lemma="ἐγώ" postag="p1s---cg-" relation="OBJ" head="29" sem="harrington_orientation"/>
+    <word id="29" ref="HARR|Septuag|45|29" form="κατεμαρτύρησαν" lemma="καταμαρτυρέω" postag="v3paia---" relation="OBJ" head="26" sem="statement"/>
+    <word id="30" ref="HARR|Septuag|45|30" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+  <sentence id="46" ref="HARR|Septuag|46" document_id="0527-055" subdoc="46">
+    <word id="1" ref="HARR|Septuag|46|1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="3"/>
+    <word id="2" ref="HARR|Septuag|46|2" form="ἰδοὺ" lemma="ἰδού" postag="i--------" relation="ExD" head="3"/>
+    <word id="3" ref="HARR|Septuag|46|3" form="ἀποθνῄσκω" lemma="ἀποθνῄσκω" postag="v1spia---" relation="PRED" head="0" sem="statement"/>
+    <word id="4" ref="HARR|Septuag|46|4" form="μὴ" lemma="μή" postag="d--------" relation="AuxZ" head="5"/>
+    <word id="5" ref="HARR|Septuag|46|5" form="ποιήσασα" lemma="ποιέω" postag="v-sapafn-" relation="ADV" head="3" sem="time"/>
+    <word id="6" ref="HARR|Septuag|46|6" form="μηδὲν" lemma="μηδείς" postag="p-s---na-" relation="OBJ" head="5"/>
+    <word id="7" ref="HARR|Septuag|46|7" form="ὧν" lemma="ὅς" postag="p-p---ng-" relation="ATR" head="9" sem="totality"/>
+    <word id="8" ref="HARR|Septuag|46|8" form="οὗτοι" lemma="οὗτος" postag="p-p---mn-" relation="SBJ" head="9"/>
+    <word id="9" ref="HARR|Septuag|46|9" form="ἐπονηρεύσαντο" lemma="πονηρεύομαι" postag="v3paim---" relation="ATR" head="13"/>
+    <word id="10" ref="HARR|Septuag|46|10" form="κατ’" lemma="κατά" postag="r--------" relation="AuxP" head="9"/>
+    <word id="11" ref="HARR|Septuag|46|11" form="ἐμοῦ" lemma="ἐγώ" postag="p1s---cg-" relation="OBJ" head="10" sem="harrington_orientation"/>
+    <word id="12" ref="HARR|Septuag|46|12" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
+    <word id="13" ref="HARR|Septuag|46|13" form="τουτων" lemma="" postag="---------" relation="ATR" head="6" artificial="elliptic" insertion_id="0006e" sem="totality"/>
+  </sentence>
+  <sentence id="47" ref="HARR|Septuag|47" document_id="0527-055" subdoc="47">
+    <word id="1" ref="HARR|Septuag|47|1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="2"/>
+    <word id="2" ref="HARR|Septuag|47|2" form="εἰσήκουσεν" lemma="εἰσακούω" postag="v3saia---" relation="PRED" head="0"/>
+    <word id="3" ref="HARR|Septuag|47|3" form="κύριος" lemma="κύριος" postag="n-s---mn-" relation="SBJ" head="2"/>
+    <word id="4" ref="HARR|Septuag|47|4" form="τῆς" lemma="ὁ" postag="l-s---fg-" relation="ATR" head="5"/>
+    <word id="5" ref="HARR|Septuag|47|5" form="φωνῆς" lemma="φωνή" postag="n-s---fg-" relation="ADV" head="2" sem="source"/>
+    <word id="6" ref="HARR|Septuag|47|6" form="αὐτῆς" lemma="αὐτός" postag="p-s---fg-" relation="ATR" head="5" sem="possessor"/>
+    <word id="7" ref="HARR|Septuag|47|7" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+  <sentence id="48" ref="HARR|Septuag|48" document_id="0527-055" subdoc="48">
+    <word id="1" ref="HARR|Septuag|48|1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="19"/>
+    <word id="2" ref="HARR|Septuag|48|2" form="ἀπαγομένης" lemma="ἀπάγω" postag="v-sppefg-" relation="ADV" head="19"/>
+    <word id="3" ref="HARR|Septuag|48|3" form="αὐτῆς" lemma="αὐτός" postag="p-s---fg-" relation="SBJ" head="2"/>
+    <word id="4" ref="HARR|Septuag|48|4" form="ἀπολέσθαι" lemma="ἀπόλλυμι" postag="v--anm---" relation="ADV" head="2" sem="goal"/>
+    <word id="5" ref="HARR|Septuag|48|5" form="ἐξήγειρεν" lemma="ἐξεγείρω" postag="v3saia---" relation="PRED_CO" head="19"/>
+    <word id="6" ref="HARR|Septuag|48|6" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" head="7"/>
+    <word id="7" ref="HARR|Septuag|48|7" form="θεὸς" lemma="θεός" postag="n-s---mn-" relation="SBJ" head="5"/>
+    <word id="8" ref="HARR|Septuag|48|8" form="τὸ" lemma="ὁ" postag="l-s---na-" relation="ATR" head="9"/>
+    <word id="9" ref="HARR|Septuag|48|9" form="πνεῦμα" lemma="πνεῦμα" postag="n-s---na-" relation="OBJ" head="5"/>
+    <word id="10" ref="HARR|Septuag|48|10" form="τὸ" lemma="ὁ" postag="l-s---na-" relation="ATR" head="9"/>
+    <word id="11" ref="HARR|Septuag|48|11" form="ἅγιον" lemma="ἅγιος" postag="a-s---na-" relation="ATR" head="9"/>
+    <word id="12" ref="HARR|Septuag|48|12" form="παιδαρίου" lemma="παιδάριον" postag="n-s---ng-" relation="ATR" head="9" sem="possessor"/>
+    <word id="13" ref="HARR|Septuag|48|13" form="νεωτέρου" lemma="νέος" postag="a-s---mgc" relation="ATR" head="12"/>
+    <word id="14" ref="HARR|Septuag|48|14" form="," lemma="," postag="u--------" relation="AuxX" head="30"/>
+    <word id="15" ref="HARR|Septuag|48|15" form="ᾧ" lemma="ὅς" postag="p-s---md-" relation="PNOM" head="30" sem="possessor"/>
+    <word id="16" ref="HARR|Septuag|48|16" form="ὄνομα" lemma="ὄνομα" postag="n-s---nn-" relation="SBJ" head="30"/>
+    <word id="17" ref="HARR|Septuag|48|17" form="Δανιηλ" lemma="Δανιήλ" postag="n-s---mn-" relation="PNOM" head="30"/>
+    <word id="18" ref="HARR|Septuag|48|18" form="," lemma="," postag="u--------" relation="AuxX" head="30"/>
+    <word id="19" ref="HARR|Septuag|48|19" form="καὶ" lemma="καί" postag="b--------" relation="COORD" head="0"/>
+    <word id="20" ref="HARR|Septuag|48|20" form="ἐβόησεν" lemma="βοάω" postag="v3saia---" relation="PRED_CO" head="19"/>
+    <word id="21" ref="HARR|Septuag|48|21" form="φωνῇ" lemma="φωνή" postag="n-s---fd-" relation="ADV" head="20" sem="manner"/>
+    <word id="22" ref="HARR|Septuag|48|22" form="μεγάλῃ" lemma="μέγας" postag="a-s---fd-" relation="ATR" head="21"/>
+    <word id="23" ref="HARR|Septuag|48|23" form="καθαρὸς" lemma="καθαρός" postag="a-s---mn-" relation="PNOM" head="31"/>
+    <word id="24" ref="HARR|Septuag|48|24" form="ἐγὼ" lemma="ἐγώ" postag="p1s---cn-" relation="SBJ" head="31"/>
+    <word id="25" ref="HARR|Septuag|48|25" form="ἀπὸ" lemma="ἀπό" postag="r--------" relation="AuxP" head="23"/>
+    <word id="26" ref="HARR|Septuag|48|26" form="τοῦ" lemma="ὁ" postag="l-s---ng-" relation="ATR" head="27"/>
+    <word id="27" ref="HARR|Septuag|48|27" form="αἵματος" lemma="αἷμα" postag="n-s---ng-" relation="ADV" head="25" sem="non_pedalion_separation"/>
+    <word id="28" ref="HARR|Septuag|48|28" form="ταύτης" lemma="οὗτος" postag="p-s---fg-" relation="ATR" head="27" sem="possessor"/>
+    <word id="29" ref="HARR|Septuag|48|29" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
+    <word id="30" ref="HARR|Septuag|48|30" form="[ην]" lemma="εἰμί" postag="v3siia---" relation="ATR" head="12" artificial="elliptic" insertion_id="0016e"/>
+    <word id="31" ref="HARR|Septuag|48|31" form="[ειμι]" lemma="" postag="---------" relation="OBJ" head="20" artificial="elliptic" insertion_id="0023e" sem="statement"/>
+  </sentence>
+  <sentence id="49" ref="HARR|Septuag|49" document_id="0527-055" subdoc="49">
+    <word id="1" ref="HARR|Septuag|49|1" form="ἐπέστρεψεν" lemma="ἐπιστρέφω" postag="v3saia---" relation="PRED_CO" head="8"/>
+    <word id="2" ref="HARR|Septuag|49|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="8"/>
+    <word id="3" ref="HARR|Septuag|49|3" form="πᾶς" lemma="πᾶς" postag="a-s---mn-" relation="ATR" head="5"/>
+    <word id="4" ref="HARR|Septuag|49|4" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" head="5"/>
+    <word id="5" ref="HARR|Septuag|49|5" form="λαὸς" lemma="λαός" postag="n-s---mn-" relation="SBJ" head="8"/>
+    <word id="6" ref="HARR|Septuag|49|6" form="πρὸς" lemma="πρός" postag="r--------" relation="AuxP" head="1"/>
+    <word id="7" ref="HARR|Septuag|49|7" form="αὐτὸν" lemma="αὐτός" postag="p-s---ma-" relation="OBJ" head="6" sem="harrington_orientation"/>
+    <word id="8" ref="HARR|Septuag|49|8" form="καὶ" lemma="καί" postag="b--------" relation="COORD" head="0"/>
+    <word id="9" ref="HARR|Septuag|49|9" form="εἶπαν" lemma="λέγω" postag="v3paia---" relation="PRED_CO" head="8"/>
+    <word id="10" ref="HARR|Septuag|49|10" form="τ+E6971ίς" lemma="τίς" postag="p-s---cn-" relation="PNOM" head="19"/>
+    <word id="11" ref="HARR|Septuag|49|11" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" head="12"/>
+    <word id="12" ref="HARR|Septuag|49|12" form="λόγος" lemma="λόγος" postag="n-s---mn-" relation="SBJ" head="19"/>
+    <word id="13" ref="HARR|Septuag|49|13" form="οὗτος" lemma="οὗτος" postag="p-s---mn-" relation="ATR" head="12"/>
+    <word id="14" ref="HARR|Septuag|49|14" form="," lemma="," postag="u--------" relation="AuxX" head="17"/>
+    <word id="15" ref="HARR|Septuag|49|15" form="ὃν" lemma="ὅς" postag="p-s---ma-" relation="OBJ" head="17"/>
+    <word id="16" ref="HARR|Septuag|49|16" form="σὺ" lemma="σύ" postag="p2s---cn-" relation="SBJ" head="17"/>
+    <word id="17" ref="HARR|Septuag|49|17" form="λελάληκας" lemma="λαλέω" postag="v2sria---" relation="ATR" head="12"/>
+    <word id="18" ref="HARR|Septuag|49|18" form=";" lemma=";" postag="u--------" relation="AuxK" head="0"/>
+    <word id="19" ref="HARR|Septuag|49|19" form="[εστι]" lemma="" postag="---------" relation="OBJ" head="9" artificial="elliptic" insertion_id="0010e" sem="statement"/>
+  </sentence>
+  <sentence id="50" ref="HARR|Septuag|50" document_id="0527-055" subdoc="50">
+    <word id="1" ref="HARR|Septuag|50|1" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="SBJ" head="7"/>
+    <word id="2" ref="HARR|Septuag|50|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="7"/>
+    <word id="3" ref="HARR|Septuag|50|3" form="στὰς" lemma="ἵστημι" postag="v-sapamn-" relation="ADV" head="1" sem="time"/>
+    <word id="4" ref="HARR|Septuag|50|4" form="ἐν" lemma="ἐν" postag="r--------" relation="AuxP" head="3"/>
+    <word id="5" ref="HARR|Septuag|50|5" form="μέσῳ" lemma="μέσος" postag="a-s---nd-" relation="ADV" head="4" sem="location"/>
+    <word id="6" ref="HARR|Septuag|50|6" form="αὐτῶν" lemma="αὐτός" postag="p-p---mg-" relation="ATR" head="5" sem="possessor"/>
+    <word id="7" ref="HARR|Septuag|50|7" form="εἶπεν" lemma="λέγω" postag="v3saia---" relation="PRED" head="0"/>
+    <word id="8" ref="HARR|Septuag|50|8" form="οὕτως" lemma="οὕτως" postag="d--------" relation="ADV" head="9"/>
+    <word id="9" ref="HARR|Septuag|50|9" form="μωροί" lemma="μωρός" postag="a-p---mn-" relation="PNOM" head="14"/>
+    <word id="10" ref="HARR|Septuag|50|10" form="οἱ" lemma="ὁ" postag="l-p---mn-" relation="ATR" head="11"/>
+    <word id="11" ref="HARR|Septuag|50|11" form="υἱοὶ" lemma="υἱός" postag="n-p---mn-" relation="SBJ" head="14"/>
+    <word id="12" ref="HARR|Septuag|50|12" form="Ισραηλ" lemma="Ἰσραήλ" postag="n-s---mg-" relation="ATR" head="11" sem="possessor"/>
+    <word id="13" ref="HARR|Septuag|50|13" form=";" lemma=";" postag="u--------" relation="AuxK" head="0"/>
+    <word id="14" ref="HARR|Septuag|50|14" form="[εισι]" lemma="" postag="---------" relation="OBJ" head="7" artificial="elliptic" insertion_id="00e" sem="statement"/>
+  </sentence>
+  <sentence id="51" ref="HARR|Septuag|51" document_id="0527-055" subdoc="51">
+    <word id="1" ref="HARR|Septuag|51|1" form="οὐκ" lemma="οὐ" postag="d--------" relation="AuxZ" head="2"/>
+    <word id="2" ref="HARR|Septuag|51|2" form="ἀνακρίναντες" lemma="ἀνακρίνω" postag="v-papamn-" relation="ADV_CO" head="4" sem="concession"/>
+    <word id="3" ref="HARR|Septuag|51|3" form="οὐ" lemma="οὐ" postag="d--------" relation="AuxZ" head="7"/>
+    <word id="4" ref="HARR|Septuag|51|4" form="-δὲ" lemma="δέ" postag="b--------" relation="COORD" head="8"/>
+    <word id="5" ref="HARR|Septuag|51|5" form="τὸ" lemma="ὁ" postag="l-s---na-" relation="ATR" head="6"/>
+    <word id="6" ref="HARR|Septuag|51|6" form="σαφὲς" lemma="σαφής" postag="a-s---na-" relation="OBJ" head="7"/>
+    <word id="7" ref="HARR|Septuag|51|7" form="ἐπιγνόντες" lemma="ἐπιγιγνώσκω" postag="v-papamn-" relation="ADV_CO" head="4" sem="concession"/>
+    <word id="8" ref="HARR|Septuag|51|8" form="κατεκρίνατε" lemma="κατακρίνω" postag="v2paia---" relation="PRED" head="0"/>
+    <word id="9" ref="HARR|Septuag|51|9" form="θυγατέρα" lemma="θυγάτηρ" postag="n-s---fa-" relation="OBJ" head="8"/>
+    <word id="10" ref="HARR|Septuag|51|10" form="Ισραηλ" lemma="Ἰσραήλ" postag="n-s---mg-" relation="ATR" head="9" sem="possessor"/>
+    <word id="11" ref="HARR|Septuag|51|11" form=";" lemma=";" postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+  <sentence id="52" ref="HARR|Septuag|52" document_id="0527-055" subdoc="52">
+    <word id="1" ref="HARR|Septuag|52|1" form="ἀναστρέψατε" lemma="ἀναστρέφω" postag="v2pama---" relation="PRED" head="0"/>
+    <word id="2" ref="HARR|Septuag|52|2" form="εἰς" lemma="εἰς" postag="r--------" relation="AuxP" head="1"/>
+    <word id="3" ref="HARR|Septuag|52|3" form="τὸ" lemma="ὁ" postag="l-s---na-" relation="ATR" head="4"/>
+    <word id="4" ref="HARR|Septuag|52|4" form="κριτήριον" lemma="κριτήριον" postag="n-s---na-" relation="OBJ" head="2" sem="harrington_orientation"/>
+    <word id="5" ref="HARR|Septuag|52|5" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+  <sentence id="53" ref="HARR|Septuag|53" document_id="0527-055" subdoc="53">
+    <word id="1" ref="HARR|Septuag|53|1" form="ψευδῆ" lemma="ψευδής" postag="a-p---na-" relation="OBJ" head="4"/>
+    <word id="2" ref="HARR|Septuag|53|2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="4"/>
+    <word id="3" ref="HARR|Septuag|53|3" form="οὗτοι" lemma="οὗτος" postag="p-p---mn-" relation="SBJ" head="4"/>
+    <word id="4" ref="HARR|Septuag|53|4" form="κατεμαρτύρησαν" lemma="καταμαρτυρέω" postag="v3paia---" relation="PRED" head="0"/>
+    <word id="5" ref="HARR|Septuag|53|5" form="αὐτῆς" lemma="αὐτός" postag="p-s---fg-" relation="OBJ" head="4" sem="harrington_orientation"/>
+    <word id="6" ref="HARR|Septuag|53|6" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+  <sentence id="54" ref="HARR|Septuag|54" document_id="0527-055" subdoc="54">
+    <word id="1" ref="HARR|Septuag|54|1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="2"/>
+    <word id="2" ref="HARR|Septuag|54|2" form="ἀνέστρεψεν" lemma="ἀναστρέφω" postag="v3saia---" relation="PRED" head="0"/>
+    <word id="3" ref="HARR|Septuag|54|3" form="πᾶς" lemma="πᾶς" postag="a-s---mn-" relation="ATR" head="5"/>
+    <word id="4" ref="HARR|Septuag|54|4" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" head="5"/>
+    <word id="5" ref="HARR|Septuag|54|5" form="λαὸς" lemma="λαός" postag="n-s---mn-" relation="SBJ" head="2"/>
+    <word id="6" ref="HARR|Septuag|54|6" form="μετὰ" lemma="μετά" postag="r--------" relation="AuxP" head="2"/>
+    <word id="7" ref="HARR|Septuag|54|7" form="σπουδῆς" lemma="σπουδή" postag="n-s---fg-" relation="ADV" head="6" sem="companion"/>
+    <word id="8" ref="HARR|Septuag|54|8" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+  <sentence id="55" ref="HARR|Septuag|55" document_id="0527-055" subdoc="55">
+    <word id="1" ref="HARR|Septuag|55|1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="2"/>
+    <word id="2" ref="HARR|Septuag|55|2" form="εἶπαν" lemma="λέγω" postag="v3paia---" relation="PRED" head="0"/>
+    <word id="3" ref="HARR|Septuag|55|3" form="αὐτῷ" lemma="αὐτός" postag="p-s---md-" relation="OBJ" head="2" sem="recipient"/>
+    <word id="4" ref="HARR|Septuag|55|4" form="οἱ" lemma="ὁ" postag="l-p---mn-" relation="ATR" head="5"/>
+    <word id="5" ref="HARR|Septuag|55|5" form="πρεσβύτεροι" lemma="πρέσβυς" postag="a-p---mnc" relation="SBJ" head="2"/>
+    <word id="6" ref="HARR|Septuag|55|6" form="δεῦρο" lemma="δεῦρο" postag="d--------" relation="ADV" head="7"/>
+    <word id="7" ref="HARR|Septuag|55|7" form="κάθισον" lemma="καθίζω" postag="v2sama---" relation="OBJ_CO" head="11" sem="statement"/>
+    <word id="8" ref="HARR|Septuag|55|8" form="ἐν" lemma="ἐν" postag="r--------" relation="AuxP" head="7"/>
+    <word id="9" ref="HARR|Septuag|55|9" form="μέσῳ" lemma="μέσος" postag="a-s---nd-" relation="ADV" head="8" sem="location"/>
+    <word id="10" ref="HARR|Septuag|55|10" form="ἡμῶν" lemma="ἐγώ" postag="p1p---cg-" relation="ATR" head="9" sem="possessor"/>
+    <word id="11" ref="HARR|Septuag|55|11" form="καὶ" lemma="καί" postag="b--------" relation="COORD" head="2"/>
+    <word id="12" ref="HARR|Septuag|55|12" form="ἀνάγγειλον" lemma="ἀναγγέλλω" postag="v2sama---" relation="OBJ_CO" head="11" sem="statement"/>
+    <word id="13" ref="HARR|Septuag|55|13" form="ἡμῖν" lemma="ἐγώ" postag="p1p---cd-" relation="OBJ" head="12" sem="recipient"/>
+    <word id="14" ref="HARR|Septuag|55|14" form="ὅτι" lemma="ὅτι" postag="c--------" relation="AuxC" head="11"/>
+    <word id="15" ref="HARR|Septuag|55|15" form="σοὶ" lemma="σύ" postag="p2s---cd-" relation="OBJ" head="16" sem="recipient"/>
+    <word id="16" ref="HARR|Septuag|55|16" form="δέδωκεν" lemma="δίδωμι" postag="v3sria---" relation="ADV" head="14" sem="cause"/>
+    <word id="17" ref="HARR|Septuag|55|17" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" head="18"/>
+    <word id="18" ref="HARR|Septuag|55|18" form="θεὸς" lemma="θεός" postag="n-s---mn-" relation="SBJ" head="16"/>
+    <word id="19" ref="HARR|Septuag|55|19" form="τὸ" lemma="ὁ" postag="l-s---na-" relation="ATR" head="20"/>
+    <word id="20" ref="HARR|Septuag|55|20" form="πρεσβεῖον" lemma="πρεσβεῖον" postag="n-s---na-" relation="OBJ" head="16"/>
+    <word id="21" ref="HARR|Septuag|55|21" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+  <sentence id="56" ref="HARR|Septuag|56" document_id="0527-055" subdoc="56">
+    <word id="1" ref="HARR|Septuag|56|1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="2"/>
+    <word id="2" ref="HARR|Septuag|56|2" form="εἶπεν" lemma="λέγω" postag="v3saia---" relation="PRED" head="0"/>
+    <word id="3" ref="HARR|Septuag|56|3" form="πρὸς" lemma="πρός" postag="r--------" relation="AuxP" head="2"/>
+    <word id="4" ref="HARR|Septuag|56|4" form="αὐτοὺς" lemma="αὐτός" postag="p-p---ma-" relation="OBJ" head="3" sem="harrington_orientation"/>
+    <word id="5" ref="HARR|Septuag|56|5" form="Δανιηλ" lemma="Δανιήλ" postag="n-s---mn-" relation="SBJ" head="2"/>
+    <word id="6" ref="HARR|Septuag|56|6" form="διαχωρίσατε" lemma="διαχωρίζω" postag="v2pama---" relation="OBJ_CO" head="12" sem="statement"/>
+    <word id="7" ref="HARR|Septuag|56|7" form="αὐτοὺς" lemma="αὐτός" postag="p-p---ma-" relation="OBJ" head="6"/>
+    <word id="8" ref="HARR|Septuag|56|8" form="ἀπ’" lemma="ἀπό" postag="r--------" relation="AuxP" head="6"/>
+    <word id="9" ref="HARR|Septuag|56|9" form="ἀλλήλων" lemma="ἀλλήλων" postag="p-p---mg-" relation="OBJ" head="8" sem="harrington_orientation"/>
+    <word id="10" ref="HARR|Septuag|56|10" form="μακράν" lemma="μακρός" postag="d--------" relation="ADV" head="6"/>
+    <word id="11" ref="HARR|Septuag|56|11" form="," lemma="," postag="u--------" relation="AuxX" head="12"/>
+    <word id="12" ref="HARR|Septuag|56|12" form="καὶ" lemma="καί" postag="b--------" relation="COORD" head="2"/>
+    <word id="13" ref="HARR|Septuag|56|13" form="ἀνακρινῶ" lemma="ἀνακρίνω" postag="v1sfia---" relation="OBJ_CO" head="12" sem="statement"/>
+    <word id="14" ref="HARR|Septuag|56|14" form="αὐτούς" lemma="αὐτός" postag="p-p---ma-" relation="OBJ" head="13"/>
+    <word id="15" ref="HARR|Septuag|56|15" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+  <sentence id="57" ref="HARR|Septuag|57" document_id="0527-055" subdoc="57">
+    <word id="1" ref="HARR|Septuag|57|1" form="ὡς" lemma="ὡς" postag="c--------" relation="AuxC" head="13"/>
+    <word id="2" ref="HARR|Septuag|57|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="13"/>
+    <word id="3" ref="HARR|Septuag|57|3" form="διεχωρίσθησαν" lemma="διαχωρίζω" postag="v3paip---" relation="ADV" head="1" sem="time"/>
+    <word id="4" ref="HARR|Septuag|57|4" form="εἷς" lemma="εἷς" postag="m-s---mn-" relation="SBJ" head="3"/>
+    <word id="5" ref="HARR|Septuag|57|5" form="ἀπὸ" lemma="ἀπό" postag="r--------" relation="AuxP" head="3"/>
+    <word id="6" ref="HARR|Septuag|57|6" form="τοῦ" lemma="ὁ" postag="l-s---mg-" relation="ATR" head="7"/>
+    <word id="7" ref="HARR|Septuag|57|7" form="ἑνός" lemma="εἷς" postag="m-s---mg-" relation="OBJ" head="5" sem="harrington_orientation"/>
+    <word id="8" ref="HARR|Septuag|57|8" form="," lemma="," postag="u--------" relation="AuxX" head="3"/>
+    <word id="9" ref="HARR|Septuag|57|9" form="ἐκάλεσεν" lemma="καλέω" postag="v3saia---" relation="PRED_CO" head="13"/>
+    <word id="10" ref="HARR|Septuag|57|10" form="τὸν" lemma="ὁ" postag="l-s---ma-" relation="ATR" head="11"/>
+    <word id="11" ref="HARR|Septuag|57|11" form="ἕνα" lemma="εἷς" postag="m-s---ma-" relation="OBJ" head="9"/>
+    <word id="12" ref="HARR|Septuag|57|12" form="αὐτῶν" lemma="αὐτός" postag="p-p---mg-" relation="ATR" head="11" sem="totality"/>
+    <word id="13" ref="HARR|Septuag|57|13" form="καὶ" lemma="καί" postag="b--------" relation="COORD" head="0"/>
+    <word id="14" ref="HARR|Septuag|57|14" form="εἶπεν" lemma="λέγω" postag="v3saia---" relation="PRED_CO" head="13"/>
+    <word id="15" ref="HARR|Septuag|57|15" form="πρὸς" lemma="πρός" postag="r--------" relation="AuxP" head="14"/>
+    <word id="16" ref="HARR|Septuag|57|16" form="αὐτόν" lemma="αὐτός" postag="p-s---ma-" relation="OBJ" head="15" sem="harrington_orientation"/>
+    <word id="17" ref="HARR|Septuag|57|17" form="πεπαλαιωμένε" lemma="παλαιόω" postag="v-srpemvp" relation="ExD" head="22"/>
+    <word id="18" ref="HARR|Septuag|57|18" form="ἡμερῶν" lemma="ἡμέρα" postag="n-p---fg-" relation="ADV" head="17" sem="time frame"/>
+    <word id="19" ref="HARR|Septuag|57|19" form="κακῶν" lemma="κακός" postag="a-p---fg-" relation="ATR" head="18"/>
+    <word id="20" ref="HARR|Septuag|57|20" form="," lemma="," postag="u--------" relation="AuxX" head="17"/>
+    <word id="21" ref="HARR|Septuag|57|21" form="νῦν" lemma="νῦν" postag="d--------" relation="ADV" head="22"/>
+    <word id="22" ref="HARR|Septuag|57|22" form="ἥκασιν" lemma="ἥκω" postag="v3pria---" relation="OBJ" head="14" sem="statement"/>
+    <word id="23" ref="HARR|Septuag|57|23" form="αἱ" lemma="ὁ" postag="l-p---fn-" relation="ATR" head="24"/>
+    <word id="24" ref="HARR|Septuag|57|24" form="ἁμαρτίαι" lemma="ἁμαρτία" postag="n-p---fn-" relation="SBJ" head="22"/>
+    <word id="25" ref="HARR|Septuag|57|25" form="σου" lemma="σύ" postag="p2s---cg-" relation="ATR" head="24" sem="possessor"/>
+    <word id="26" ref="HARR|Septuag|57|26" form="," lemma="," postag="u--------" relation="AuxX" head="28"/>
+    <word id="27" ref="HARR|Septuag|57|27" form="ἃς" lemma="ὅς" postag="p-p---fa-" relation="OBJ" head="28"/>
+    <word id="28" ref="HARR|Septuag|57|28" form="ἐποίεις" lemma="ποιέω" postag="v2siia---" relation="ATR" head="24"/>
+    <word id="29" ref="HARR|Septuag|57|29" form="τὸ" lemma="ὁ" postag="l-s---na-" relation="ATR" head="30"/>
+    <word id="30" ref="HARR|Septuag|57|30" form="πρότερον" lemma="πρότερον" postag="d-------c" relation="ADV" head="28"/>
+    <word id="31" ref="HARR|Septuag|57|31" form="κρίνων" lemma="κρίνω" postag="v-sppamn-" relation="SBJ_CO" head="34"/>
+    <word id="32" ref="HARR|Septuag|57|32" form="κρίσεις" lemma="κρίσις" postag="n-p---fa-" relation="OBJ" head="31"/>
+    <word id="33" ref="HARR|Septuag|57|33" form="ἀδίκους" lemma="ἄδικος" postag="a-p---fa-" relation="ATR" head="32"/>
+    <word id="34" ref="HARR|Septuag|57|34" form="καὶ" lemma="καί" postag="b--------" relation="COORD" head="28"/>
+    <word id="35" ref="HARR|Septuag|57|35" form="τοὺς" lemma="ὁ" postag="l-p---ma-" relation="ATR" head="37"/>
+    <word id="36" ref="HARR|Septuag|57|36" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" head="38"/>
+    <word id="37" ref="HARR|Septuag|57|37" form="ἀθῴους" lemma="ἀθῷος" postag="a-p---ma-" relation="OBJ" head="38"/>
+    <word id="38" ref="HARR|Septuag|57|38" form="κατακρίνων" lemma="κατακρίνω" postag="v-sppamn-" relation="SBJ_CO" head="40"/>
+    <word id="39" ref="HARR|Septuag|57|39" form="ἀπολύων" lemma="ἀπολύω" postag="v-sppamn-" relation="SBJ_CO" head="40"/>
+    <word id="40" ref="HARR|Septuag|57|40" form="δὲ" lemma="δέ" postag="b--------" relation="COORD" head="34"/>
+    <word id="41" ref="HARR|Septuag|57|41" form="τοὺς" lemma="ὁ" postag="l-p---ma-" relation="ATR" head="42"/>
+    <word id="42" ref="HARR|Septuag|57|42" form="αἰτίους" lemma="αἴτιος" postag="a-p---ma-" relation="OBJ" head="39"/>
+    <word id="43" ref="HARR|Septuag|57|43" form="," lemma="," postag="u--------" relation="AuxX" head="44"/>
+    <word id="44" ref="HARR|Septuag|57|44" form="λέγοντος" lemma="λέγω" postag="v-sppamg-" relation="ADV" head="28"/>
+    <word id="45" ref="HARR|Septuag|57|45" form="τοῦ" lemma="ὁ" postag="l-s---mg-" relation="ATR" head="46"/>
+    <word id="46" ref="HARR|Septuag|57|46" form="κυρίου" lemma="κύριος" postag="n-s---mg-" relation="SBJ" head="44"/>
+    <word id="47" ref="HARR|Septuag|57|47" form="ἀθῷον" lemma="ἀθῷος" postag="a-s---ma-" relation="OBJ_CO" head="48"/>
+    <word id="48" ref="HARR|Septuag|57|48" form="καὶ" lemma="καί" postag="b--------" relation="COORD" head="51"/>
+    <word id="49" ref="HARR|Septuag|57|49" form="δίκαιον" lemma="δίκαιος" postag="a-s---ma-" relation="OBJ_CO" head="48"/>
+    <word id="50" ref="HARR|Septuag|57|50" form="οὐκ" lemma="οὐ" postag="d--------" relation="AuxZ" head="51"/>
+    <word id="51" ref="HARR|Septuag|57|51" form="ἀποκτενεῖς" lemma="ἀποκτείνω" postag="v2sfia---" relation="OBJ" head="44" sem="statement"/>
+    <word id="52" ref="HARR|Septuag|57|52" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+  <sentence id="58" ref="HARR|Septuag|58" document_id="0527-055" subdoc="58">
+    <word id="1" ref="HARR|Septuag|58|1" form="νῦν" lemma="νῦν" postag="d--------" relation="ADV" head="7"/>
+    <word id="2" ref="HARR|Septuag|58|2" form="οὖν" lemma="οὖν" postag="d--------" relation="AuxY" head="7"/>
+    <word id="3" ref="HARR|Septuag|58|3" form="ταύτην" lemma="οὗτος" postag="p-s---fa-" relation="OBJ" head="5"/>
+    <word id="4" ref="HARR|Septuag|58|4" form="εἴπερ" lemma="εἴπερ" postag="c--------" relation="AuxC" head="7"/>
+    <word id="5" ref="HARR|Septuag|58|5" form="εἶδες" lemma="ὁράω" postag="v2saia---" relation="ADV" head="4" sem="condition"/>
+    <word id="6" ref="HARR|Septuag|58|6" form="," lemma="," postag="u--------" relation="AuxX" head="4"/>
+    <word id="7" ref="HARR|Septuag|58|7" form="εἰπόν" lemma="λέγω" postag="v2sama---" relation="PRED" head="0"/>
+    <word id="8" ref="HARR|Septuag|58|8" form="ὑπὸ" lemma="ὑπό" postag="r--------" relation="AuxP" head="11"/>
+    <word id="9" ref="HARR|Septuag|58|9" form="τί" lemma="τίς" postag="p-s---na-" relation="ATR" head="10"/>
+    <word id="10" ref="HARR|Septuag|58|10" form="δένδρον" lemma="δένδρον" postag="n-s---na-" relation="OBJ" head="8" sem="harrington_orientation"/>
+    <word id="11" ref="HARR|Septuag|58|11" form="εἶδες" lemma="ὁράω" postag="v2saia---" relation="OBJ" head="7" sem="question"/>
+    <word id="12" ref="HARR|Septuag|58|12" form="αὐτοὺς" lemma="αὐτός" postag="p-p---ma-" relation="OBJ" head="11"/>
+    <word id="13" ref="HARR|Septuag|58|13" form="ὁμιλοῦντας" lemma="ὁμιλέω" postag="v-pppama-" relation="ATR" head="12"/>
+    <word id="14" ref="HARR|Septuag|58|14" form="ἀλλήλοις" lemma="ἀλλήλων" postag="p-p---md-" relation="ADV" head="13" sem="harrington_reference"/>
+    <word id="15" ref="HARR|Septuag|58|15" form=";" lemma=";" postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+  <sentence id="59" ref="HARR|Septuag|59" document_id="0527-055" subdoc="59">
+    <word id="1" ref="HARR|Septuag|59|1" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="SBJ" head="3"/>
+    <word id="2" ref="HARR|Septuag|59|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="3"/>
+    <word id="3" ref="HARR|Septuag|59|3" form="εἶπεν" lemma="λέγω" postag="v3saia---" relation="PRED" head="0"/>
+    <word id="4" ref="HARR|Septuag|59|4" form="ὑπὸ" lemma="ὑπό" postag="r--------" relation="AuxP" head="7"/>
+    <word id="5" ref="HARR|Septuag|59|5" form="σχῖνον" lemma="σχῖνος" postag="n-s---fa-" relation="OBJ" head="4" sem="harrington_orientation"/>
+    <word id="6" ref="HARR|Septuag|59|6" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
+    <word id="7" ref="HARR|Septuag|59|7" form="[ειδον]" lemma="" postag="---------" relation="OBJ" head="3" artificial="elliptic" insertion_id="0005e" sem="statement"/>
+  </sentence>
+  <sentence id="60" ref="HARR|Septuag|60" document_id="0527-055" subdoc="60">
+    <word id="1" ref="HARR|Septuag|60|1" form="εἶπεν" lemma="λέγω" postag="v3saia---" relation="PRED" head="0"/>
+    <word id="2" ref="HARR|Septuag|60|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="1"/>
+    <word id="3" ref="HARR|Septuag|60|3" form="Δανιηλ" lemma="Δανιήλ" postag="n-s---mn-" relation="SBJ" head="1"/>
+    <word id="4" ref="HARR|Septuag|60|4" form="ὀρθῶς" lemma="ὀρθός" postag="d--------" relation="ADV" head="1"/>
+    <word id="5" ref="HARR|Septuag|60|5" form="ἔψευσαι" lemma="ψεύδω" postag="v2srie---" relation="OBJ" head="1" sem="statement"/>
+    <word id="6" ref="HARR|Septuag|60|6" form="εἰς" lemma="εἰς" postag="r--------" relation="AuxP" head="5"/>
+    <word id="7" ref="HARR|Septuag|60|7" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" head="9"/>
+    <word id="8" ref="HARR|Septuag|60|8" form="σεαυτοῦ" lemma="σεαυτοῦ" postag="p2s---mg-" relation="ATR" head="9" sem="possessor"/>
+    <word id="9" ref="HARR|Septuag|60|9" form="κεφαλήν" lemma="κεφαλή" postag="n-s---fa-" relation="OBJ" head="6" sem="harrington_orientation"/>
+    <word id="10" ref="HARR|Septuag|60|10" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+  <sentence id="61" ref="HARR|Septuag|61" document_id="0527-055" subdoc="61">
+    <word id="1" ref="HARR|Septuag|61|1" form="ἤδη" lemma="ἤδη" postag="d--------" relation="ADV" head="11"/>
+    <word id="2" ref="HARR|Septuag|61|2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="11"/>
+    <word id="3" ref="HARR|Septuag|61|3" form="ἄγγελος" lemma="ἄγγελος" postag="n-s---mn-" relation="SBJ" head="11"/>
+    <word id="4" ref="HARR|Septuag|61|4" form="τοῦ" lemma="ὁ" postag="l-s---mg-" relation="ATR" head="5"/>
+    <word id="5" ref="HARR|Septuag|61|5" form="θεοῦ" lemma="θεός" postag="n-s---mg-" relation="ATR" head="3" sem="possessor"/>
+    <word id="6" ref="HARR|Septuag|61|6" form="λαβὼν" lemma="λαμβάνω" postag="v-sapamn-" relation="ADV" head="3" sem="time"/>
+    <word id="7" ref="HARR|Septuag|61|7" form="φάσιν" lemma="φάσις" postag="n-s---fa-" relation="OBJ" head="6"/>
+    <word id="8" ref="HARR|Septuag|61|8" form="παρὰ" lemma="παρά" postag="r--------" relation="AuxP" head="6"/>
+    <word id="9" ref="HARR|Septuag|61|9" form="τοῦ" lemma="ὁ" postag="l-s---mg-" relation="ATR" head="10"/>
+    <word id="10" ref="HARR|Septuag|61|10" form="θεοῦ" lemma="θεός" postag="n-s---mg-" relation="OBJ" head="8" sem="harrington_orientation"/>
+    <word id="11" ref="HARR|Septuag|61|11" form="σχίσει" lemma="σχίζω" postag="v3sfia---" relation="PRED" head="0"/>
+    <word id="12" ref="HARR|Septuag|61|12" form="σε" lemma="σύ" postag="p2s---ca-" relation="OBJ" head="11"/>
+    <word id="13" ref="HARR|Septuag|61|13" form="μέσον" lemma="μέσος" postag="a-s---na-" relation="ADV" head="11" sem="respect"/>
+    <word id="14" ref="HARR|Septuag|61|14" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+  <sentence id="62" ref="HARR|Septuag|62" document_id="0527-055" subdoc="62">
+    <word id="1" ref="HARR|Septuag|62|1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="4"/>
+    <word id="2" ref="HARR|Septuag|62|2" form="μεταστήσας" lemma="μεθίστημι" postag="v-sapamn-" relation="ADV" head="4" sem="time"/>
+    <word id="3" ref="HARR|Septuag|62|3" form="αὐτὸν" lemma="αὐτός" postag="p-s---ma-" relation="OBJ" head="2"/>
+    <word id="4" ref="HARR|Septuag|62|4" form="ἐκέλευσεν" lemma="κελεύω" postag="v3saia---" relation="PRED" head="0"/>
+    <word id="5" ref="HARR|Septuag|62|5" form="προσαγαγεῖν" lemma="προσάγω" postag="v--ana---" relation="OBJ" head="4" sem="cognate object"/>
+    <word id="6" ref="HARR|Septuag|62|6" form="τὸν" lemma="ὁ" postag="l-s---ma-" relation="ATR" head="7"/>
+    <word id="7" ref="HARR|Septuag|62|7" form="ἕτερον" lemma="ἕτερος" postag="a-s---ma-" relation="OBJ" head="5"/>
+    <word id="8" ref="HARR|Septuag|62|8" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+  <sentence id="63" ref="HARR|Septuag|63" document_id="0527-055" subdoc="63">
+    <word id="1" ref="HARR|Septuag|63|1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="2"/>
+    <word id="2" ref="HARR|Septuag|63|2" form="εἶπεν" lemma="λέγω" postag="v3saia---" relation="PRED" head="0"/>
+    <word id="3" ref="HARR|Septuag|63|3" form="αὐτῷ" lemma="αὐτός" postag="p-s---md-" relation="OBJ" head="2" sem="recipient"/>
+    <word id="4" ref="HARR|Septuag|63|4" form="σπέρμα" lemma="σπέρμα" postag="n-s---nv-" relation="ExD" head="15"/>
+    <word id="5" ref="HARR|Septuag|63|5" form="Χανααν" lemma="Χανααν" postag="n-s---mg-" relation="ATR_CO" head="6" sem="possessor"/>
+    <word id="6" ref="HARR|Septuag|63|6" form="καὶ" lemma="καί" postag="b--------" relation="COORD" head="4"/>
+    <word id="7" ref="HARR|Septuag|63|7" form="οὐκ" lemma="οὐ" postag="d--------" relation="AuxZ" head="8"/>
+    <word id="8" ref="HARR|Septuag|63|8" form="Ιουδα" lemma="Ιουδα" postag="n-s---mg-" relation="ATR_CO" head="6" sem="possessor"/>
+    <word id="9" ref="HARR|Septuag|63|9" form="," lemma="," postag="u--------" relation="AuxX" head="15"/>
+    <word id="10" ref="HARR|Septuag|63|10" form="τὸ" lemma="ὁ" postag="l-s---nn-" relation="ATR" head="11"/>
+    <word id="11" ref="HARR|Septuag|63|11" form="κάλλος" lemma="κάλλος" postag="n-s---nn-" relation="SBJ" head="12"/>
+    <word id="12" ref="HARR|Septuag|63|12" form="ἐξηπάτησέν" lemma="ἐξαπατάω" postag="v3saia---" relation="OBJ_CO" head="15" sem="statement"/>
+    <word id="13" ref="HARR|Septuag|63|13" form="σε" lemma="σύ" postag="p2s---ca-" relation="OBJ" head="12"/>
+    <word id="14" ref="HARR|Septuag|63|14" form="," lemma="," postag="u--------" relation="AuxX" head="15"/>
+    <word id="15" ref="HARR|Septuag|63|15" form="καὶ" lemma="καί" postag="b--------" relation="COORD" head="2"/>
+    <word id="16" ref="HARR|Septuag|63|16" form="ἡ" lemma="ὁ" postag="l-s---fn-" relation="ATR" head="17"/>
+    <word id="17" ref="HARR|Septuag|63|17" form="ἐπιθυμία" lemma="ἐπιθυμία" postag="n-s---fn-" relation="SBJ" head="18"/>
+    <word id="18" ref="HARR|Septuag|63|18" form="διέστρεψεν" lemma="διαστρέφω" postag="v3saia---" relation="OBJ_CO" head="15" sem="statement"/>
+    <word id="19" ref="HARR|Septuag|63|19" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" head="20"/>
+    <word id="20" ref="HARR|Septuag|63|20" form="καρδίαν" lemma="καρδία" postag="n-s---fa-" relation="OBJ" head="18"/>
+    <word id="21" ref="HARR|Septuag|63|21" form="σου" lemma="σύ" postag="p2s---cg-" relation="ATR" head="20" sem="possessor"/>
+    <word id="22" ref="HARR|Septuag|63|22" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+  <sentence id="64" ref="HARR|Septuag|64" document_id="0527-055" subdoc="64">
+    <word id="1" ref="HARR|Septuag|64|1" form="οὕτως" lemma="οὕτως" postag="d--------" relation="ADV" head="2"/>
+    <word id="2" ref="HARR|Septuag|64|2" form="ἐποιεῖτε" lemma="ποιέω" postag="v2piia---" relation="PRED_CO" head="6"/>
+    <word id="3" ref="HARR|Septuag|64|3" form="θυγατράσιν" lemma="θυγάτηρ" postag="n-p---fd-" relation="ADV" head="2" sem="experiencer"/>
+    <word id="4" ref="HARR|Septuag|64|4" form="Ισραηλ" lemma="Ἰσραήλ" postag="n-s---mg-" relation="ATR" head="3" sem="possessor"/>
+    <word id="5" ref="HARR|Septuag|64|5" form="," lemma="," postag="u--------" relation="AuxX" head="6"/>
+    <word id="6" ref="HARR|Septuag|64|6" form="καὶ" lemma="καί" postag="b--------" relation="COORD" head="12"/>
+    <word id="7" ref="HARR|Septuag|64|7" form="ἐκεῖναι" lemma="ἐκεῖνος" postag="p-p---fn-" relation="SBJ" head="9"/>
+    <word id="8" ref="HARR|Septuag|64|8" form="φοβούμεναι" lemma="φοβέω" postag="v-pppefn-" relation="ADV" head="7" sem="cause"/>
+    <word id="9" ref="HARR|Septuag|64|9" form="ὡμίλουν" lemma="ὁμιλέω" postag="v3piia---" relation="PRED_CO" head="6"/>
+    <word id="10" ref="HARR|Septuag|64|10" form="ὑμῖν" lemma="σύ" postag="p2p---cd-" relation="ADV" head="9" sem="harrington_reference"/>
+    <word id="11" ref="HARR|Septuag|64|11" form="," lemma="," postag="u--------" relation="AuxX" head="6"/>
+    <word id="12" ref="HARR|Septuag|64|12" form="ἀλλ’" lemma="ἀλλά" postag="b--------" relation="COORD" head="0"/>
+    <word id="13" ref="HARR|Septuag|64|13" form="οὐ" lemma="οὐ" postag="d--------" relation="AuxZ" head="16"/>
+    <word id="14" ref="HARR|Septuag|64|14" form="θυγάτηρ" lemma="θυγάτηρ" postag="n-s---fn-" relation="SBJ" head="16"/>
+    <word id="15" ref="HARR|Septuag|64|15" form="Ιουδα" lemma="Ιουδα" postag="n-s---mg-" relation="ATR" head="14" sem="possessor"/>
+    <word id="16" ref="HARR|Septuag|64|16" form="ὑπέμεινεν" lemma="ὑπομένω" postag="v3saia---" relation="PRED_CO" head="12"/>
+    <word id="17" ref="HARR|Septuag|64|17" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" head="18"/>
+    <word id="18" ref="HARR|Septuag|64|18" form="ἀνομίαν" lemma="ἀνομία" postag="n-s---fa-" relation="OBJ" head="16"/>
+    <word id="19" ref="HARR|Septuag|64|19" form="ὑμῶν" lemma="σύ" postag="p2p---cg-" relation="ATR" head="18" sem="possessor"/>
+    <word id="20" ref="HARR|Septuag|64|20" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+  <sentence id="65" ref="HARR|Septuag|65" document_id="0527-055" subdoc="65">
+    <word id="1" ref="HARR|Septuag|65|1" form="νῦν" lemma="νῦν" postag="d--------" relation="ADV" head="3"/>
+    <word id="2" ref="HARR|Septuag|65|2" form="οὖν" lemma="οὖν" postag="d--------" relation="AuxY" head="3"/>
+    <word id="3" ref="HARR|Septuag|65|3" form="λέγε" lemma="λέγω" postag="v2spma---" relation="PRED" head="0"/>
+    <word id="4" ref="HARR|Septuag|65|4" form="μοι" lemma="ἐγώ" postag="p1s---cd-" relation="OBJ" head="3" sem="recipient"/>
+    <word id="5" ref="HARR|Septuag|65|5" form="ὑπὸ" lemma="ὑπό" postag="r--------" relation="AuxP" head="8"/>
+    <word id="6" ref="HARR|Septuag|65|6" form="τί" lemma="τίς" postag="p-s---na-" relation="ATR" head="7"/>
+    <word id="7" ref="HARR|Septuag|65|7" form="δένδρον" lemma="δένδρον" postag="n-s---na-" relation="OBJ" head="5" sem="harrington_orientation"/>
+    <word id="8" ref="HARR|Septuag|65|8" form="κατέλαβες" lemma="καταλαμβάνω" postag="v2saia---" relation="OBJ" head="3" sem="question"/>
+    <word id="9" ref="HARR|Septuag|65|9" form="αὐτοὺς" lemma="αὐτός" postag="p-p---ma-" relation="OBJ" head="8"/>
+    <word id="10" ref="HARR|Septuag|65|10" form="ὁμιλοῦντας" lemma="ὁμιλέω" postag="v-pppama-" relation="ATR" head="9"/>
+    <word id="11" ref="HARR|Septuag|65|11" form="ἀλλήλοις" lemma="ἀλλήλων" postag="p-p---md-" relation="ADV" head="10" sem="harrington_reference"/>
+    <word id="12" ref="HARR|Septuag|65|12" form=";" lemma=";" postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+  <sentence id="66" ref="HARR|Septuag|66" document_id="0527-055" subdoc="66">
+    <word id="1" ref="HARR|Septuag|66|1" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="SBJ" head="3"/>
+    <word id="2" ref="HARR|Septuag|66|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="3"/>
+    <word id="3" ref="HARR|Septuag|66|3" form="εἶπεν" lemma="λέγω" postag="v3saia---" relation="PRED" head="0"/>
+    <word id="4" ref="HARR|Septuag|66|4" form="ὑπὸ" lemma="ὑπό" postag="r--------" relation="AuxP" head="7"/>
+    <word id="5" ref="HARR|Septuag|66|5" form="πρῖνον" lemma="πρῖνος" postag="n-s---fa-" relation="OBJ" head="4" sem="harrington_orientation"/>
+    <word id="6" ref="HARR|Septuag|66|6" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+  <sentence id="67" ref="HARR|Septuag|67" document_id="0527-055" subdoc="67">
+    <word id="1" ref="HARR|Septuag|67|1" form="εἶπεν" lemma="λέγω" postag="v3saia---" relation="PRED" head="0"/>
+    <word id="2" ref="HARR|Septuag|67|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="1"/>
+    <word id="3" ref="HARR|Septuag|67|3" form="αὐτῷ" lemma="αὐτός" postag="p-s---md-" relation="OBJ" head="1" sem="recipient"/>
+    <word id="4" ref="HARR|Septuag|67|4" form="Δανιηλ" lemma="Δανιήλ" postag="n-s---mn-" relation="SBJ" head="1"/>
+    <word id="5" ref="HARR|Septuag|67|5" form="ὀρθῶς" lemma="ὀρθός" postag="d--------" relation="ADV" head="1"/>
+    <word id="6" ref="HARR|Septuag|67|6" form="ἔψευσαι" lemma="ψεύδω" postag="v2srie---" relation="OBJ" head="1" sem="statement"/>
+    <word id="7" ref="HARR|Septuag|67|7" form="καὶ" lemma="καί" postag="b--------" relation="AuxY" head="6"/>
+    <word id="8" ref="HARR|Septuag|67|8" form="σὺ" lemma="σύ" postag="p2s---cn-" relation="SBJ" head="6"/>
+    <word id="9" ref="HARR|Septuag|67|9" form="εἰς" lemma="εἰς" postag="r--------" relation="AuxP" head="6"/>
+    <word id="10" ref="HARR|Septuag|67|10" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" head="12"/>
+    <word id="11" ref="HARR|Septuag|67|11" form="σεαυτοῦ" lemma="σεαυτοῦ" postag="p2s---mg-" relation="ATR" head="12" sem="possessor"/>
+    <word id="12" ref="HARR|Septuag|67|12" form="κεφαλήν" lemma="κεφαλή" postag="n-s---fa-" relation="OBJ" head="9" sem="harrington_orientation"/>
+    <word id="13" ref="HARR|Septuag|67|13" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+  <sentence id="68" ref="HARR|Septuag|68" document_id="0527-055" subdoc="68">
+    <word id="1" ref="HARR|Septuag|68|1" form="μένει" lemma="μένω" postag="v3spia---" relation="PRED" head="0"/>
+    <word id="2" ref="HARR|Septuag|68|2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="1"/>
+    <word id="3" ref="HARR|Septuag|68|3" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" head="4"/>
+    <word id="4" ref="HARR|Septuag|68|4" form="ἄγγελος" lemma="ἄγγελος" postag="n-s---mn-" relation="SBJ" head="1"/>
+    <word id="5" ref="HARR|Septuag|68|5" form="τοῦ" lemma="ὁ" postag="l-s---mg-" relation="ATR" head="6"/>
+    <word id="6" ref="HARR|Septuag|68|6" form="θεοῦ" lemma="θεός" postag="n-s---mg-" relation="ATR" head="4" sem="possessor"/>
+    <word id="7" ref="HARR|Septuag|68|7" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" head="8"/>
+    <word id="8" ref="HARR|Septuag|68|8" form="ῥομφαίαν" lemma="ῥομφαία" postag="n-s---fa-" relation="OBJ" head="9"/>
+    <word id="9" ref="HARR|Septuag|68|9" form="ἔχων" lemma="ἔχω" postag="v-sppamn-" relation="ATR" head="4"/>
+    <word id="10" ref="HARR|Septuag|68|10" form="πρίσαι" lemma="πρίζω" postag="v--ana---" relation="ADV" head="1" sem="goal"/>
+    <word id="11" ref="HARR|Septuag|68|11" form="σε" lemma="σύ" postag="p2s---ca-" relation="OBJ" head="10"/>
+    <word id="12" ref="HARR|Septuag|68|12" form="μέσον" lemma="μέσος" postag="a-s---na-" relation="ADV" head="10" sem="respect"/>
+    <word id="13" ref="HARR|Septuag|68|13" form="," lemma="," postag="u--------" relation="AuxX" head="15"/>
+    <word id="14" ref="HARR|Septuag|68|14" form="ὅπως" lemma="ὅπως" postag="c--------" relation="AuxC" head="10"/>
+    <word id="15" ref="HARR|Septuag|68|15" form="ἐξολεθρεύσῃ" lemma="ἐξολεθρεύω" postag="v3sasa---" relation="ADV" head="14" sem="goal"/>
+    <word id="16" ref="HARR|Septuag|68|16" form="ὑμᾶς" lemma="σύ" postag="p2p---ca-" relation="OBJ" head="15"/>
+    <word id="17" ref="HARR|Septuag|68|17" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+  <sentence id="69" ref="HARR|Septuag|69" document_id="0527-055" subdoc="69">
+    <word id="1" ref="HARR|Septuag|69|1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="8"/>
+    <word id="2" ref="HARR|Septuag|69|2" form="ἀνεβόησεν" lemma="ἀναβοάω" postag="v3saia---" relation="PRED_CO" head="8"/>
+    <word id="3" ref="HARR|Septuag|69|3" form="πᾶσα" lemma="πᾶς" postag="a-s---fn-" relation="ATR" head="5"/>
+    <word id="4" ref="HARR|Septuag|69|4" form="ἡ" lemma="ὁ" postag="l-s---fn-" relation="ATR" head="5"/>
+    <word id="5" ref="HARR|Septuag|69|5" form="συναγωγὴ" lemma="συναγωγή" postag="n-s---fn-" relation="SBJ" head="8"/>
+    <word id="6" ref="HARR|Septuag|69|6" form="φωνῇ" lemma="φωνή" postag="n-s---fd-" relation="ADV" head="2" sem="manner"/>
+    <word id="7" ref="HARR|Septuag|69|7" form="μεγάλῃ" lemma="μέγας" postag="a-s---fd-" relation="ATR" head="6"/>
+    <word id="8" ref="HARR|Septuag|69|8" form="καὶ" lemma="καί" postag="b--------" relation="COORD" head="0"/>
+    <word id="9" ref="HARR|Septuag|69|9" form="εὐλόγησαν" lemma="εὐλογέω" postag="v3paia---" relation="PRED_CO" head="8"/>
+    <word id="10" ref="HARR|Septuag|69|10" form="τῷ" lemma="ὁ" postag="l-s---md-" relation="ATR" head="11"/>
+    <word id="11" ref="HARR|Septuag|69|11" form="θεῷ" lemma="θεός" postag="n-s---md-" relation="ADV" head="9" sem="experiencer"/>
+    <word id="12" ref="HARR|Septuag|69|12" form="τῷ" lemma="ὁ" postag="l-s---md-" relation="ATR" head="11"/>
+    <word id="13" ref="HARR|Septuag|69|13" form="σῴζοντι" lemma="σῴζω" postag="v-sppamd-" relation="ADV" head="11" sem="cause"/>
+    <word id="14" ref="HARR|Septuag|69|14" form="τοὺς" lemma="ὁ" postag="l-p---ma-" relation="ATR" head="15"/>
+    <word id="15" ref="HARR|Septuag|69|15" form="ἐλπίζοντας" lemma="ἐλπίζω" postag="v-pppama-" relation="OBJ" head="13"/>
+    <word id="16" ref="HARR|Septuag|69|16" form="ἐπ’" lemma="ἐπί" postag="r--------" relation="AuxP" head="15"/>
+    <word id="17" ref="HARR|Septuag|69|17" form="αὐτόν" lemma="αὐτός" postag="p-s---ma-" relation="OBJ" head="16" sem="harrington_orientation"/>
+    <word id="18" ref="HARR|Septuag|69|18" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+  <sentence id="70" ref="HARR|Septuag|70" document_id="0527-055" subdoc="70">
+    <word id="1" ref="HARR|Septuag|70|1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="33"/>
+    <word id="2" ref="HARR|Septuag|70|2" form="ἀνέστησαν" lemma="ἀνίστημι" postag="v3paia---" relation="PRED_CO" head="33"/>
+    <word id="3" ref="HARR|Septuag|70|3" form="ἐπὶ" lemma="ἐπί" postag="r--------" relation="AuxP" head="2"/>
+    <word id="4" ref="HARR|Septuag|70|4" form="τοὺς" lemma="ὁ" postag="l-p---ma-" relation="ATR" head="6"/>
+    <word id="5" ref="HARR|Septuag|70|5" form="δύο" lemma="δύο" postag="m--------" relation="ATR" head="6"/>
+    <word id="6" ref="HARR|Septuag|70|6" form="πρεσβύτας" lemma="πρεσβύτης" postag="n-p---ma-" relation="OBJ" head="3" sem="harrington_orientation"/>
+    <word id="7" ref="HARR|Septuag|70|7" form="," lemma="," postag="u--------" relation="AuxX" head="9"/>
+    <word id="8" ref="HARR|Septuag|70|8" form="ὅτι" lemma="ὅτι" postag="c--------" relation="AuxC" head="2"/>
+    <word id="9" ref="HARR|Septuag|70|9" form="συνέστησεν" lemma="συνίστημι" postag="v3saia---" relation="ADV" head="8" sem="cause"/>
+    <word id="10" ref="HARR|Septuag|70|10" form="αὐτοὺς" lemma="αὐτός" postag="p-p---ma-" relation="OBJ" head="9" sem="statement"/>
+    <word id="11" ref="HARR|Septuag|70|11" form="Δανιηλ" lemma="Δανιήλ" postag="n-s---mn-" relation="SBJ" head="9"/>
+    <word id="12" ref="HARR|Septuag|70|12" form="ἐκ" lemma="ἐκ" postag="r--------" relation="AuxP" head="9"/>
+    <word id="13" ref="HARR|Septuag|70|13" form="τοῦ" lemma="ὁ" postag="l-s---ng-" relation="ATR" head="14"/>
+    <word id="14" ref="HARR|Septuag|70|14" form="στόματος" lemma="στόμα" postag="n-s---ng-" relation="OBJ" head="12" sem="harrington_orientation"/>
+    <word id="15" ref="HARR|Septuag|70|15" form="αὐτῶν" lemma="αὐτός" postag="p-p---mg-" relation="ATR" head="14" sem="possessor"/>
+    <word id="16" ref="HARR|Septuag|70|16" form="ψευδομαρτυρήσαντας" lemma="ψευδομαρτυρέω" postag="v-papama-" relation="ATR" head="10"/>
+    <word id="17" ref="HARR|Septuag|70|17" form="," lemma="," postag="u--------" relation="AuxX" head="33"/>
+    <word id="18" ref="HARR|Septuag|70|18" form="καὶ" lemma="καί" postag="b--------" relation="AuxY" head="33"/>
+    <word id="19" ref="HARR|Septuag|70|19" form="ἐποίησαν" lemma="ποιέω" postag="v3paia---" relation="PRED_CO" head="33"/>
+    <word id="20" ref="HARR|Septuag|70|20" form="αὐτοῖς" lemma="αὐτός" postag="p-p---md-" relation="ADV" head="19" sem="experiencer"/>
+    <word id="21" ref="HARR|Septuag|70|21" form="ὃν" lemma="ὅς" postag="p-s---ma-" relation="ATR" head="22"/>
+    <word id="22" ref="HARR|Septuag|70|22" form="τρόπον" lemma="τρόπος" postag="n-s---ma-" relation="ADV" head="23"/>
+    <word id="23" ref="HARR|Septuag|70|23" form="ἐπονηρεύσαντο" lemma="πονηρεύομαι" postag="v3paim---" relation="ATR" head="19"/>
+    <word id="24" ref="HARR|Septuag|70|24" form="τῷ" lemma="ὁ" postag="l-s---nd-" relation="ADV" head="23" sem="experiencer"/>
+    <word id="25" ref="HARR|Septuag|70|25" form="πλησίον" lemma="πλησίον" postag="d--------" relation="ATR" head="24" sem="experiencer"/>
+    <word id="26" ref="HARR|Septuag|70|26" form="," lemma="," postag="u--------" relation="AuxX" head="23"/>
+    <word id="27" ref="HARR|Septuag|70|27" form="ποιῆσαι" lemma="ποιέω" postag="v--ana---" relation="OBJ" head="23"/>
+    <word id="28" ref="HARR|Septuag|70|28" form="κατὰ" lemma="κατά" postag="r--------" relation="AuxP" head="27"/>
+    <word id="29" ref="HARR|Septuag|70|29" form="τὸν" lemma="ὁ" postag="l-s---ma-" relation="ATR" head="30"/>
+    <word id="30" ref="HARR|Septuag|70|30" form="νόμον" lemma="νόμος" postag="n-s---ma-" relation="OBJ" head="28" sem="harrington_orientation"/>
+    <word id="31" ref="HARR|Septuag|70|31" form="Μωυσῆ" lemma="Μωϋσῆς" postag="n-s---mg-" relation="ATR" head="30" sem="possessor"/>
+    <word id="32" ref="HARR|Septuag|70|32" form="," lemma="," postag="u--------" relation="AuxX" head="23"/>
+    <word id="33" ref="HARR|Septuag|70|33" form="καὶ" lemma="καί" postag="b--------" relation="COORD" head="0"/>
+    <word id="34" ref="HARR|Septuag|70|34" form="ἀπέκτειναν" lemma="ἀποκτείνω" postag="v3paia---" relation="PRED_CO" head="33"/>
+    <word id="35" ref="HARR|Septuag|70|35" form="αὐτούς" lemma="αὐτός" postag="p-p---ma-" relation="OBJ" head="34"/>
+    <word id="36" ref="HARR|Septuag|70|36" form="·" lemma="·" postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+  <sentence id="71" ref="HARR|Septuag|71" document_id="0527-055" subdoc="71">
+    <word id="1" ref="HARR|Septuag|71|1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="2"/>
+    <word id="2" ref="HARR|Septuag|71|2" form="ἐσώθη" lemma="σῴζω" postag="v3saip---" relation="PRED" head="0"/>
+    <word id="3" ref="HARR|Septuag|71|3" form="αἷμα" lemma="αἷμα" postag="n-s---nn-" relation="SBJ" head="2"/>
+    <word id="4" ref="HARR|Septuag|71|4" form="ἀναίτιον" lemma="ἀναίτιος" postag="a-s---nn-" relation="ATR" head="3"/>
+    <word id="5" ref="HARR|Septuag|71|5" form="ἐν" lemma="ἐν" postag="r--------" relation="AuxP" head="2"/>
+    <word id="6" ref="HARR|Septuag|71|6" form="τῇ" lemma="ὁ" postag="l-s---fd-" relation="ATR" head="7"/>
+    <word id="7" ref="HARR|Septuag|71|7" form="ἡμέρᾳ" lemma="ἡμέρα" postag="n-s---fd-" relation="ADV" head="5" sem="location"/>
+    <word id="8" ref="HARR|Septuag|71|8" form="ἐκείνῃ" lemma="ἐκεῖνος" postag="p-s---fd-" relation="PNOM" head="7"/>
+    <word id="9" ref="HARR|Septuag|71|9" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+  <sentence id="72" ref="HARR|Septuag|72" document_id="0527-055" subdoc="72">
+    <word id="1" ref="HARR|Septuag|72|1" form="Χελκιας" lemma="Χελκιας" postag="n-s---mn-" relation="SBJ_CO" head="3"/>
+    <word id="2" ref="HARR|Septuag|72|2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="7"/>
+    <word id="3" ref="HARR|Septuag|72|3" form="καὶ" lemma="καί" postag="b--------" relation="COORD" head="7"/>
+    <word id="4" ref="HARR|Septuag|72|4" form="ἡ" lemma="ὁ" postag="l-s---fn-" relation="ATR" head="5"/>
+    <word id="5" ref="HARR|Septuag|72|5" form="γυνὴ" lemma="γυνή" postag="n-s---fn-" relation="SBJ_CO" head="3"/>
+    <word id="6" ref="HARR|Septuag|72|6" form="αὐτοῦ" lemma="αὐτός" postag="p-s---mg-" relation="ATR" head="5" sem="possessor"/>
+    <word id="7" ref="HARR|Septuag|72|7" form="ᾔνεσαν" lemma="αἰνέω" postag="v3paia---" relation="PRED" head="0"/>
+    <word id="8" ref="HARR|Septuag|72|8" form="τὸν" lemma="ὁ" postag="l-s---ma-" relation="ATR" head="9"/>
+    <word id="9" ref="HARR|Septuag|72|9" form="θεὸν" lemma="θεός" postag="n-s---ma-" relation="OBJ" head="7"/>
+    <word id="10" ref="HARR|Septuag|72|10" form="περὶ" lemma="περί" postag="r--------" relation="AuxP" head="7"/>
+    <word id="11" ref="HARR|Septuag|72|11" form="τῆς" lemma="ὁ" postag="l-s---fg-" relation="ATR" head="12"/>
+    <word id="12" ref="HARR|Septuag|72|12" form="θυγατρὸς" lemma="θυγάτηρ" postag="n-s---fg-" relation="OBJ" head="10" sem="harrington_orientation"/>
+    <word id="13" ref="HARR|Septuag|72|13" form="αὐτῶν" lemma="αὐτός" postag="p-p---mg-" relation="ATR" head="12" sem="possessor"/>
+    <word id="14" ref="HARR|Septuag|72|14" form="Σουσαννας" lemma="Σουσάννα" postag="n-s---fg-" relation="APOS" head="12" sem="harrington_orientation"/>
+    <word id="15" ref="HARR|Septuag|72|15" form="μετὰ" lemma="μετά" postag="r--------" relation="AuxP" head="7"/>
+    <word id="16" ref="HARR|Septuag|72|16" form="Ιωακιμ" lemma="Ιωακιμ" postag="n-s---mg-" relation="ADV" head="22" sem="companion"/>
+    <word id="17" ref="HARR|Septuag|72|17" form="τοῦ" lemma="ὁ" postag="l-s---mg-" relation="ATR" head="18"/>
+    <word id="18" ref="HARR|Septuag|72|18" form="ἀνδρὸς" lemma="ἀνήρ" postag="n-s---mg-" relation="APOS" head="16" sem="companion"/>
+    <word id="19" ref="HARR|Septuag|72|19" form="αὐτῆς" lemma="αὐτός" postag="p-s---fg-" relation="ATR" head="18" sem="possessor"/>
+    <word id="20" ref="HARR|Septuag|72|20" form="καὶ" lemma="καί" postag="b--------" relation="AuxY" head="22"/>
+    <word id="21" ref="HARR|Septuag|72|21" form="τῶν" lemma="ὁ" postag="l-p---mg-" relation="ATR" head="22"/>
+    <word id="22" ref="HARR|Septuag|72|22" form="συγγενῶν" lemma="συγγενής" postag="a-p---mg-" relation="ADV" head="15" sem="companion"/>
+    <word id="23" ref="HARR|Septuag|72|23" form="πάντων" lemma="πᾶς" postag="a-p---mg-" relation="ATR" head="22"/>
+    <word id="24" ref="HARR|Septuag|72|24" form="," lemma="," postag="u--------" relation="AuxX" head="27"/>
+    <word id="25" ref="HARR|Septuag|72|25" form="ὅτι" lemma="ὅτι" postag="c--------" relation="AuxC" head="7"/>
+    <word id="26" ref="HARR|Septuag|72|26" form="οὐχ" lemma="οὐ" postag="d--------" relation="AuxY" head="27"/>
+    <word id="27" ref="HARR|Septuag|72|27" form="εὑρέθη" lemma="εὑρίσκω" postag="v3saip---" relation="ADV" head="25" sem="cause"/>
+    <word id="28" ref="HARR|Septuag|72|28" form="ἐν" lemma="ἐν" postag="r--------" relation="AuxP" head="27"/>
+    <word id="29" ref="HARR|Septuag|72|29" form="αὐτῇ" lemma="αὐτός" postag="p-s---fd-" relation="ADV" head="28" sem="location"/>
+    <word id="30" ref="HARR|Septuag|72|30" form="ἄσχημον" lemma="ἄσχημος" postag="a-s---nn-" relation="ATR" head="31"/>
+    <word id="31" ref="HARR|Septuag|72|31" form="πρᾶγμα" lemma="πρᾶγμα" postag="n-s---nn-" relation="SBJ" head="27"/>
+    <word id="32" ref="HARR|Septuag|72|32" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+  <sentence id="73" ref="HARR|Septuag|73" document_id="0527-055" subdoc="73">
+    <word id="1" ref="HARR|Septuag|73|1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="3"/>
+    <word id="2" ref="HARR|Septuag|73|2" form="Δανιηλ" lemma="Δανιήλ" postag="n-s---mn-" relation="SBJ" head="3"/>
+    <word id="3" ref="HARR|Septuag|73|3" form="ἐγένετο" lemma="γίγνομαι" postag="v3saim---" relation="PRED" head="0"/>
+    <word id="4" ref="HARR|Septuag|73|4" form="μέγας" lemma="μέγας" postag="a-s---mn-" relation="PNOM" head="3"/>
+    <word id="5" ref="HARR|Septuag|73|5" form="ἐνώπιον" lemma="ἐνώπιον" postag="r--------" relation="AuxP" head="3"/>
+    <word id="6" ref="HARR|Septuag|73|6" form="τοῦ" lemma="ὁ" postag="l-s---mg-" relation="ATR" head="7"/>
+    <word id="7" ref="HARR|Septuag|73|7" form="λαοῦ" lemma="λαός" postag="n-s---mg-" relation="ADV" head="5" sem="possessor"/>
+    <word id="8" ref="HARR|Septuag|73|8" form="ἀπὸ" lemma="ἀπό" postag="r--------" relation="AuxP" head="12"/>
+    <word id="9" ref="HARR|Septuag|73|9" form="τῆς" lemma="ὁ" postag="l-s---fg-" relation="ATR" head="10"/>
+    <word id="10" ref="HARR|Septuag|73|10" form="ἡμέρας" lemma="ἡμέρα" postag="n-s---fg-" relation="ADV_CO" head="8" sem="harrington_orientation"/>
+    <word id="11" ref="HARR|Septuag|73|11" form="ἐκείνης" lemma="ἐκεῖνος" postag="p-s---fg-" relation="ATR" head="10"/>
+    <word id="12" ref="HARR|Septuag|73|12" form="καὶ" lemma="καί" postag="b--------" relation="COORD" head="3"/>
+    <word id="13" ref="HARR|Septuag|73|13" form="ἐπέκεινα" lemma="ἐπέκεινα" postag="d--------" relation="ADV_CO" head="12"/>
+    <word id="14" ref="HARR|Septuag|73|14" form="." lemma="." postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+</treebank>
