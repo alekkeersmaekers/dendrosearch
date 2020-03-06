@@ -1,6 +1,7 @@
 # DendroSearch
 A query tool for Ancient Greek Treebanks. Instructions can be found in the user guide. The treebanks included are from the following projects (including some corrections made by Toon Van Hal and me):
 * The [Ancient Greek Dependency Treebanks](https://github.com/PerseusDL/treebank_data), managed by Giuseppe G. A. Celano, Gregory Crane, Bridget Almas and others.
+* The [PROIEL treebanks](https://github.com/proiel/proiel-treebank), managed by Dag Haug and Marius Jøhndal. The files included are an automatic conversion to the style of the Ancient Greek Dependency Treebanks. Some constructions might not be converted properly, so be wary when using these files!
 * The [Gorman Trees](https://github.com/perseids-publications/gorman-trees), created by Vanessa Gorman.
 * The [Harrington Trees](https://github.com/perseids-project/harrington_trees), managed by J. M. Harrington.
 * [Aphthonius' Progymnasmata](https://github.com/polinayordanova/Treebank-of-Aphtonius-Progymnasmata), created by Polina Yordanova.
